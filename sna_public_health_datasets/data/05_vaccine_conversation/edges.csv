@@ -1,0 +1,2565 @@
+source,target,weight,quote_posts,first_day,last_day,share_low_credibility,main_topic
+A098,A242,7,0,63,90,0.89,vaccine safety
+A259,A349,8,1,24,49,0.8,school exemptions
+A167,A375,3,0,13,48,0.08,vaccine safety
+A355,A273,1,0,14,14,0.06,outbreak updates
+A298,A300,3,0,7,39,0.03,vaccine safety
+A468,A290,7,0,49,68,0.81,natural immunity
+A079,A155,6,0,71,90,0.58,vaccine safety
+A421,A025,3,0,68,90,0.22,school exemptions
+A334,A445,3,0,63,71,0.06,school exemptions
+A146,A195,1,0,46,46,0.09,outbreak updates
+A472,A340,4,1,13,35,0.0,where to get vaccinated
+A117,A498,3,0,49,88,0.04,outbreak updates
+A270,A255,2,0,21,33,0.02,outbreak updates
+A015,A198,1,1,31,31,0.02,school exemptions
+A330,A466,18,0,26,27,0.36,natural immunity
+A304,A445,4,0,29,32,0.1,school exemptions
+A298,A319,3,0,25,57,0.0,school exemptions
+A278,A466,10,1,60,75,0.33,vaccine safety
+A216,A143,1,1,42,42,0.0,vaccine safety
+A313,A410,1,0,6,6,0.0,school exemptions
+A456,A287,1,0,44,44,0.0,outbreak updates
+A343,A349,14,0,48,52,0.84,school exemptions
+A146,A341,5,1,23,50,0.0,vaccine safety
+A283,A440,3,0,37,60,0.03,vaccine safety
+A463,A446,2,0,58,67,0.07,outbreak updates
+A279,A126,4,0,22,58,0.07,outbreak updates
+A475,A362,1,1,32,32,0.0,vaccine safety
+A329,A284,3,1,46,60,0.02,vaccine safety
+A011,A245,4,1,69,89,0.63,natural immunity
+A205,A222,6,1,49,60,0.69,natural immunity
+A156,A445,1,0,16,16,0.0,school exemptions
+A027,A361,3,0,24,37,0.67,school exemptions
+A196,A236,10,1,26,65,0.64,vaccine safety
+A327,A345,2,0,72,90,0.47,school exemptions
+A349,A424,3,0,21,54,0.62,natural immunity
+A105,A445,2,0,22,32,0.09,outbreak updates
+A326,A417,2,0,23,30,0.02,where to get vaccinated
+A467,A205,12,2,69,90,0.65,school exemptions
+A261,A098,4,0,58,61,0.92,vaccine safety
+A267,A170,2,0,69,72,0.1,outbreak updates
+A416,A084,2,0,60,90,0.08,vaccine safety
+A245,A369,2,0,24,60,0.03,school exemptions
+A100,A294,3,0,59,88,0.4,natural immunity
+A124,A146,1,0,34,34,0.07,vaccine safety
+A441,A265,1,0,69,69,0.43,vaccine safety
+A220,A409,2,0,14,24,0.0,where to get vaccinated
+A155,A290,4,1,1,13,0.86,school exemptions
+A223,A480,3,0,5,12,0.02,vaccine safety
+A442,A234,4,1,11,11,0.51,vaccine safety
+A155,A142,3,0,18,26,0.44,vaccine safety
+A455,A387,1,0,15,15,0.03,outbreak updates
+A126,A266,2,0,6,28,0.12,outbreak updates
+A236,A394,5,1,74,90,0.91,natural immunity
+A318,A256,2,0,44,48,0.06,school exemptions
+A424,A499,3,0,29,32,0.83,school exemptions
+A078,A478,1,1,54,54,0.0,vaccine safety
+A236,A419,2,1,3,14,0.67,school exemptions
+A020,A466,17,4,50,73,0.31,natural immunity
+A055,A256,3,0,61,71,0.17,outbreak updates
+A279,A435,5,0,11,14,0.0,outbreak updates
+A397,A265,1,1,33,33,0.38,natural immunity
+A467,A218,6,1,37,67,1.0,school exemptions
+A304,A195,1,0,17,17,0.01,outbreak updates
+A120,A389,4,0,49,79,0.0,outbreak updates
+A475,A445,1,0,5,5,0.01,outbreak updates
+A386,A071,2,0,68,79,0.01,vaccine safety
+A238,A114,3,1,1,16,0.06,vaccine safety
+A256,A240,2,0,43,60,0.1,outbreak updates
+A065,A025,2,0,44,74,0.19,vaccine safety
+A142,A393,3,1,31,69,0.46,school exemptions
+A095,A369,1,0,67,67,0.06,school exemptions
+A211,A284,1,1,13,13,0.0,where to get vaccinated
+A344,A079,3,0,49,67,0.84,vaccine safety
+A461,A419,2,0,17,17,0.79,natural immunity
+A095,A285,1,0,21,21,0.0,where to get vaccinated
+A022,A319,1,0,10,10,0.03,outbreak updates
+A259,A099,11,3,5,5,0.85,vaccine safety
+A487,A066,2,0,32,63,0.06,outbreak updates
+A045,A463,5,0,34,49,0.03,outbreak updates
+A148,A192,3,0,36,70,0.05,where to get vaccinated
+A433,A279,2,0,62,76,0.09,school exemptions
+A095,A435,8,0,4,38,0.02,where to get vaccinated
+A320,A295,2,0,68,82,0.05,where to get vaccinated
+A329,A347,2,0,20,57,0.06,vaccine safety
+A264,A345,1,0,67,67,0.47,vaccine safety
+A132,A142,3,1,56,85,0.4,natural immunity
+A367,A240,1,1,44,44,0.0,outbreak updates
+A443,A426,1,0,16,16,0.06,vaccine safety
+A312,A347,2,0,34,38,0.0,vaccine safety
+A122,A020,10,0,72,81,0.72,school exemptions
+A227,A290,11,2,3,36,0.75,school exemptions
+A158,A446,2,0,66,90,0.1,where to get vaccinated
+A308,A019,1,0,30,30,0.0,natural immunity
+A122,A155,5,0,36,47,0.54,school exemptions
+A313,A445,2,0,57,83,0.04,school exemptions
+A278,A098,5,1,8,34,0.83,school exemptions
+A468,A286,8,2,6,13,0.75,school exemptions
+A056,A361,3,0,25,45,0.66,school exemptions
+A122,A499,8,1,9,35,0.82,natural immunity
+A330,A122,6,1,17,36,0.65,school exemptions
+A494,A088,2,1,20,24,0.07,outbreak updates
+A424,A179,5,0,55,81,1.0,natural immunity
+A219,A340,1,0,21,21,0.0,where to get vaccinated
+A099,A242,11,0,36,42,0.84,school exemptions
+A468,A466,34,2,34,61,0.44,natural immunity
+A004,A498,2,2,76,90,0.01,outbreak updates
+A365,A304,1,0,61,61,0.0,outbreak updates
+A233,A341,4,0,19,34,0.01,vaccine safety
+A201,A340,1,0,62,62,0.03,outbreak updates
+A368,A340,2,1,53,55,0.0,where to get vaccinated
+A354,A215,3,0,64,89,0.12,outbreak updates
+A122,A254,21,2,25,46,0.43,vaccine safety
+A332,A326,3,0,7,15,0.01,vaccine safety
+A247,A195,1,1,33,33,0.12,outbreak updates
+A054,A084,1,0,69,69,0.03,vaccine safety
+A477,A271,1,0,53,53,0.12,natural immunity
+A072,A410,1,0,53,53,0.0,school exemptions
+A439,A146,1,1,40,40,0.04,where to get vaccinated
+A015,A140,5,0,2,4,0.79,vaccine safety
+A188,A087,3,0,59,86,0.0,where to get vaccinated
+A379,A311,2,0,7,32,0.05,where to get vaccinated
+A149,A499,3,0,48,71,0.79,school exemptions
+A020,A344,9,1,64,90,0.75,natural immunity
+A073,A342,1,0,41,41,0.0,outbreak updates
+A489,A228,2,0,41,79,0.0,outbreak updates
+A278,A371,6,2,69,90,0.73,natural immunity
+A343,A278,14,0,70,84,0.92,school exemptions
+A321,A282,3,0,15,45,0.36,vaccine safety
+A302,A218,10,2,79,84,0.98,natural immunity
+A302,A227,12,2,22,43,0.59,natural immunity
+A191,A347,3,0,72,90,0.0,where to get vaccinated
+A286,A218,8,0,62,90,0.86,school exemptions
+A421,A234,4,1,25,42,0.41,vaccine safety
+A242,A259,10,0,8,9,0.8,school exemptions
+A296,A240,3,0,4,24,0.0,school exemptions
+A087,A195,1,0,61,61,0.16,outbreak updates
+A330,A179,12,0,53,84,0.95,school exemptions
+A199,A264,2,1,67,89,0.42,school exemptions
+A311,A360,2,0,68,90,0.17,outbreak updates
+A467,A099,4,0,77,90,0.9,natural immunity
+A094,A341,2,0,29,49,0.02,where to get vaccinated
+A486,A131,1,0,59,59,0.0,school exemptions
+A207,A226,3,0,62,71,0.16,outbreak updates
+A268,A267,4,0,55,90,0.02,outbreak updates
+A267,A498,1,0,42,42,0.02,school exemptions
+A385,A007,1,1,45,45,0.05,where to get vaccinated
+A099,A147,3,1,13,50,0.85,school exemptions
+A251,A290,9,0,50,57,0.82,school exemptions
+A322,A400,1,0,6,6,0.0,where to get vaccinated
+A227,A254,10,1,28,66,0.51,school exemptions
+A008,A474,4,0,32,70,0.13,outbreak updates
+A410,A384,2,0,39,45,0.03,where to get vaccinated
+A024,A445,3,0,65,65,0.0,outbreak updates
+A097,A347,2,0,36,64,0.0,where to get vaccinated
+A455,A375,3,0,16,55,0.0,where to get vaccinated
+A201,A307,3,0,15,52,0.02,where to get vaccinated
+A071,A144,1,0,75,75,0.08,outbreak updates
+A412,A179,7,0,78,90,0.94,natural immunity
+A209,A211,2,0,74,85,0.04,outbreak updates
+A312,A287,1,0,68,68,0.0,outbreak updates
+A195,A084,2,0,57,74,0.0,vaccine safety
+A186,A466,2,0,54,89,0.4,vaccine safety
+A246,A293,2,1,34,71,0.0,where to get vaccinated
+A396,A347,1,0,23,23,0.0,outbreak updates
+A398,A450,12,1,53,54,1.0,school exemptions
+A499,A349,20,1,74,84,0.76,vaccine safety
+A344,A290,5,2,26,34,0.91,school exemptions
+A093,A144,2,0,54,54,0.05,where to get vaccinated
+A402,A495,2,0,77,84,0.25,natural immunity
+A190,A341,1,0,56,56,0.08,where to get vaccinated
+A309,A445,3,0,73,74,0.0,school exemptions
+A252,A088,3,1,59,81,0.01,school exemptions
+A307,A182,2,0,18,39,0.02,outbreak updates
+A126,A416,2,1,7,27,0.01,vaccine safety
+A188,A255,1,0,9,9,0.0,outbreak updates
+A428,A222,13,0,59,90,0.77,natural immunity
+A303,A240,4,0,56,77,0.0,outbreak updates
+A135,A144,4,0,9,35,0.01,where to get vaccinated
+A450,A466,32,1,48,50,0.34,vaccine safety
+A095,A340,1,0,57,57,0.0,vaccine safety
+A451,A088,1,0,56,56,0.0,outbreak updates
+A218,A290,10,2,11,35,0.84,natural immunity
+A446,A226,2,0,39,57,0.03,school exemptions
+A026,A073,3,0,57,72,0.08,outbreak updates
+A417,A014,4,0,7,21,0.08,vaccine safety
+A439,A301,2,1,56,58,0.0,where to get vaccinated
+A290,A015,1,0,24,24,0.49,natural immunity
+A047,A347,2,1,35,42,0.04,outbreak updates
+A416,A007,2,0,22,50,0.15,vaccine safety
+A260,A276,1,0,21,21,0.27,natural immunity
+A261,A344,9,0,28,44,0.63,school exemptions
+A239,A347,2,0,48,85,0.02,outbreak updates
+A466,A206,3,0,72,76,0.5,school exemptions
+A228,A347,2,1,69,89,0.0,outbreak updates
+A126,A287,1,1,7,7,0.0,where to get vaccinated
+A314,A150,1,0,6,6,0.56,vaccine safety
+A435,A300,3,0,12,37,0.04,vaccine safety
+A443,A324,1,0,78,78,0.07,outbreak updates
+A428,A466,10,1,75,87,0.37,vaccine safety
+A171,A333,2,0,2,33,0.0,vaccine safety
+A119,A345,3,1,6,17,0.54,vaccine safety
+A500,A145,2,0,67,90,0.14,natural immunity
+A078,A234,3,0,60,80,0.41,natural immunity
+A323,A345,1,0,72,72,0.51,school exemptions
+A060,A032,2,0,10,35,0.06,outbreak updates
+A428,A254,21,3,73,81,0.55,natural immunity
+A292,A303,1,0,59,59,0.13,vaccine safety
+A236,A039,2,0,38,42,0.53,natural immunity
+A278,A251,9,0,47,54,0.84,vaccine safety
+A108,A373,2,0,45,63,0.31,natural immunity
+A031,A233,2,0,68,90,0.0,outbreak updates
+A096,A225,1,0,67,67,0.37,natural immunity
+A432,A234,1,0,6,6,0.45,school exemptions
+A468,A218,11,1,60,83,0.94,natural immunity
+A421,A445,3,0,55,77,0.0,school exemptions
+A295,A157,4,0,49,64,0.0,outbreak updates
+A159,A195,2,1,73,90,0.0,outbreak updates
+A011,A088,1,0,59,59,0.02,outbreak updates
+A356,A062,2,0,7,19,0.15,vaccine safety
+A440,A462,3,0,48,48,0.05,where to get vaccinated
+A017,A240,1,0,66,66,0.0,outbreak updates
+A192,A347,3,0,17,21,0.0,outbreak updates
+A084,A347,4,0,79,90,0.0,outbreak updates
+A169,A159,1,0,47,47,0.0,vaccine safety
+A182,A159,5,0,28,38,0.0,outbreak updates
+A177,A058,1,0,69,69,0.05,vaccine safety
+A231,A341,5,0,17,53,0.0,outbreak updates
+A396,A219,3,0,49,67,0.05,vaccine safety
+A353,A262,1,0,57,57,0.01,vaccine safety
+A469,A446,2,2,51,69,0.02,vaccine safety
+A432,A341,1,0,77,77,0.05,where to get vaccinated
+A336,A445,3,0,14,14,0.09,school exemptions
+A413,A466,34,4,7,16,0.35,vaccine safety
+A234,A445,4,0,2,18,0.08,school exemptions
+A467,A098,10,1,49,49,0.83,school exemptions
+A114,A200,3,0,13,21,0.13,outbreak updates
+A188,A498,3,0,47,82,0.01,outbreak updates
+A415,A311,2,0,72,76,0.0,where to get vaccinated
+A348,A146,1,0,65,65,0.05,vaccine safety
+A428,A149,6,0,16,19,0.78,natural immunity
+A281,A139,3,0,60,79,0.0,outbreak updates
+A035,A254,1,0,12,12,0.42,vaccine safety
+A083,A004,2,0,52,76,0.59,natural immunity
+A064,A224,1,0,1,1,0.0,natural immunity
+A213,A066,4,1,18,48,0.05,vaccine safety
+A110,A347,2,0,62,85,0.0,where to get vaccinated
+A466,A380,1,1,66,66,0.05,school exemptions
+A382,A426,1,0,54,54,0.0,where to get vaccinated
+A242,A424,9,1,44,64,0.79,natural immunity
+A482,A294,2,0,44,48,0.39,school exemptions
+A225,A445,2,0,11,48,0.09,school exemptions
+A139,A109,3,0,19,20,0.0,school exemptions
+A394,A466,31,4,28,33,0.41,school exemptions
+A173,A117,2,0,74,77,0.0,school exemptions
+A425,A234,1,0,22,22,0.39,school exemptions
+A173,A144,2,0,27,54,0.03,where to get vaccinated
+A293,A195,2,1,73,90,0.05,school exemptions
+A361,A345,1,0,22,22,0.47,vaccine safety
+A468,A149,17,1,45,78,0.82,natural immunity
+A080,A131,1,0,54,54,0.0,outbreak updates
+A485,A475,2,0,37,68,0.37,natural immunity
+A499,A099,3,0,44,50,0.84,vaccine safety
+A236,A196,4,0,26,52,0.96,natural immunity
+A132,A394,7,0,45,72,0.91,school exemptions
+A185,A387,1,1,61,61,0.07,where to get vaccinated
+A225,A226,2,0,56,77,0.06,school exemptions
+A205,A290,22,2,61,88,0.92,school exemptions
+A420,A306,1,0,45,45,0.02,vaccine safety
+A101,A053,2,1,46,72,0.44,natural immunity
+A188,A266,1,0,73,73,0.0,vaccine safety
+A070,A340,3,0,74,79,0.05,where to get vaccinated
+A317,A435,2,0,29,32,0.0,vaccine safety
+A115,A007,4,0,24,53,0.11,outbreak updates
+A167,A029,1,0,48,48,0.04,school exemptions
+A361,A186,4,0,70,90,0.55,vaccine safety
+A499,A218,7,0,43,61,0.95,vaccine safety
+A451,A435,1,0,18,18,0.0,vaccine safety
+A359,A426,4,0,38,43,0.02,where to get vaccinated
+A352,A445,3,0,18,47,0.04,outbreak updates
+A500,A015,1,0,73,73,0.38,natural immunity
+A059,A004,2,0,44,50,0.62,vaccine safety
+A446,A296,2,0,3,20,0.0,school exemptions
+A218,A394,12,1,53,66,0.89,school exemptions
+A384,A416,3,0,14,43,0.0,outbreak updates
+A450,A290,6,0,2,4,0.9,vaccine safety
+A205,A413,4,0,64,90,0.76,school exemptions
+A309,A498,2,0,60,78,0.0,school exemptions
+A466,A083,2,0,56,80,0.53,natural immunity
+A468,A424,9,0,47,54,0.67,natural immunity
+A009,A340,1,0,1,1,0.0,outbreak updates
+A299,A088,4,0,7,10,0.0,outbreak updates
+A108,A296,1,0,60,60,0.07,school exemptions
+A235,A284,2,0,53,71,0.0,vaccine safety
+A402,A234,3,0,68,90,0.35,vaccine safety
+A079,A222,5,0,4,43,0.65,vaccine safety
+A309,A431,1,0,78,78,0.36,natural immunity
+A252,A073,4,1,52,83,0.02,school exemptions
+A235,A123,4,0,59,89,0.0,vaccine safety
+A283,A347,3,0,77,90,0.1,where to get vaccinated
+A323,A113,2,0,56,86,0.27,natural immunity
+A038,A345,1,0,9,9,0.51,school exemptions
+A263,A312,4,0,65,73,0.0,where to get vaccinated
+A183,A393,2,0,21,57,0.53,vaccine safety
+A205,A184,8,0,32,54,0.44,natural immunity
+A439,A347,2,0,67,90,0.11,where to get vaccinated
+A472,A213,4,0,13,48,0.0,outbreak updates
+A250,A163,3,0,79,90,0.19,school exemptions
+A199,A498,1,0,18,18,0.0,outbreak updates
+A271,A385,3,0,17,17,0.18,school exemptions
+A099,A251,13,0,12,34,0.78,vaccine safety
+A178,A421,3,0,14,52,0.18,school exemptions
+A341,A347,2,1,24,45,0.0,where to get vaccinated
+A036,A416,2,0,57,90,0.11,vaccine safety
+A241,A226,1,0,53,53,0.08,outbreak updates
+A101,A347,1,0,26,26,0.02,vaccine safety
+A428,A412,4,0,45,72,0.64,natural immunity
+A394,A261,4,0,11,50,0.78,school exemptions
+A227,A450,4,0,71,90,0.96,vaccine safety
+A158,A070,1,0,10,10,0.01,vaccine safety
+A230,A405,1,0,32,32,0.0,where to get vaccinated
+A343,A254,9,0,24,25,0.45,natural immunity
+A193,A345,1,1,48,48,0.44,school exemptions
+A349,A450,14,2,71,80,1.0,natural immunity
+A149,A122,6,1,29,67,0.68,natural immunity
+A439,A480,1,0,43,43,0.07,outbreak updates
+A344,A048,6,0,19,42,0.69,vaccine safety
+A428,A424,10,0,17,35,0.73,vaccine safety
+A065,A285,1,0,2,2,0.0,vaccine safety
+A056,A345,2,0,9,30,0.44,vaccine safety
+A248,A445,2,0,27,44,0.14,school exemptions
+A218,A155,8,0,50,76,0.6,natural immunity
+A053,A264,3,0,70,90,0.4,natural immunity
+A062,A077,3,0,33,51,0.12,outbreak updates
+A163,A328,1,0,59,59,0.18,school exemptions
+A113,A136,3,0,45,53,0.06,school exemptions
+A135,A040,2,0,44,57,0.0,vaccine safety
+A432,A025,1,0,65,65,0.07,school exemptions
+A021,A271,1,0,57,57,0.19,natural immunity
+A088,A200,2,0,56,79,0.04,outbreak updates
+A486,A089,3,0,73,83,0.0,vaccine safety
+A441,A345,3,0,32,38,0.49,natural immunity
+A376,A387,2,0,24,27,0.0,vaccine safety
+A001,A345,2,0,31,51,0.5,natural immunity
+A216,A445,3,0,50,52,0.0,school exemptions
+A097,A296,3,0,27,54,0.09,school exemptions
+A053,A195,1,1,60,60,0.12,outbreak updates
+A175,A464,1,0,21,21,0.05,outbreak updates
+A151,A150,2,0,20,46,0.58,school exemptions
+A394,A367,8,1,18,20,0.59,school exemptions
+A070,A146,2,0,12,16,0.07,outbreak updates
+A205,A132,5,0,43,70,0.68,vaccine safety
+A175,A445,1,0,66,66,0.13,school exemptions
+A079,A343,12,1,33,56,0.84,vaccine safety
+A220,A209,1,0,12,12,0.0,vaccine safety
+A387,A498,3,0,28,66,0.04,school exemptions
+A380,A073,1,0,10,10,0.02,outbreak updates
+A259,A330,9,0,7,36,0.94,vaccine safety
+A466,A100,2,0,20,32,0.65,natural immunity
+A243,A297,2,0,68,90,0.04,vaccine safety
+A432,A131,1,1,78,78,0.1,school exemptions
+A334,A498,1,0,39,39,0.0,outbreak updates
+A155,A020,8,0,5,15,0.76,natural immunity
+A444,A445,2,0,60,86,0.04,school exemptions
+A156,A195,1,0,11,11,0.11,school exemptions
+A224,A062,4,1,66,69,0.12,natural immunity
+A436,A293,4,0,17,49,0.01,outbreak updates
+A176,A144,1,0,50,50,0.0,where to get vaccinated
+A304,A341,4,0,55,73,0.08,outbreak updates
+A464,A340,1,0,68,68,0.0,vaccine safety
+A139,A433,1,1,20,20,0.15,school exemptions
+A317,A498,2,0,21,60,0.07,school exemptions
+A132,A155,8,0,44,76,0.6,vaccine safety
+A497,A159,1,0,8,8,0.05,vaccine safety
+A196,A286,10,1,17,56,0.76,vaccine safety
+A390,A466,3,0,16,24,0.29,vaccine safety
+A268,A466,1,0,36,36,0.32,natural immunity
+A413,A394,16,1,13,24,0.95,vaccine safety
+A424,A142,7,0,45,56,0.34,natural immunity
+A353,A312,2,0,9,20,0.08,where to get vaccinated
+A155,A450,9,2,39,77,1.0,school exemptions
+A349,A222,12,3,42,77,0.64,school exemptions
+A118,A345,2,0,7,44,0.42,school exemptions
+A236,A499,7,0,51,79,0.81,natural immunity
+A294,A328,2,0,14,42,0.13,vaccine safety
+A172,A192,3,0,70,90,0.0,vaccine safety
+A042,A445,3,2,74,90,0.02,outbreak updates
+A343,A394,6,0,77,90,0.89,vaccine safety
+A077,A334,3,0,11,48,0.0,outbreak updates
+A360,A387,1,0,42,42,0.02,where to get vaccinated
+A142,A053,1,0,10,10,0.45,natural immunity
+A088,A240,2,0,47,59,0.0,outbreak updates
+A447,A197,1,0,50,50,0.01,vaccine safety
+A381,A234,3,0,23,41,0.44,natural immunity
+A242,A099,12,1,51,82,0.82,vaccine safety
+A432,A488,1,0,51,51,0.54,natural immunity
+A177,A341,1,0,62,62,0.11,outbreak updates
+A122,A466,32,3,10,38,0.37,vaccine safety
+A214,A089,2,1,41,80,0.07,where to get vaccinated
+A147,A234,4,1,2,27,0.4,vaccine safety
+A465,A488,2,1,76,90,0.59,school exemptions
+A436,A347,2,0,19,51,0.0,outbreak updates
+A212,A347,6,2,73,86,0.02,outbreak updates
+A472,A347,2,0,63,80,0.01,vaccine safety
+A209,A407,2,0,76,90,0.1,where to get vaccinated
+A340,A423,2,0,33,50,0.03,where to get vaccinated
+A099,A254,5,1,8,21,0.42,vaccine safety
+A467,A367,8,1,68,82,0.66,school exemptions
+A103,A345,1,0,20,20,0.54,natural immunity
+A159,A146,2,0,58,67,0.0,outbreak updates
+A053,A141,3,0,60,77,0.63,natural immunity
+A098,A343,11,1,25,31,0.76,school exemptions
+A158,A195,3,0,51,55,0.04,outbreak updates
+A392,A234,4,0,77,90,0.45,school exemptions
+A039,A142,3,0,39,40,0.46,vaccine safety
+A233,A451,4,0,3,11,0.03,vaccine safety
+A175,A144,1,1,66,66,0.06,outbreak updates
+A049,A375,2,0,35,64,0.01,outbreak updates
+A499,A286,14,3,13,15,0.87,natural immunity
+A086,A345,4,0,7,28,0.56,natural immunity
+A009,A066,3,0,78,90,0.14,vaccine safety
+A020,A278,20,2,44,60,0.86,natural immunity
+A020,A450,4,1,11,29,0.99,natural immunity
+A254,A466,2,0,68,77,0.32,natural immunity
+A145,A272,2,0,67,90,0.52,vaccine safety
+A484,A345,2,0,11,24,0.52,vaccine safety
+A238,A215,3,1,51,62,0.0,outbreak updates
+A452,A287,2,0,27,48,0.04,outbreak updates
+A239,A195,2,0,61,86,0.15,school exemptions
+A021,A131,1,0,67,67,0.03,school exemptions
+A029,A133,2,0,56,90,0.0,outbreak updates
+A087,A403,3,0,56,80,0.0,vaccine safety
+A146,A279,2,0,51,52,0.1,school exemptions
+A499,A254,11,1,55,69,0.42,school exemptions
+A335,A347,1,1,62,62,0.01,vaccine safety
+A281,A007,1,0,13,13,0.1,where to get vaccinated
+A348,A116,2,0,17,56,0.02,outbreak updates
+A084,A007,4,0,38,65,0.07,outbreak updates
+A488,A433,1,0,13,13,0.12,school exemptions
+A457,A336,1,0,32,32,0.2,natural immunity
+A346,A141,2,1,29,31,0.63,natural immunity
+A308,A342,2,0,26,29,0.0,outbreak updates
+A261,A413,7,0,67,90,0.8,natural immunity
+A478,A188,3,0,71,89,0.0,outbreak updates
+A086,A026,1,0,66,66,0.22,vaccine safety
+A350,A445,1,0,38,38,0.06,outbreak updates
+A479,A138,1,0,41,41,0.08,outbreak updates
+A251,A428,12,0,15,32,0.75,school exemptions
+A428,A048,12,2,40,71,0.74,natural immunity
+A339,A341,2,0,57,90,0.04,vaccine safety
+A122,A149,16,2,13,17,0.91,vaccine safety
+A156,A234,4,0,5,33,0.47,vaccine safety
+A114,A144,3,1,35,40,0.03,where to get vaccinated
+A259,A499,7,0,15,21,0.74,natural immunity
+A158,A347,3,0,58,65,0.07,where to get vaccinated
+A003,A340,2,0,75,90,0.0,outbreak updates
+A045,A195,1,0,33,33,0.15,outbreak updates
+A316,A191,2,1,45,75,0.12,outbreak updates
+A287,A347,3,0,78,90,0.0,outbreak updates
+A321,A125,1,1,9,9,0.04,vaccine safety
+A254,A370,1,0,66,66,0.28,natural immunity
+A146,A326,1,0,1,1,0.09,outbreak updates
+A218,A367,9,0,52,53,0.55,natural immunity
+A041,A216,1,0,13,13,0.26,vaccine safety
+A463,A029,2,0,5,40,0.07,school exemptions
+A033,A267,1,0,72,72,0.05,school exemptions
+A251,A278,4,0,4,21,0.83,vaccine safety
+A193,A143,2,0,4,25,0.05,vaccine safety
+A176,A345,2,0,65,67,0.5,vaccine safety
+A249,A152,1,1,57,57,0.0,where to get vaccinated
+A381,A248,3,0,55,64,0.01,outbreak updates
+A269,A233,3,0,9,12,0.07,school exemptions
+A141,A174,2,0,29,51,0.66,natural immunity
+A164,A279,2,1,16,41,0.0,outbreak updates
+A186,A361,2,0,76,85,0.6,natural immunity
+A043,A341,1,0,15,15,0.08,where to get vaccinated
+A048,A394,10,2,18,27,0.89,vaccine safety
+A347,A202,3,0,57,83,0.0,outbreak updates
+A468,A330,4,0,64,89,1.0,school exemptions
+A230,A347,3,0,43,45,0.01,vaccine safety
+A385,A156,4,0,29,39,0.19,school exemptions
+A465,A131,1,0,54,54,0.07,outbreak updates
+A122,A290,3,1,28,66,0.82,school exemptions
+A098,A222,5,0,55,60,0.65,vaccine safety
+A174,A264,2,0,11,50,0.33,vaccine safety
+A014,A293,1,0,29,29,0.02,outbreak updates
+A453,A189,3,1,64,66,0.06,vaccine safety
+A428,A227,6,1,47,69,0.63,school exemptions
+A179,A251,8,1,60,90,0.77,natural immunity
+A264,A361,5,0,36,68,0.6,natural immunity
+A452,A360,3,0,4,24,0.0,where to get vaccinated
+A419,A050,1,0,2,2,0.03,where to get vaccinated
+A469,A088,2,0,58,87,0.0,school exemptions
+A174,A500,2,0,56,56,0.48,vaccine safety
+A251,A099,11,0,42,80,0.84,natural immunity
+A387,A144,1,0,41,41,0.11,outbreak updates
+A432,A375,3,2,27,36,0.03,outbreak updates
+A131,A279,2,1,75,83,0.0,school exemptions
+A030,A174,1,0,66,66,0.59,vaccine safety
+A155,A251,8,0,20,55,0.79,school exemptions
+A230,A275,2,0,13,31,0.04,where to get vaccinated
+A302,A466,22,2,1,31,0.46,vaccine safety
+A400,A341,3,0,65,90,0.04,outbreak updates
+A166,A159,2,0,23,62,0.09,outbreak updates
+A139,A144,5,0,3,4,0.09,where to get vaccinated
+A037,A445,2,1,13,49,0.08,school exemptions
+A424,A079,14,1,64,90,0.88,vaccine safety
+A038,A264,3,1,62,75,0.42,vaccine safety
+A465,A053,2,0,34,42,0.49,vaccine safety
+A182,A300,2,0,75,81,0.12,where to get vaccinated
+A301,A175,3,0,62,68,0.0,outbreak updates
+A255,A410,3,0,54,72,0.0,school exemptions
+A120,A340,3,1,60,90,0.02,where to get vaccinated
+A227,A398,10,2,43,76,0.73,natural immunity
+A196,A466,39,4,46,55,0.46,school exemptions
+A344,A205,5,0,54,83,0.75,school exemptions
+A009,A263,1,0,76,76,0.06,where to get vaccinated
+A436,A051,3,1,36,48,0.05,outbreak updates
+A126,A067,2,1,65,90,0.11,vaccine safety
+A259,A254,7,0,73,90,0.52,natural immunity
+A205,A499,3,1,59,90,0.72,vaccine safety
+A015,A345,1,0,33,33,0.61,school exemptions
+A469,A207,2,0,66,88,0.15,school exemptions
+A124,A347,1,0,56,56,0.0,vaccine safety
+A205,A242,14,0,34,69,0.8,school exemptions
+A318,A208,2,1,12,21,0.24,natural immunity
+A169,A341,4,0,49,60,0.1,where to get vaccinated
+A490,A146,1,0,61,61,0.04,vaccine safety
+A313,A304,2,0,5,24,0.02,outbreak updates
+A126,A375,2,0,47,80,0.0,outbreak updates
+A034,A387,2,0,29,60,0.04,vaccine safety
+A239,A445,3,0,25,53,0.0,outbreak updates
+A290,A251,5,1,65,87,0.79,vaccine safety
+A046,A250,2,0,54,85,0.62,school exemptions
+A202,A226,4,1,69,86,0.03,outbreak updates
+A243,A347,3,0,73,82,0.0,vaccine safety
+A291,A131,3,2,3,16,0.08,school exemptions
+A398,A424,7,1,38,49,0.68,natural immunity
+A060,A433,1,0,23,23,0.06,school exemptions
+A339,A114,2,0,22,51,0.04,vaccine safety
+A012,A341,1,0,33,33,0.0,vaccine safety
+A186,A234,2,0,50,58,0.4,natural immunity
+A241,A007,2,0,52,78,0.04,where to get vaccinated
+A023,A255,4,1,55,65,0.0,outbreak updates
+A179,A099,6,1,43,82,0.83,school exemptions
+A233,A498,2,1,33,39,0.06,school exemptions
+A302,A367,3,0,72,81,0.63,natural immunity
+A154,A088,2,0,64,90,0.0,outbreak updates
+A179,A412,9,1,76,90,0.67,vaccine safety
+A011,A204,2,0,11,38,0.09,school exemptions
+A175,A047,1,0,19,19,0.08,vaccine safety
+A365,A267,2,2,20,50,0.01,outbreak updates
+A367,A345,3,0,64,90,0.57,natural immunity
+A500,A226,1,0,16,16,0.05,school exemptions
+A403,A380,1,0,2,2,0.02,school exemptions
+A278,A254,20,2,39,71,0.47,vaccine safety
+A454,A375,4,0,43,51,0.08,where to get vaccinated
+A420,A135,1,1,37,37,0.13,where to get vaccinated
+A290,A122,13,2,60,90,0.69,vaccine safety
+A251,A020,9,0,35,73,0.78,vaccine safety
+A286,A196,4,1,13,43,0.87,school exemptions
+A328,A254,3,2,4,10,0.52,vaccine safety
+A424,A428,5,3,26,54,0.83,school exemptions
+A103,A299,2,0,18,31,0.27,school exemptions
+A079,A259,4,1,48,81,0.71,natural immunity
+A344,A424,3,1,70,90,0.7,vaccine safety
+A168,A445,1,1,25,25,0.06,school exemptions
+A318,A264,2,0,41,77,0.42,school exemptions
+A375,A007,6,1,32,57,0.12,where to get vaccinated
+A028,A162,3,2,66,82,0.42,vaccine safety
+A124,A445,3,0,20,32,0.1,outbreak updates
+A334,A341,2,0,27,49,0.07,outbreak updates
+A072,A498,1,0,25,25,0.14,school exemptions
+A123,A051,1,0,28,28,0.04,school exemptions
+A229,A491,5,0,28,33,0.07,vaccine safety
+A405,A375,1,1,50,50,0.0,where to get vaccinated
+A226,A032,2,0,67,90,0.04,school exemptions
+A050,A347,2,1,56,68,0.0,vaccine safety
+A218,A132,7,1,14,44,0.72,school exemptions
+A179,A254,9,0,20,53,0.49,vaccine safety
+A354,A084,1,0,51,51,0.02,vaccine safety
+A209,A226,6,0,9,28,0.05,outbreak updates
+A062,A053,2,0,34,70,0.48,vaccine safety
+A355,A414,4,0,36,65,0.05,vaccine safety
+A479,A341,2,0,29,47,0.08,outbreak updates
+A448,A340,5,1,46,48,0.05,outbreak updates
+A097,A410,1,0,25,25,0.04,outbreak updates
+A062,A356,1,0,66,66,0.08,school exemptions
+A471,A136,2,0,34,54,0.1,vaccine safety
+A155,A079,11,3,56,74,0.85,natural immunity
+A113,A345,1,0,23,23,0.38,vaccine safety
+A057,A077,3,2,16,54,0.02,school exemptions
+A054,A324,2,1,9,41,0.04,vaccine safety
+A007,A417,1,1,14,14,0.0,vaccine safety
+A331,A202,1,0,30,30,0.0,school exemptions
+A288,A445,2,0,2,17,0.07,outbreak updates
+A171,A198,3,0,56,83,0.0,outbreak updates
+A278,A398,3,0,53,86,0.82,vaccine safety
+A452,A445,2,0,52,69,0.01,school exemptions
+A271,A139,3,0,25,45,0.02,outbreak updates
+A099,A466,17,1,72,90,0.38,natural immunity
+A371,A294,1,0,55,55,0.45,natural immunity
+A264,A220,1,1,59,59,0.0,vaccine safety
+A276,A088,3,0,20,40,0.0,school exemptions
+A040,A375,1,0,9,9,0.05,where to get vaccinated
+A072,A304,4,0,11,20,0.0,school exemptions
+A343,A099,7,1,10,37,0.91,vaccine safety
+A271,A340,1,1,74,74,0.01,outbreak updates
+A168,A496,3,1,23,49,0.24,school exemptions
+A281,A340,2,1,37,65,0.0,where to get vaccinated
+A228,A200,2,0,59,80,0.0,vaccine safety
+A162,A061,3,0,55,71,0.85,vaccine safety
+A398,A467,7,1,31,67,1.0,natural immunity
+A424,A468,7,1,75,90,0.81,natural immunity
+A086,A313,2,0,59,83,0.16,vaccine safety
+A143,A066,1,0,61,61,0.06,where to get vaccinated
+A223,A312,1,0,63,63,0.01,vaccine safety
+A311,A239,3,0,55,82,0.16,where to get vaccinated
+A085,A234,3,0,58,74,0.4,school exemptions
+A304,A226,2,0,72,90,0.12,outbreak updates
+A296,A347,2,0,40,48,0.02,vaccine safety
+A334,A347,3,1,41,56,0.01,where to get vaccinated
+A263,A456,1,0,73,73,0.1,vaccine safety
+A403,A347,1,0,63,63,0.03,vaccine safety
+A207,A304,1,0,28,28,0.05,outbreak updates
+A485,A375,2,2,36,54,0.0,where to get vaccinated
+A294,A057,4,0,18,35,0.59,vaccine safety
+A330,A048,12,2,11,38,0.58,school exemptions
+A362,A347,1,0,67,67,0.0,where to get vaccinated
+A294,A234,3,0,21,24,0.41,school exemptions
+A296,A088,2,0,26,42,0.0,outbreak updates
+A001,A156,2,0,54,56,0.17,vaccine safety
+A218,A286,6,0,4,6,0.79,vaccine safety
+A349,A254,24,1,27,56,0.45,vaccine safety
+A475,A021,1,1,62,62,0.05,school exemptions
+A040,A340,3,1,31,34,0.0,vaccine safety
+A273,A445,1,0,4,4,0.06,school exemptions
+A313,A345,3,0,31,34,0.53,natural immunity
+A140,A264,1,0,76,76,0.22,vaccine safety
+A053,A361,2,0,26,60,0.54,vaccine safety
+A241,A340,2,0,36,42,0.0,where to get vaccinated
+A387,A341,2,0,73,90,0.11,where to get vaccinated
+A039,A441,1,0,24,24,0.51,natural immunity
+A196,A499,7,3,42,45,0.87,vaccine safety
+A451,A054,3,0,4,25,0.12,where to get vaccinated
+A466,A370,2,0,12,14,0.34,school exemptions
+A417,A198,4,0,28,64,0.01,school exemptions
+A061,A062,1,0,10,10,0.12,school exemptions
+A395,A007,2,1,15,23,0.11,where to get vaccinated
+A149,A468,14,2,3,11,0.79,school exemptions
+A089,A341,2,0,11,35,0.08,where to get vaccinated
+A242,A344,8,2,76,90,0.63,natural immunity
+A040,A252,1,0,36,36,0.05,outbreak updates
+A368,A341,1,0,69,69,0.07,outbreak updates
+A002,A088,1,0,61,61,0.01,outbreak updates
+A155,A227,8,0,39,75,0.6,school exemptions
+A115,A220,2,0,72,90,0.01,where to get vaccinated
+A465,A449,2,0,58,73,0.67,natural immunity
+A159,A498,2,0,53,83,0.01,outbreak updates
+A100,A303,3,0,67,77,0.24,natural immunity
+A480,A045,5,0,69,90,0.05,where to get vaccinated
+A464,A301,4,0,3,26,0.0,vaccine safety
+A378,A360,3,0,13,43,0.11,outbreak updates
+A220,A341,5,0,48,80,0.0,outbreak updates
+A413,A428,11,0,49,81,0.75,natural immunity
+A061,A444,1,0,27,27,0.75,school exemptions
+A203,A463,1,1,1,1,0.13,where to get vaccinated
+A053,A466,1,0,69,69,0.42,natural immunity
+A450,A343,13,1,6,45,0.89,natural immunity
+A407,A341,1,0,74,74,0.03,where to get vaccinated
+A218,A361,2,0,64,80,0.55,vaccine safety
+A156,A142,4,0,63,90,0.44,natural immunity
+A183,A375,8,1,8,20,0.0,vaccine safety
+A367,A296,1,1,68,68,0.05,school exemptions
+A297,A312,3,0,64,70,0.08,outbreak updates
+A048,A254,10,0,39,69,0.54,vaccine safety
+A117,A445,1,0,76,76,0.05,outbreak updates
+A015,A234,1,0,20,20,0.4,natural immunity
+A362,A066,1,0,30,30,0.06,outbreak updates
+A145,A195,2,0,62,90,0.13,outbreak updates
+A048,A227,5,1,8,12,0.51,school exemptions
+A147,A377,2,0,28,47,0.04,vaccine safety
+A324,A007,3,0,31,55,0.16,outbreak updates
+A327,A141,2,0,41,80,0.61,vaccine safety
+A036,A032,2,0,47,82,0.03,outbreak updates
+A094,A066,1,0,13,13,0.13,where to get vaccinated
+A466,A234,3,0,70,70,0.36,natural immunity
+A034,A287,2,0,5,17,0.09,where to get vaccinated
+A075,A131,6,2,27,43,0.0,outbreak updates
+A457,A226,2,0,43,79,0.11,school exemptions
+A489,A347,3,0,55,61,0.02,where to get vaccinated
+A054,A347,3,0,25,58,0.03,where to get vaccinated
+A389,A445,2,1,35,57,0.03,outbreak updates
+A287,A284,1,0,70,70,0.14,vaccine safety
+A413,A205,4,0,75,90,0.65,vaccine safety
+A140,A410,3,2,26,62,0.06,school exemptions
+A218,A468,3,0,55,82,0.82,natural immunity
+A185,A088,2,0,50,65,0.02,outbreak updates
+A459,A290,1,0,11,11,0.86,school exemptions
+A262,A195,3,0,27,36,0.16,school exemptions
+A196,A259,16,0,23,24,0.74,school exemptions
+A012,A435,3,0,46,57,0.09,outbreak updates
+A132,A412,9,0,38,67,0.74,natural immunity
+A358,A381,2,2,63,66,0.22,vaccine safety
+A188,A198,2,0,24,53,0.03,school exemptions
+A413,A330,5,0,8,40,1.0,school exemptions
+A038,A367,3,0,72,90,0.61,school exemptions
+A251,A343,7,0,18,57,0.85,school exemptions
+A371,A394,7,1,67,68,0.95,vaccine safety
+A271,A303,3,0,15,51,0.18,school exemptions
+A002,A307,2,0,58,82,0.0,vaccine safety
+A142,A039,2,0,61,70,0.61,school exemptions
+A412,A254,17,0,66,75,0.44,vaccine safety
+A121,A497,2,0,11,19,0.0,vaccine safety
+A333,A433,1,0,31,31,0.06,school exemptions
+A259,A155,5,0,11,36,0.53,natural immunity
+A485,A102,1,1,25,25,0.17,vaccine safety
+A124,A287,2,0,54,73,0.08,where to get vaccinated
+A284,A417,2,0,18,50,0.0,vaccine safety
+A261,A236,5,0,55,77,0.53,school exemptions
+A163,A287,1,1,25,25,0.01,where to get vaccinated
+A013,A351,3,0,28,64,0.09,natural immunity
+A179,A236,17,1,48,75,0.65,natural immunity
+A214,A101,2,0,74,90,0.0,school exemptions
+A381,A028,3,0,37,48,0.23,school exemptions
+A416,A340,1,0,30,30,0.04,where to get vaccinated
+A132,A302,12,2,41,76,0.8,school exemptions
+A467,A344,6,1,36,51,0.71,vaccine safety
+A468,A254,12,0,61,72,0.52,school exemptions
+A017,A313,4,0,69,90,0.02,natural immunity
+A196,A254,10,0,69,90,0.44,vaccine safety
+A106,A184,1,0,73,73,0.49,school exemptions
+A412,A466,13,0,48,65,0.51,natural immunity
+A242,A196,6,0,38,66,1.0,natural immunity
+A213,A445,1,0,29,29,0.03,outbreak updates
+A468,A251,12,0,6,34,0.78,school exemptions
+A352,A400,1,1,27,27,0.0,vaccine safety
+A185,A198,3,1,56,72,0.1,school exemptions
+A185,A410,3,0,2,8,0.16,outbreak updates
+A099,A499,8,0,8,22,0.86,school exemptions
+A097,A297,1,0,26,26,0.0,vaccine safety
+A422,A270,1,1,38,38,0.0,where to get vaccinated
+A048,A099,3,1,79,90,0.85,vaccine safety
+A019,A356,1,0,69,69,0.0,natural immunity
+A257,A429,2,2,75,78,0.27,school exemptions
+A170,A304,2,0,35,42,0.09,outbreak updates
+A079,A242,9,2,74,90,0.79,school exemptions
+A462,A226,3,1,21,60,0.02,school exemptions
+A328,A088,1,0,16,16,0.09,school exemptions
+A469,A345,2,0,5,8,0.45,natural immunity
+A258,A121,2,0,6,8,0.29,school exemptions
+A378,A379,1,0,62,62,0.05,vaccine safety
+A105,A150,3,0,71,79,0.6,school exemptions
+A255,A144,1,0,12,12,0.0,vaccine safety
+A316,A347,3,0,72,84,0.03,where to get vaccinated
+A478,A497,2,0,64,78,0.0,where to get vaccinated
+A375,A435,3,1,6,8,0.0,outbreak updates
+A243,A340,2,0,14,49,0.0,vaccine safety
+A113,A303,3,2,52,62,0.24,natural immunity
+A173,A347,2,0,3,13,0.07,vaccine safety
+A390,A082,1,0,20,20,0.85,school exemptions
+A256,A446,3,0,1,34,0.0,where to get vaccinated
+A470,A367,1,1,30,30,0.58,school exemptions
+A105,A198,2,0,70,90,0.01,outbreak updates
+A391,A146,1,0,32,32,0.04,outbreak updates
+A279,A198,1,0,49,49,0.01,outbreak updates
+A213,A144,3,0,40,46,0.01,where to get vaccinated
+A468,A499,12,0,18,46,0.79,natural immunity
+A002,A228,1,0,31,31,0.0,where to get vaccinated
+A122,A330,7,0,56,66,0.94,natural immunity
+A412,A227,14,2,18,55,0.68,natural immunity
+A060,A324,2,0,35,49,0.0,vaccine safety
+A394,A132,6,1,36,49,0.67,school exemptions
+A125,A303,1,1,52,52,0.22,vaccine safety
+A467,A149,7,0,67,90,0.91,school exemptions
+A405,A012,3,0,13,46,0.01,outbreak updates
+A302,A394,5,0,15,29,0.91,vaccine safety
+A341,A435,7,0,16,55,0.08,outbreak updates
+A371,A278,5,0,11,30,0.96,school exemptions
+A310,A054,3,0,61,90,0.0,where to get vaccinated
+A379,A101,1,0,74,74,0.05,outbreak updates
+A024,A159,2,0,27,37,0.0,vaccine safety
+A143,A435,6,0,50,57,0.0,vaccine safety
+A006,A024,2,0,66,74,0.0,outbreak updates
+A214,A082,1,1,34,34,0.92,vaccine safety
+A286,A428,6,2,7,17,0.84,vaccine safety
+A288,A131,3,0,67,86,0.0,school exemptions
+A451,A347,3,0,69,73,0.01,where to get vaccinated
+A010,A288,1,0,64,64,0.07,school exemptions
+A278,A367,4,0,39,54,0.73,school exemptions
+A251,A349,18,1,26,27,0.8,vaccine safety
+A212,A493,1,1,3,3,0.04,where to get vaccinated
+A357,A341,3,0,28,59,0.07,vaccine safety
+A236,A222,6,1,42,43,0.68,school exemptions
+A313,A281,1,1,75,75,0.0,vaccine safety
+A441,A141,1,0,4,4,0.61,school exemptions
+A073,A296,4,0,59,68,0.0,outbreak updates
+A438,A144,1,0,33,33,0.01,outbreak updates
+A421,A253,3,0,11,48,0.39,vaccine safety
+A322,A347,2,0,25,37,0.09,where to get vaccinated
+A118,A082,2,0,49,64,0.74,school exemptions
+A294,A260,3,0,33,36,0.11,vaccine safety
+A414,A234,2,1,48,56,0.44,school exemptions
+A058,A405,1,0,34,34,0.0,outbreak updates
+A205,A428,16,1,14,42,0.79,school exemptions
+A035,A419,3,0,42,42,0.74,vaccine safety
+A054,A387,3,0,11,26,0.02,outbreak updates
+A207,A146,1,0,26,26,0.13,where to get vaccinated
+A465,A165,2,0,38,73,0.31,school exemptions
+A493,A410,1,0,49,49,0.1,school exemptions
+A126,A296,3,0,41,69,0.04,school exemptions
+A134,A445,3,1,66,67,0.09,outbreak updates
+A128,A180,1,0,72,72,0.36,school exemptions
+A214,A357,3,0,53,63,0.0,where to get vaccinated
+A003,A304,1,0,36,36,0.0,outbreak updates
+A367,A103,3,0,73,90,0.32,natural immunity
+A220,A014,1,0,75,75,0.01,vaccine safety
+A015,A141,2,0,49,88,0.58,natural immunity
+A088,A402,3,0,46,60,0.42,natural immunity
+A470,A234,4,0,69,88,0.34,natural immunity
+A344,A227,3,0,20,38,0.68,vaccine safety
+A096,A240,1,1,25,25,0.03,school exemptions
+A375,A144,3,0,10,17,0.01,where to get vaccinated
+A095,A071,1,0,53,53,0.0,where to get vaccinated
+A383,A254,2,0,38,50,0.49,vaccine safety
+A244,A341,3,0,62,90,0.0,where to get vaccinated
+A099,A184,6,2,48,81,0.55,vaccine safety
+A236,A371,11,1,59,90,0.76,natural immunity
+A068,A144,2,0,32,60,0.04,outbreak updates
+A072,A321,1,0,48,48,0.03,vaccine safety
+A161,A303,2,0,48,83,0.2,natural immunity
+A080,A011,2,0,47,77,0.33,vaccine safety
+A428,A261,5,0,12,49,0.84,natural immunity
+A442,A432,1,1,55,55,0.01,natural immunity
+A124,A340,1,0,37,37,0.06,outbreak updates
+A222,A098,14,0,37,56,0.85,natural immunity
+A114,A209,2,0,19,22,0.02,vaccine safety
+A411,A116,1,0,68,68,0.0,vaccine safety
+A298,A474,3,1,35,39,0.06,outbreak updates
+A308,A375,1,0,31,31,0.03,outbreak updates
+A029,A445,1,0,45,45,0.16,school exemptions
+A286,A254,14,2,2,34,0.41,natural immunity
+A135,A088,1,0,27,27,0.0,outbreak updates
+A413,A424,3,0,62,66,0.71,school exemptions
+A429,A007,1,1,55,55,0.13,vaccine safety
+A452,A297,2,0,39,57,0.0,outbreak updates
+A045,A435,2,0,70,90,0.0,vaccine safety
+A419,A466,3,0,37,39,0.37,school exemptions
+A482,A345,3,0,73,90,0.52,natural immunity
+A297,A287,3,0,17,38,0.0,where to get vaccinated
+A036,A054,1,0,19,19,0.0,outbreak updates
+A487,A448,2,0,76,79,0.03,outbreak updates
+A113,A498,5,0,14,23,0.01,outbreak updates
+A378,A347,1,0,4,4,0.0,vaccine safety
+A077,A498,4,0,79,90,0.06,outbreak updates
+A121,A134,1,0,9,9,0.0,outbreak updates
+A412,A286,13,1,30,64,0.82,school exemptions
+A391,A341,5,1,11,48,0.1,where to get vaccinated
+A446,A123,3,1,72,90,0.0,where to get vaccinated
+A143,A341,5,0,2,4,0.01,where to get vaccinated
+A268,A276,2,0,1,16,0.22,natural immunity
+A139,A276,3,0,77,90,0.33,school exemptions
+A004,A005,2,0,75,90,0.43,school exemptions
+A077,A146,2,0,22,28,0.07,outbreak updates
+A011,A141,1,0,75,75,0.62,vaccine safety
+A226,A312,2,0,41,61,0.1,where to get vaccinated
+A035,A410,1,1,28,28,0.06,outbreak updates
+A264,A466,2,0,73,90,0.45,school exemptions
+A182,A170,2,0,37,70,0.0,school exemptions
+A467,A466,25,1,67,90,0.4,natural immunity
+A179,A184,2,0,17,31,0.53,school exemptions
+A161,A282,3,0,12,35,0.38,natural immunity
+A110,A305,1,0,5,5,0.16,vaccine safety
+A484,A410,1,0,70,70,0.06,outbreak updates
+A095,A341,3,0,55,82,0.0,outbreak updates
+A478,A341,7,1,8,42,0.05,outbreak updates
+A324,A296,2,0,47,86,0.12,outbreak updates
+A319,A445,2,0,71,90,0.08,outbreak updates
+A164,A340,5,0,19,48,0.0,where to get vaccinated
+A242,A155,12,3,60,84,0.67,natural immunity
+A237,A445,1,1,4,4,0.18,outbreak updates
+A043,A159,2,1,73,90,0.02,outbreak updates
+A329,A340,2,1,62,73,0.06,where to get vaccinated
+A438,A226,2,0,78,90,0.07,outbreak updates
+A286,A413,13,2,59,68,0.78,natural immunity
+A023,A341,2,0,49,69,0.0,where to get vaccinated
+A313,A264,4,0,18,38,0.36,natural immunity
+A387,A454,2,1,74,90,0.2,outbreak updates
+A072,A303,2,0,78,86,0.23,vaccine safety
+A134,A007,3,0,29,47,0.07,outbreak updates
+A053,A445,1,1,7,7,0.03,outbreak updates
+A330,A413,3,0,26,30,0.83,natural immunity
+A038,A466,1,0,59,59,0.35,vaccine safety
+A410,A338,4,1,44,56,0.1,vaccine safety
+A279,A316,2,0,35,64,0.1,vaccine safety
+A064,A346,1,1,32,32,0.43,natural immunity
+A426,A233,2,0,43,43,0.0,outbreak updates
+A499,A196,5,0,4,6,0.95,vaccine safety
+A139,A296,3,0,5,8,0.02,school exemptions
+A046,A327,2,0,8,15,0.59,vaccine safety
+A122,A132,5,1,35,64,0.7,vaccine safety
+A362,A445,1,0,34,34,0.03,outbreak updates
+A212,A275,2,1,55,84,0.0,outbreak updates
+A314,A341,1,0,55,55,0.0,outbreak updates
+A484,A088,2,0,33,49,0.0,school exemptions
+A103,A500,3,1,51,85,0.53,school exemptions
+A222,A499,10,0,60,90,0.7,natural immunity
+A428,A278,10,0,48,66,0.96,school exemptions
+A018,A296,3,2,19,48,0.07,outbreak updates
+A276,A457,1,1,66,66,0.11,school exemptions
+A273,A192,4,0,5,27,0.0,vaccine safety
+A433,A445,2,0,66,90,0.09,school exemptions
+A148,A400,3,0,7,28,0.06,outbreak updates
+A290,A098,7,0,57,66,0.91,school exemptions
+A196,A251,12,1,78,90,0.86,natural immunity
+A051,A375,2,0,53,61,0.0,outbreak updates
+A079,A394,9,1,37,75,0.92,school exemptions
+A246,A445,5,2,8,34,0.11,outbreak updates
+A253,A146,1,1,31,31,0.04,where to get vaccinated
+A268,A410,1,0,73,73,0.03,school exemptions
+A430,A179,7,0,32,44,1.0,natural immunity
+A183,A478,3,0,61,73,0.07,vaccine safety
+A430,A286,10,0,7,42,0.91,school exemptions
+A113,A195,3,0,27,54,0.11,outbreak updates
+A023,A243,2,0,53,65,0.04,outbreak updates
+A216,A037,3,0,17,39,0.25,vaccine safety
+A367,A142,3,1,48,73,0.44,vaccine safety
+A398,A278,16,0,50,53,0.94,natural immunity
+A102,A375,4,3,36,40,0.0,vaccine safety
+A151,A500,2,0,55,83,0.44,school exemptions
+A424,A349,8,2,64,90,0.76,vaccine safety
+A205,A118,3,1,16,35,0.62,natural immunity
+A368,A267,1,0,62,62,0.0,outbreak updates
+A413,A142,8,1,53,72,0.43,natural immunity
+A063,A226,1,0,12,12,0.09,outbreak updates
+A346,A265,1,0,21,21,0.41,school exemptions
+A049,A009,3,0,52,71,0.02,outbreak updates
+A344,A098,7,0,76,86,0.83,vaccine safety
+A025,A234,3,0,33,50,0.29,vaccine safety
+A422,A146,2,1,9,42,0.06,where to get vaccinated
+A126,A341,2,0,70,79,0.0,outbreak updates
+A251,A218,13,0,44,63,0.93,school exemptions
+A476,A345,2,0,78,90,0.45,vaccine safety
+A290,A468,10,2,67,90,0.82,vaccine safety
+A445,A435,8,2,25,26,0.0,vaccine safety
+A280,A340,1,0,43,43,0.06,vaccine safety
+A079,A466,32,3,53,81,0.39,natural immunity
+A305,A088,2,0,4,37,0.05,school exemptions
+A090,A062,1,0,23,23,0.11,vaccine safety
+A032,A303,2,0,74,90,0.14,vaccine safety
+A439,A454,3,0,23,30,0.05,where to get vaccinated
+A351,A401,2,0,23,36,0.04,school exemptions
+A249,A319,2,1,21,38,0.0,school exemptions
+A329,A159,1,0,77,77,0.03,where to get vaccinated
+A264,A488,3,0,44,68,0.61,school exemptions
+A418,A354,2,0,76,90,0.0,vaccine safety
+A261,A466,29,3,36,69,0.4,school exemptions
+A020,A467,10,2,53,87,0.93,vaccine safety
+A196,A290,4,2,45,53,0.88,school exemptions
+A205,A254,23,1,55,87,0.52,natural immunity
+A048,A196,11,1,13,32,0.86,school exemptions
+A199,A138,5,0,72,76,0.0,outbreak updates
+A081,A347,1,0,66,66,0.0,where to get vaccinated
+A358,A115,1,0,45,45,0.08,vaccine safety
+A447,A009,3,0,50,70,0.05,outbreak updates
+A415,A463,1,1,35,35,0.05,outbreak updates
+A262,A446,4,0,39,48,0.0,outbreak updates
+A191,A195,3,1,56,81,0.1,school exemptions
+A353,A239,2,0,63,66,0.14,outbreak updates
+A444,A258,3,0,52,62,0.14,school exemptions
+A392,A351,2,0,14,14,0.16,vaccine safety
+A343,A098,3,0,1,1,0.87,vaccine safety
+A020,A098,5,0,40,47,0.84,natural immunity
+A242,A254,6,0,20,38,0.52,natural immunity
+A435,A007,2,0,57,81,0.09,vaccine safety
+A398,A430,5,1,45,60,0.63,vaccine safety
+A098,A290,8,0,77,90,0.88,school exemptions
+A343,A450,4,0,3,14,0.96,vaccine safety
+A267,A347,5,0,16,30,0.0,where to get vaccinated
+A375,A131,4,0,20,27,0.06,school exemptions
+A394,A499,11,0,37,45,0.78,natural immunity
+A451,A146,2,0,5,27,0.06,outbreak updates
+A409,A340,3,0,21,42,0.02,outbreak updates
+A386,A200,2,0,24,40,0.01,outbreak updates
+A196,A394,19,1,33,67,0.92,natural immunity
+A056,A204,3,0,73,77,0.0,vaccine safety
+A054,A341,5,0,63,73,0.01,where to get vaccinated
+A268,A485,2,0,34,62,0.2,school exemptions
+A413,A412,11,0,68,89,0.63,natural immunity
+A430,A254,22,2,24,25,0.44,vaccine safety
+A272,A131,3,0,73,90,0.0,outbreak updates
+A054,A088,2,0,23,52,0.03,outbreak updates
+A183,A445,4,1,17,41,0.01,school exemptions
+A111,A498,3,2,71,78,0.04,outbreak updates
+A320,A422,2,0,28,59,0.06,vaccine safety
+A424,A450,11,3,69,89,0.93,school exemptions
+A286,A290,15,1,66,90,0.84,vaccine safety
+A099,A394,5,0,12,45,0.86,vaccine safety
+A293,A052,2,0,77,90,0.0,where to get vaccinated
+A411,A003,2,1,59,80,0.0,where to get vaccinated
+A398,A412,7,2,12,14,0.63,vaccine safety
+A361,A466,2,0,34,67,0.34,vaccine safety
+A423,A279,1,0,58,58,0.02,outbreak updates
+A182,A445,2,0,76,90,0.04,school exemptions
+A091,A007,1,0,70,70,0.07,outbreak updates
+A210,A333,2,1,21,26,0.09,outbreak updates
+A060,A287,1,0,71,71,0.05,outbreak updates
+A445,A341,6,0,13,46,0.11,vaccine safety
+A257,A198,1,0,36,36,0.0,school exemptions
+A295,A360,3,1,58,61,0.15,vaccine safety
+A192,A287,1,0,56,56,0.05,outbreak updates
+A430,A132,7,0,78,85,0.74,school exemptions
+A354,A387,2,1,56,69,0.07,outbreak updates
+A305,A426,2,0,30,51,0.0,outbreak updates
+A156,A356,2,0,33,54,0.11,natural immunity
+A466,A345,4,1,42,42,0.45,natural immunity
+A205,A466,24,2,71,77,0.36,school exemptions
+A165,A345,3,1,5,20,0.46,school exemptions
+A285,A233,1,0,26,26,0.0,outbreak updates
+A356,A312,1,1,10,10,0.0,outbreak updates
+A356,A347,2,2,73,90,0.01,outbreak updates
+A261,A222,13,3,76,90,0.79,vaccine safety
+A370,A466,1,0,4,4,0.41,school exemptions
+A230,A378,2,1,79,90,0.0,outbreak updates
+A072,A234,1,0,37,37,0.35,school exemptions
+A014,A340,1,1,72,72,0.0,outbreak updates
+A236,A413,10,1,34,66,0.76,vaccine safety
+A475,A088,4,1,65,90,0.03,school exemptions
+A306,A234,4,0,10,29,0.4,natural immunity
+A375,A340,3,1,46,50,0.07,outbreak updates
+A343,A227,9,0,9,34,0.54,natural immunity
+A443,A433,3,0,65,80,0.08,outbreak updates
+A253,A445,1,0,77,77,0.0,outbreak updates
+A132,A430,9,0,25,43,0.61,vaccine safety
+A301,A270,1,0,8,8,0.0,outbreak updates
+A069,A233,3,0,64,73,0.0,school exemptions
+A132,A398,11,1,41,69,0.71,natural immunity
+A489,A375,4,1,71,76,0.08,where to get vaccinated
+A216,A055,1,1,62,62,0.34,natural immunity
+A424,A242,11,1,60,90,0.82,natural immunity
+A343,A251,6,1,30,65,0.8,natural immunity
+A257,A312,3,0,21,24,0.13,vaccine safety
+A450,A236,14,0,54,88,0.65,vaccine safety
+A259,A424,14,0,50,52,0.73,vaccine safety
+A200,A400,1,0,26,26,0.04,vaccine safety
+A099,A179,8,3,34,41,1.0,vaccine safety
+A048,A251,12,3,65,75,0.82,natural immunity
+A474,A375,1,0,79,79,0.02,where to get vaccinated
+A209,A347,2,0,31,36,0.12,outbreak updates
+A227,A155,5,0,24,57,0.62,school exemptions
+A344,A020,5,0,16,42,0.67,vaccine safety
+A172,A341,1,0,2,2,0.0,outbreak updates
+A359,A435,4,0,40,54,0.09,vaccine safety
+A392,A226,2,2,35,38,0.05,outbreak updates
+A184,A226,2,2,25,28,0.0,school exemptions
+A347,A066,2,1,36,62,0.04,vaccine safety
+A140,A195,2,2,52,68,0.12,outbreak updates
+A290,A254,10,1,39,62,0.49,natural immunity
+A452,A088,2,0,37,39,0.02,school exemptions
+A027,A466,1,0,33,33,0.44,vaccine safety
+A067,A445,2,0,33,56,0.07,school exemptions
+A081,A388,3,0,15,51,0.03,outbreak updates
+A407,A445,4,0,11,23,0.0,school exemptions
+A349,A419,5,0,1,12,0.77,vaccine safety
+A022,A107,1,0,76,76,0.0,where to get vaccinated
+A032,A340,1,0,22,22,0.01,vaccine safety
+A411,A246,3,2,73,90,0.0,outbreak updates
+A174,A367,2,0,8,27,0.59,vaccine safety
+A236,A254,20,1,30,33,0.57,school exemptions
+A377,A454,2,1,67,80,0.1,outbreak updates
+A284,A210,2,0,36,67,0.15,where to get vaccinated
+A048,A343,6,0,45,72,0.85,school exemptions
+A398,A330,10,2,17,31,1.0,vaccine safety
+A179,A466,28,1,53,76,0.43,natural immunity
+A330,A499,8,1,11,15,0.73,natural immunity
+A085,A445,3,1,20,33,0.0,school exemptions
+A010,A043,4,0,40,56,0.12,outbreak updates
+A310,A445,2,1,29,64,0.08,outbreak updates
+A489,A445,1,0,55,55,0.02,outbreak updates
+A336,A161,4,0,53,85,0.13,school exemptions
+A201,A298,2,0,33,70,0.06,vaccine safety
+A090,A323,1,0,39,39,0.34,vaccine safety
+A371,A098,6,1,64,90,0.9,natural immunity
+A048,A466,34,3,1,35,0.38,natural immunity
+A471,A373,2,1,30,66,0.32,natural immunity
+A330,A254,22,4,63,90,0.42,school exemptions
+A173,A311,2,0,71,90,0.0,outbreak updates
+A491,A319,3,0,20,21,0.05,outbreak updates
+A440,A387,1,1,29,29,0.05,vaccine safety
+A218,A251,5,0,56,79,0.75,natural immunity
+A264,A327,1,0,43,43,0.51,vaccine safety
+A242,A466,34,2,6,9,0.36,natural immunity
+A365,A470,2,0,57,90,0.83,natural immunity
+A024,A240,2,0,66,71,0.01,outbreak updates
+A236,A428,10,0,26,36,0.87,vaccine safety
+A314,A410,2,0,25,50,0.16,school exemptions
+A321,A488,2,1,56,67,0.57,natural immunity
+A496,A144,1,1,7,7,0.08,outbreak updates
+A491,A454,4,1,48,50,0.07,where to get vaccinated
+A282,A445,2,0,3,21,0.02,school exemptions
+A405,A043,3,0,46,70,0.04,outbreak updates
+A196,A098,5,1,51,81,0.92,school exemptions
+A242,A205,5,0,30,52,0.71,vaccine safety
+A252,A347,4,0,40,58,0.0,outbreak updates
+A143,A144,3,0,57,63,0.0,outbreak updates
+A295,A024,5,1,63,68,0.07,outbreak updates
+A445,A195,2,0,10,28,0.11,outbreak updates
+A303,A198,1,0,73,73,0.0,outbreak updates
+A412,A278,7,0,13,43,0.93,vaccine safety
+A149,A218,7,1,27,53,0.93,natural immunity
+A101,A226,1,0,39,39,0.06,school exemptions
+A398,A184,2,1,67,76,0.54,natural immunity
+A360,A007,2,0,2,28,0.1,where to get vaccinated
+A303,A340,1,1,14,14,0.04,vaccine safety
+A338,A445,2,0,73,90,0.04,school exemptions
+A063,A340,2,0,38,38,0.04,outbreak updates
+A219,A200,4,1,11,37,0.01,where to get vaccinated
+A311,A146,3,0,16,50,0.07,outbreak updates
+A471,A141,2,0,7,42,0.57,school exemptions
+A467,A251,10,0,60,75,0.93,vaccine safety
+A499,A466,23,4,75,90,0.33,natural immunity
+A243,A088,3,1,29,65,0.0,school exemptions
+A089,A008,1,0,54,54,0.0,outbreak updates
+A149,A371,13,2,52,87,0.79,school exemptions
+A169,A029,3,0,42,69,0.0,outbreak updates
+A374,A485,4,1,38,70,0.2,school exemptions
+A450,A179,13,1,21,48,0.99,vaccine safety
+A278,A394,5,0,74,90,0.91,natural immunity
+A261,A367,5,1,38,39,0.65,vaccine safety
+A338,A035,1,1,69,69,0.6,vaccine safety
+A491,A347,4,1,62,77,0.09,vaccine safety
+A390,A345,2,0,62,83,0.54,vaccine safety
+A360,A445,3,0,4,12,0.02,outbreak updates
+A227,A259,13,4,8,46,0.85,school exemptions
+A106,A498,2,2,37,65,0.0,school exemptions
+A382,A127,1,0,6,6,0.03,school exemptions
+A075,A288,1,0,2,2,0.0,school exemptions
+A280,A498,2,0,56,61,0.0,outbreak updates
+A188,A445,3,1,32,61,0.05,outbreak updates
+A495,A445,2,0,35,62,0.06,outbreak updates
+A218,A302,7,0,71,84,0.88,natural immunity
+A371,A142,5,0,28,49,0.49,natural immunity
+A409,A440,2,0,42,60,0.08,outbreak updates
+A132,A122,8,2,33,44,0.56,natural immunity
+A161,A141,1,0,71,71,0.51,natural immunity
+A027,A082,2,0,78,84,0.88,vaccine safety
+A251,A254,10,0,54,90,0.39,vaccine safety
+A094,A362,1,0,38,38,0.0,outbreak updates
+A494,A026,3,0,48,85,0.2,vaccine safety
+A152,A144,2,0,19,19,0.0,outbreak updates
+A030,A345,2,0,25,34,0.5,natural immunity
+A067,A341,4,0,68,90,0.02,outbreak updates
+A202,A088,2,0,53,56,0.07,outbreak updates
+A286,A020,7,1,2,4,0.75,school exemptions
+A317,A347,2,1,65,66,0.0,outbreak updates
+A218,A499,9,0,17,33,0.75,natural immunity
+A346,A150,2,0,1,1,0.53,vaccine safety
+A430,A450,11,0,55,75,0.92,school exemptions
+A123,A347,1,1,39,39,0.07,outbreak updates
+A062,A198,2,0,21,47,0.07,school exemptions
+A202,A433,3,1,18,26,0.11,school exemptions
+A408,A075,1,0,53,53,0.07,vaccine safety
+A224,A445,3,0,65,90,0.01,outbreak updates
+A193,A073,3,1,45,50,0.0,school exemptions
+A160,A195,1,0,4,4,0.05,school exemptions
+A079,A367,4,0,63,90,0.6,school exemptions
+A123,A200,1,0,17,17,0.0,vaccine safety
+A395,A247,1,0,44,44,0.05,outbreak updates
+A221,A184,3,0,30,63,0.57,school exemptions
+A016,A393,3,0,12,33,0.52,school exemptions
+A396,A240,2,1,8,9,0.0,school exemptions
+A439,A295,3,0,69,86,0.01,vaccine safety
+A127,A454,1,0,14,14,0.02,outbreak updates
+A482,A132,1,0,48,48,0.68,school exemptions
+A002,A433,2,0,47,55,0.12,outbreak updates
+A200,A293,3,0,21,45,0.0,outbreak updates
+A063,A347,1,0,11,11,0.06,where to get vaccinated
+A454,A341,3,0,15,47,0.06,where to get vaccinated
+A227,A142,2,0,19,47,0.41,natural immunity
+A308,A131,1,0,52,52,0.07,outbreak updates
+A344,A371,7,0,24,48,0.68,vaccine safety
+A461,A234,4,2,54,90,0.41,natural immunity
+A494,A234,2,0,23,36,0.42,school exemptions
+A347,A107,3,0,20,40,0.0,vaccine safety
+A462,A498,3,0,31,37,0.03,outbreak updates
+A475,A161,2,0,58,81,0.06,vaccine safety
+A353,A255,1,0,19,19,0.0,vaccine safety
+A148,A240,3,0,39,57,0.0,outbreak updates
+A314,A234,3,0,10,45,0.44,natural immunity
+A472,A423,4,0,51,83,0.02,where to get vaccinated
+A197,A287,3,0,74,76,0.0,where to get vaccinated
+A450,A367,7,0,48,83,0.57,natural immunity
+A155,A259,12,0,74,90,0.84,natural immunity
+A072,A073,2,0,70,90,0.11,school exemptions
+A111,A347,1,0,22,22,0.05,vaccine safety
+A393,A442,2,0,49,86,0.23,vaccine safety
+A054,A448,1,0,23,23,0.01,where to get vaccinated
+A381,A253,3,1,73,90,0.36,vaccine safety
+A084,A411,1,0,19,19,0.05,vaccine safety
+A201,A284,1,0,59,59,0.03,outbreak updates
+A004,A186,3,0,49,74,0.57,natural immunity
+A377,A345,1,0,59,59,0.48,natural immunity
+A170,A240,1,0,12,12,0.09,outbreak updates
+A043,A045,2,0,4,17,0.03,vaccine safety
+A069,A340,1,1,54,54,0.04,outbreak updates
+A282,A160,2,1,36,41,0.15,school exemptions
+A391,A025,1,0,18,18,0.18,vaccine safety
+A085,A193,4,0,9,44,0.15,outbreak updates
+A495,A387,1,0,10,10,0.05,vaccine safety
+A048,A419,6,0,34,57,0.71,school exemptions
+A048,A499,8,0,25,27,0.68,natural immunity
+A102,A408,2,0,69,78,0.01,outbreak updates
+A431,A445,1,0,71,71,0.04,outbreak updates
+A486,A375,3,0,12,46,0.03,outbreak updates
+A286,A466,34,3,43,56,0.41,school exemptions
+A372,A143,1,0,1,1,0.0,vaccine safety
+A017,A096,2,0,33,54,0.45,school exemptions
+A227,A466,28,2,78,90,0.45,school exemptions
+A258,A445,4,2,5,18,0.03,outbreak updates
+A430,A394,9,0,44,58,0.89,vaccine safety
+A462,A410,2,0,18,35,0.05,school exemptions
+A418,A212,1,0,49,49,0.06,outbreak updates
+A492,A032,1,0,59,59,0.09,outbreak updates
+A269,A139,3,0,71,90,0.05,outbreak updates
+A349,A412,5,0,8,40,0.68,natural immunity
+A012,A144,1,0,58,58,0.14,outbreak updates
+A306,A037,3,0,54,71,0.23,school exemptions
+A441,A084,1,1,24,24,0.0,where to get vaccinated
+A126,A087,2,0,20,36,0.1,where to get vaccinated
+A288,A403,2,0,20,53,0.0,outbreak updates
+A079,A254,16,0,50,81,0.5,natural immunity
+A301,A159,3,0,27,43,0.08,outbreak updates
+A362,A340,5,1,8,37,0.07,vaccine safety
+A316,A340,3,0,40,72,0.0,vaccine safety
+A330,A367,6,0,32,43,0.59,school exemptions
+A149,A254,6,1,26,42,0.46,vaccine safety
+A211,A333,6,1,6,33,0.0,where to get vaccinated
+A030,A466,5,0,66,90,0.42,natural immunity
+A481,A285,1,0,60,60,0.0,outbreak updates
+A228,A120,3,1,4,29,0.0,outbreak updates
+A437,A493,2,0,22,43,0.02,where to get vaccinated
+A250,A046,2,1,14,40,0.63,vaccine safety
+A288,A375,1,0,67,67,0.0,outbreak updates
+A496,A495,3,0,4,38,0.2,natural immunity
+A436,A058,1,0,4,4,0.11,outbreak updates
+A240,A144,1,0,10,10,0.02,outbreak updates
+A048,A261,6,0,57,90,0.85,natural immunity
+A131,A375,2,1,22,26,0.0,outbreak updates
+A224,A500,2,0,71,90,0.56,natural immunity
+A041,A198,1,0,72,72,0.05,outbreak updates
+A155,A222,7,0,36,69,0.67,natural immunity
+A025,A381,5,0,67,72,0.24,natural immunity
+A007,A435,7,0,49,69,0.0,where to get vaccinated
+A025,A410,2,0,22,52,0.07,school exemptions
+A319,A073,1,0,15,15,0.0,school exemptions
+A450,A349,4,0,56,81,0.81,natural immunity
+A034,A091,3,0,14,30,0.0,vaccine safety
+A187,A345,2,1,46,73,0.53,natural immunity
+A278,A428,14,1,14,16,0.7,natural immunity
+A364,A007,1,0,66,66,0.15,vaccine safety
+A302,A254,13,0,1,15,0.43,school exemptions
+A336,A234,2,0,57,73,0.39,school exemptions
+A053,A410,1,1,20,20,0.03,school exemptions
+A071,A125,4,0,37,63,0.0,vaccine safety
+A459,A345,2,0,74,90,0.6,natural immunity
+A055,A088,2,0,58,71,0.02,school exemptions
+A442,A303,1,0,25,25,0.19,school exemptions
+A126,A107,3,1,44,67,0.02,vaccine safety
+A095,A375,1,1,17,17,0.0,vaccine safety
+A031,A209,3,0,14,35,0.08,vaccine safety
+A154,A272,2,0,1,19,0.51,vaccine safety
+A075,A091,3,1,41,67,0.05,outbreak updates
+A236,A466,33,0,1,22,0.33,vaccine safety
+A006,A341,2,0,33,51,0.02,where to get vaccinated
+A343,A048,10,0,37,72,0.68,natural immunity
+A013,A032,1,0,11,11,0.08,outbreak updates
+A122,A413,8,1,26,41,0.73,vaccine safety
+A416,A366,3,0,58,85,0.0,outbreak updates
+A242,A206,1,0,78,78,0.5,vaccine safety
+A243,A341,4,0,61,90,0.01,outbreak updates
+A277,A333,4,1,2,33,0.0,outbreak updates
+A150,A345,3,0,76,77,0.55,school exemptions
+A171,A188,1,0,46,46,0.11,vaccine safety
+A439,A107,2,0,21,53,0.07,where to get vaccinated
+A242,A098,6,0,74,90,0.88,school exemptions
+A302,A278,6,0,57,73,1.0,vaccine safety
+A057,A264,2,0,54,75,0.4,natural immunity
+A267,A410,1,0,7,7,0.05,outbreak updates
+A413,A261,9,0,29,68,0.91,natural immunity
+A088,A239,1,0,47,47,0.08,vaccine safety
+A084,A146,3,1,47,76,0.03,vaccine safety
+A168,A419,2,0,42,51,0.8,school exemptions
+A229,A359,4,0,75,81,0.0,outbreak updates
+A018,A341,2,0,61,90,0.04,where to get vaccinated
+A498,A052,1,0,7,7,0.03,outbreak updates
+A369,A211,3,0,39,64,0.0,where to get vaccinated
+A398,A254,17,1,56,71,0.47,natural immunity
+A428,A499,10,3,13,52,0.74,school exemptions
+A020,A290,11,0,33,62,0.83,natural immunity
+A030,A108,2,0,66,86,0.26,school exemptions
+A280,A054,1,0,60,60,0.0,outbreak updates
+A320,A324,1,0,67,67,0.1,outbreak updates
+A261,A227,9,0,3,29,0.6,vaccine safety
+A476,A410,3,1,26,53,0.01,outbreak updates
+A349,A251,14,2,11,27,0.89,school exemptions
+A132,A286,9,0,26,45,0.8,school exemptions
+A429,A432,4,1,28,34,0.03,vaccine safety
+A315,A226,1,1,76,76,0.09,school exemptions
+A457,A274,1,1,40,40,0.0,vaccine safety
+A035,A100,1,0,16,16,0.65,school exemptions
+A354,A480,1,0,53,53,0.11,vaccine safety
+A079,A205,3,1,21,60,0.54,vaccine safety
+A302,A261,4,0,63,90,0.86,vaccine safety
+A391,A347,2,1,44,75,0.0,vaccine safety
+A222,A079,11,2,33,70,0.98,school exemptions
+A153,A375,1,0,39,39,0.02,vaccine safety
+A212,A211,1,1,8,8,0.01,outbreak updates
+A199,A491,1,0,62,62,0.03,outbreak updates
+A075,A040,3,1,52,63,0.03,where to get vaccinated
+A261,A196,13,2,70,90,0.9,school exemptions
+A171,A246,1,0,18,18,0.0,where to get vaccinated
+A048,A413,8,0,55,76,0.85,school exemptions
+A368,A334,2,0,59,66,0.0,school exemptions
+A470,A429,2,0,76,90,0.21,vaccine safety
+A499,A020,8,0,10,23,0.71,school exemptions
+A138,A341,4,0,57,90,0.05,where to get vaccinated
+A427,A178,1,0,56,56,0.17,school exemptions
+A483,A254,5,0,47,58,0.53,natural immunity
+A383,A038,3,0,70,90,0.64,natural immunity
+A290,A466,18,1,36,45,0.35,vaccine safety
+A335,A340,1,1,65,65,0.0,outbreak updates
+A269,A184,1,0,48,48,0.54,vaccine safety
+A252,A200,2,1,12,12,0.14,vaccine safety
+A177,A347,2,0,37,51,0.02,where to get vaccinated
+A428,A020,13,2,8,17,0.7,vaccine safety
+A428,A122,8,0,19,49,0.58,natural immunity
+A390,A500,1,1,36,36,0.46,vaccine safety
+A093,A220,1,0,47,47,0.06,where to get vaccinated
+A259,A218,5,1,60,90,0.93,natural immunity
+A366,A192,1,0,35,35,0.04,where to get vaccinated
+A150,A154,2,0,2,2,0.22,natural immunity
+A413,A122,3,0,58,90,0.61,school exemptions
+A039,A194,2,0,21,23,0.2,school exemptions
+A114,A341,4,1,19,54,0.03,vaccine safety
+A038,A410,2,2,51,84,0.02,school exemptions
+A387,A101,3,0,65,90,0.11,school exemptions
+A488,A234,4,0,11,25,0.42,natural immunity
+A234,A488,2,0,10,18,0.5,school exemptions
+A366,A463,1,0,48,48,0.0,where to get vaccinated
+A348,A066,2,0,30,44,0.15,where to get vaccinated
+A143,A347,1,0,41,41,0.02,vaccine safety
+A227,A149,7,2,18,31,0.9,natural immunity
+A236,A179,15,0,32,53,1.0,school exemptions
+A348,A324,2,1,6,14,0.06,outbreak updates
+A481,A375,3,2,47,49,0.0,where to get vaccinated
+A322,A101,1,0,74,74,0.0,outbreak updates
+A218,A048,8,1,73,84,0.69,natural immunity
+A284,A435,1,1,11,11,0.0,outbreak updates
+A412,A196,7,1,58,90,0.91,school exemptions
+A191,A341,6,1,50,77,0.07,outbreak updates
+A492,A240,1,0,35,35,0.0,outbreak updates
+A329,A296,3,1,49,72,0.02,outbreak updates
+A320,A226,3,1,8,41,0.03,school exemptions
+A375,A138,3,1,46,52,0.0,vaccine safety
+A398,A147,2,0,9,14,0.75,school exemptions
+A358,A340,3,1,71,86,0.0,where to get vaccinated
+A110,A209,1,0,50,50,0.0,outbreak updates
+A455,A445,3,0,28,54,0.15,outbreak updates
+A298,A341,1,0,38,38,0.0,where to get vaccinated
+A398,A132,5,0,15,17,0.71,school exemptions
+A359,A311,3,1,15,30,0.05,outbreak updates
+A371,A254,8,2,55,80,0.41,vaccine safety
+A278,A149,4,0,70,90,0.81,natural immunity
+A422,A340,3,1,79,90,0.02,outbreak updates
+A274,A125,1,0,23,23,0.0,outbreak updates
+A018,A007,1,0,75,75,0.13,where to get vaccinated
+A394,A343,14,2,72,90,0.78,school exemptions
+A223,A296,3,0,67,79,0.0,outbreak updates
+A119,A445,1,1,35,35,0.02,school exemptions
+A293,A255,3,0,28,32,0.08,where to get vaccinated
+A343,A155,6,0,72,74,0.56,school exemptions
+A383,A304,1,0,72,72,0.0,school exemptions
+A446,A347,1,0,29,29,0.04,outbreak updates
+A321,A345,2,0,78,90,0.47,vaccine safety
+A424,A222,10,1,58,70,0.56,school exemptions
+A012,A400,3,0,38,57,0.0,vaccine safety
+A127,A319,2,0,26,32,0.04,school exemptions
+A282,A069,2,0,52,56,0.2,vaccine safety
+A020,A286,7,0,31,40,0.78,natural immunity
+A466,A118,3,0,39,43,0.55,vaccine safety
+A122,A242,11,0,71,90,0.75,school exemptions
+A238,A233,3,0,6,37,0.0,school exemptions
+A099,A343,15,2,47,54,0.87,school exemptions
+A171,A283,2,0,61,84,0.12,school exemptions
+A259,A048,4,0,75,90,0.69,school exemptions
+A099,A048,19,3,59,68,0.62,school exemptions
+A463,A274,3,0,29,49,0.03,vaccine safety
+A179,A424,16,2,61,74,0.75,vaccine safety
+A386,A360,5,0,10,18,0.0,vaccine safety
+A218,A466,30,2,30,60,0.47,vaccine safety
+A413,A048,8,0,16,31,0.69,vaccine safety
+A428,A286,5,1,22,52,0.78,natural immunity
+A087,A455,2,0,16,23,0.0,where to get vaccinated
+A367,A498,2,1,66,90,0.07,outbreak updates
+A383,A276,2,0,40,42,0.26,school exemptions
+A261,A394,8,0,27,51,0.87,natural immunity
+A404,A001,1,0,75,75,0.59,vaccine safety
+A155,A466,23,0,25,50,0.36,school exemptions
+A178,A195,2,0,57,84,0.15,school exemptions
+A142,A234,4,0,53,55,0.4,natural immunity
+A413,A450,3,1,71,80,1.0,vaccine safety
+A099,A222,6,1,34,56,0.7,school exemptions
+A099,A132,8,1,6,37,0.72,school exemptions
+A496,A445,3,0,27,42,0.0,school exemptions
+A240,A292,1,0,37,37,0.37,vaccine safety
+A027,A053,4,0,42,48,0.5,natural immunity
+A130,A131,3,2,54,61,0.01,outbreak updates
+A278,A343,8,1,53,54,0.83,vaccine safety
+A428,A147,3,2,37,74,0.79,natural immunity
+A398,A218,10,0,57,90,0.93,school exemptions
+A123,A296,4,0,55,56,0.04,outbreak updates
+A498,A170,2,0,13,46,0.08,school exemptions
+A224,A007,1,0,65,65,0.16,vaccine safety
+A227,A428,11,0,14,49,0.69,school exemptions
+A129,A312,1,0,8,8,0.09,outbreak updates
+A383,A445,2,0,23,44,0.02,school exemptions
+A400,A334,2,0,7,33,0.0,school exemptions
+A072,A195,4,0,62,84,0.02,school exemptions
+A344,A184,8,0,67,78,0.45,vaccine safety
+A474,A481,1,0,73,73,0.0,vaccine safety
+A449,A404,1,1,52,52,0.72,natural immunity
+A450,A151,2,0,53,84,0.53,natural immunity
+A079,A424,3,0,68,84,0.75,school exemptions
+A288,A007,2,0,18,22,0.06,vaccine safety
+A241,A198,5,0,77,90,0.0,school exemptions
+A259,A142,5,0,26,48,0.38,vaccine safety
+A258,A253,1,1,75,75,0.49,natural immunity
+A458,A177,1,0,56,56,0.0,outbreak updates
+A108,A139,2,0,31,65,0.02,outbreak updates
+A185,A345,2,0,27,40,0.62,school exemptions
+A479,A490,1,0,64,64,0.0,where to get vaccinated
+A149,A367,2,1,71,90,0.57,school exemptions
+A260,A055,1,0,7,7,0.23,natural immunity
+A321,A445,1,0,23,23,0.02,outbreak updates
+A179,A398,4,0,69,90,0.74,natural immunity
+A466,A445,1,0,74,74,0.04,school exemptions
+A194,A500,2,0,51,80,0.62,school exemptions
+A202,A498,1,0,70,70,0.07,outbreak updates
+A199,A341,3,0,33,60,0.07,outbreak updates
+A001,A080,1,0,44,44,0.24,natural immunity
+A222,A450,11,0,39,75,1.0,natural immunity
+A338,A435,2,0,36,58,0.09,vaccine safety
+A007,A340,3,0,13,19,0.0,vaccine safety
+A405,A146,1,0,22,22,0.04,where to get vaccinated
+A290,A205,9,1,72,90,0.65,vaccine safety
+A464,A434,2,0,59,75,0.06,where to get vaccinated
+A344,A099,14,0,14,40,0.8,school exemptions
+A402,A108,1,0,53,53,0.18,school exemptions
+A120,A095,3,0,71,90,0.16,outbreak updates
+A441,A217,1,1,24,24,0.0,vaccine safety
+A168,A498,2,0,63,75,0.0,school exemptions
+A424,A466,16,2,6,17,0.34,vaccine safety
+A130,A198,3,2,35,57,0.0,outbreak updates
+A104,A340,3,0,7,12,0.09,outbreak updates
+A355,A445,2,0,9,47,0.06,outbreak updates
+A485,A113,3,0,51,71,0.3,school exemptions
+A370,A345,2,1,37,50,0.48,vaccine safety
+A423,A341,6,0,36,61,0.04,where to get vaccinated
+A048,A467,3,0,21,45,0.96,natural immunity
+A454,A296,1,0,9,9,0.05,outbreak updates
+A419,A345,1,0,20,20,0.46,school exemptions
+A490,A070,1,0,9,9,0.19,outbreak updates
+A302,A251,7,0,74,90,0.92,natural immunity
+A438,A160,2,0,55,90,0.26,natural immunity
+A358,A257,1,0,47,47,0.04,outbreak updates
+A165,A131,3,0,49,87,0.07,outbreak updates
+A005,A226,2,0,39,77,0.05,school exemptions
+A499,A424,5,0,28,36,0.77,natural immunity
+A375,A341,9,0,21,50,0.05,vaccine safety
+A255,A125,1,1,72,72,0.0,where to get vaccinated
+A450,A467,12,1,62,77,0.87,vaccine safety
+A290,A450,5,0,72,90,1.0,school exemptions
+A122,A048,4,0,21,23,0.73,vaccine safety
+A279,A256,2,1,62,90,0.03,outbreak updates
+A337,A410,1,0,62,62,0.08,school exemptions
+A398,A466,20,2,77,90,0.39,school exemptions
+A219,A066,1,0,30,30,0.13,vaccine safety
+A281,A312,2,0,21,23,0.09,where to get vaccinated
+A272,A319,1,0,20,20,0.0,outbreak updates
+A197,A347,2,0,57,66,0.03,where to get vaccinated
+A019,A249,3,0,75,87,0.14,school exemptions
+A155,A343,5,0,70,88,0.86,natural immunity
+A410,A347,3,0,78,90,0.01,where to get vaccinated
+A084,A340,2,0,3,24,0.02,outbreak updates
+A155,A254,5,0,51,59,0.44,natural immunity
+A259,A468,11,1,36,73,0.85,natural immunity
+A045,A451,2,0,22,56,0.07,outbreak updates
+A424,A398,7,0,44,53,0.84,natural immunity
+A266,A312,1,0,14,14,0.0,vaccine safety
+A424,A099,3,1,50,83,0.85,natural immunity
+A092,A410,1,0,4,4,0.04,outbreak updates
+A262,A024,2,0,27,42,0.03,where to get vaccinated
+A411,A264,2,1,47,65,0.43,school exemptions
+A281,A498,1,0,57,57,0.0,outbreak updates
+A037,A410,2,1,42,72,0.0,school exemptions
+A424,A290,9,0,3,4,0.74,vaccine safety
+A130,A177,5,1,16,23,0.0,school exemptions
+A465,A021,1,0,7,7,0.0,school exemptions
+A407,A198,2,0,27,58,0.0,school exemptions
+A425,A174,1,0,17,17,0.67,vaccine safety
+A196,A412,6,0,15,22,0.64,vaccine safety
+A201,A198,2,0,14,53,0.0,school exemptions
+A278,A196,8,1,45,84,0.89,natural immunity
+A033,A240,2,0,62,81,0.02,school exemptions
+A203,A445,2,0,22,29,0.06,outbreak updates
+A283,A226,1,0,78,78,0.15,outbreak updates
+A092,A226,1,1,38,38,0.1,school exemptions
+A230,A123,3,0,64,90,0.02,outbreak updates
+A468,A048,3,0,5,26,0.62,natural immunity
+A251,A196,10,0,61,87,0.82,vaccine safety
+A236,A020,3,0,66,90,0.71,vaccine safety
+A431,A476,2,0,62,90,0.07,school exemptions
+A222,A466,12,0,2,41,0.46,natural immunity
+A233,A237,1,1,30,30,0.37,school exemptions
+A498,A340,2,1,43,78,0.0,where to get vaccinated
+A463,A410,1,0,79,79,0.12,school exemptions
+A349,A468,6,0,60,66,0.81,vaccine safety
+A283,A410,1,0,49,49,0.05,outbreak updates
+A222,A349,16,4,40,59,0.76,natural immunity
+A257,A400,1,0,57,57,0.07,vaccine safety
+A260,A265,2,0,46,49,0.44,school exemptions
+A185,A393,2,0,41,74,0.53,natural immunity
+A405,A440,2,1,61,80,0.11,vaccine safety
+A461,A138,1,0,59,59,0.02,outbreak updates
+A119,A410,2,1,5,17,0.0,school exemptions
+A286,A251,22,1,21,32,0.74,vaccine safety
+A021,A032,1,0,76,76,0.07,outbreak updates
+A095,A334,2,0,17,32,0.0,school exemptions
+A426,A469,1,1,37,37,0.2,vaccine safety
+A371,A466,24,2,66,83,0.41,vaccine safety
+A380,A403,1,0,48,48,0.1,where to get vaccinated
+A418,A347,3,1,60,71,0.16,vaccine safety
+A056,A101,1,1,55,55,0.03,outbreak updates
+A087,A369,1,0,5,5,0.05,school exemptions
+A098,A020,4,0,45,47,0.71,school exemptions
+A136,A105,2,0,35,38,0.39,natural immunity
+A027,A445,1,1,39,39,0.09,outbreak updates
+A457,A004,1,0,18,18,0.53,school exemptions
+A061,A123,1,1,77,77,0.0,where to get vaccinated
+A427,A279,5,0,43,74,0.0,school exemptions
+A038,A161,3,0,28,37,0.15,natural immunity
+A499,A330,5,1,68,90,0.96,natural immunity
+A190,A141,3,1,5,22,0.61,vaccine safety
+A450,A499,8,0,61,65,0.74,school exemptions
+A284,A445,2,0,10,40,0.0,outbreak updates
+A310,A410,1,0,78,78,0.01,outbreak updates
+A390,A410,1,1,76,76,0.08,school exemptions
+A079,A344,11,1,64,78,0.71,natural immunity
+A384,A305,2,0,24,37,0.11,where to get vaccinated
+A343,A259,11,0,22,61,0.78,school exemptions
+A394,A413,22,0,20,27,0.73,natural immunity
+A159,A007,2,0,39,69,0.02,where to get vaccinated
+A219,A081,2,0,31,66,0.12,outbreak updates
+A467,A048,5,0,50,65,0.64,vaccine safety
+A041,A445,3,0,9,37,0.0,school exemptions
+A115,A077,1,0,19,19,0.0,outbreak updates
+A385,A073,2,0,74,90,0.05,school exemptions
+A077,A445,3,0,48,76,0.06,outbreak updates
+A123,A107,1,0,26,26,0.05,where to get vaccinated
+A455,A233,4,0,7,16,0.0,outbreak updates
+A130,A253,1,0,4,4,0.44,vaccine safety
+A049,A415,1,0,73,73,0.02,outbreak updates
+A157,A445,2,0,33,42,0.07,school exemptions
+A155,A122,8,1,56,87,0.62,school exemptions
+A011,A189,2,2,7,38,0.2,outbreak updates
+A411,A129,1,0,37,37,0.04,vaccine safety
+A418,A266,1,0,24,24,0.0,where to get vaccinated
+A099,A155,11,1,6,9,0.53,natural immunity
+A177,A445,2,0,7,40,0.0,school exemptions
+A134,A101,3,0,42,73,0.03,school exemptions
+A468,A205,6,1,2,40,0.69,natural immunity
+A302,A286,3,1,28,34,0.75,school exemptions
+A203,A498,3,0,7,20,0.0,school exemptions
+A200,A007,2,1,12,14,0.1,where to get vaccinated
+A445,A375,3,0,42,67,0.09,where to get vaccinated
+A300,A375,2,0,24,33,0.0,where to get vaccinated
+A485,A410,4,0,55,64,0.17,outbreak updates
+A470,A345,1,0,5,5,0.49,vaccine safety
+A012,A347,3,0,26,50,0.09,vaccine safety
+A205,A155,10,0,7,15,0.6,school exemptions
+A379,A342,3,0,66,76,0.02,vaccine safety
+A344,A259,6,0,20,30,0.73,school exemptions
+A382,A423,2,2,50,77,0.01,outbreak updates
+A325,A067,2,0,11,28,0.11,where to get vaccinated
+A426,A341,4,0,6,7,0.0,where to get vaccinated
+A120,A326,4,0,69,78,0.0,vaccine safety
+A133,A340,2,0,13,23,0.05,outbreak updates
+A284,A047,1,0,5,5,0.08,where to get vaccinated
+A371,A430,12,1,48,75,0.58,vaccine safety
+A350,A213,2,0,76,76,0.0,where to get vaccinated
+A259,A242,14,3,45,52,0.73,vaccine safety
+A125,A334,1,0,74,74,0.0,outbreak updates
+A405,A341,7,1,44,68,0.0,where to get vaccinated
+A248,A191,1,0,2,2,0.05,outbreak updates
+A217,A341,2,0,67,74,0.04,vaccine safety
+A309,A341,5,0,26,61,0.03,where to get vaccinated
+A385,A345,2,0,45,50,0.47,school exemptions
+A149,A278,18,1,6,9,0.83,natural immunity
+A397,A341,5,1,55,56,0.04,where to get vaccinated
+A355,A254,1,0,43,43,0.47,school exemptions
+A206,A264,1,0,77,77,0.32,natural immunity
+A378,A460,1,0,4,4,0.01,where to get vaccinated
+A149,A428,3,0,2,17,0.82,school exemptions
+A264,A500,3,0,19,26,0.54,natural immunity
+A491,A341,5,1,68,71,0.03,where to get vaccinated
+A122,A079,3,0,49,60,1.0,vaccine safety
+A318,A347,1,1,43,43,0.03,vaccine safety
+A363,A287,2,0,45,45,0.13,vaccine safety
+A259,A196,17,3,14,49,0.97,natural immunity
+A212,A478,1,0,78,78,0.0,where to get vaccinated
+A206,A432,1,0,40,40,0.09,natural immunity
+A073,A326,3,0,46,46,0.0,outbreak updates
+A210,A255,3,0,64,83,0.0,where to get vaccinated
+A079,A278,8,2,41,41,0.78,school exemptions
+A404,A410,1,1,30,30,0.07,school exemptions
+A497,A445,2,0,4,11,0.11,outbreak updates
+A072,A026,2,0,75,90,0.2,natural immunity
+A408,A131,4,1,60,65,0.0,outbreak updates
+A467,A286,8,0,29,43,0.89,school exemptions
+A010,A143,3,0,79,90,0.02,vaccine safety
+A064,A082,3,0,35,42,0.84,vaccine safety
+A284,A084,2,0,43,61,0.0,outbreak updates
+A153,A131,4,1,39,44,0.05,outbreak updates
+A072,A319,2,0,49,55,0.0,outbreak updates
+A086,A141,4,0,57,87,0.54,vaccine safety
+A116,A240,1,0,70,70,0.07,outbreak updates
+A245,A033,2,0,46,74,0.35,natural immunity
+A290,A227,5,1,53,59,0.67,natural immunity
+A190,A240,1,0,58,58,0.03,outbreak updates
+A071,A326,1,0,40,40,0.0,vaccine safety
+A136,A445,3,0,66,76,0.09,outbreak updates
+A165,A375,1,0,43,43,0.03,vaccine safety
+A089,A435,1,0,61,61,0.06,vaccine safety
+A262,A087,3,0,79,90,0.04,outbreak updates
+A050,A226,3,1,74,76,0.06,outbreak updates
+A184,A264,4,0,43,46,0.41,natural immunity
+A251,A048,11,1,69,77,0.76,natural immunity
+A325,A440,3,0,53,57,0.0,vaccine safety
+A349,A394,4,0,70,90,0.91,vaccine safety
+A172,A334,3,0,2,4,0.0,school exemptions
+A098,A196,11,1,30,53,0.93,vaccine safety
+A406,A271,1,0,11,11,0.14,vaccine safety
+A261,A259,16,0,41,74,0.82,vaccine safety
+A039,A195,1,1,54,54,0.08,outbreak updates
+A346,A498,1,1,8,8,0.09,school exemptions
+A053,A059,2,1,30,37,0.49,school exemptions
+A439,A326,1,0,3,3,0.0,vaccine safety
+A284,A195,1,1,7,7,0.0,school exemptions
+A140,A345,1,0,17,17,0.51,natural immunity
+A053,A345,1,1,43,43,0.57,natural immunity
+A084,A375,2,1,52,72,0.0,vaccine safety
+A162,A369,2,1,72,83,0.06,outbreak updates
+A353,A146,4,1,71,85,0.07,outbreak updates
+A384,A014,1,0,26,26,0.09,outbreak updates
+A261,A048,9,0,15,50,0.71,natural immunity
+A450,A398,10,1,29,33,0.7,vaccine safety
+A179,A344,7,0,1,28,0.71,natural immunity
+A477,A256,3,0,19,48,0.04,outbreak updates
+A403,A341,4,0,33,67,0.01,vaccine safety
+A270,A050,3,0,12,24,0.0,vaccine safety
+A392,A287,1,1,62,62,0.03,vaccine safety
+A349,A499,13,1,13,39,0.75,natural immunity
+A213,A233,2,1,61,90,0.0,school exemptions
+A218,A254,22,2,64,90,0.55,school exemptions
+A435,A144,1,0,56,56,0.09,vaccine safety
+A347,A341,4,0,6,24,0.0,vaccine safety
+A062,A234,2,0,7,28,0.32,natural immunity
+A187,A194,1,0,30,30,0.36,vaccine safety
+A099,A236,11,0,5,7,0.64,natural immunity
+A361,A053,2,0,49,54,0.49,vaccine safety
+A222,A261,7,0,76,90,0.8,school exemptions
+A438,A234,4,1,46,58,0.43,vaccine safety
+A255,A341,1,1,35,35,0.0,where to get vaccinated
+A251,A142,5,0,18,49,0.45,school exemptions
+A371,A468,13,0,78,90,0.87,natural immunity
+A176,A410,3,0,4,31,0.14,outbreak updates
+A052,A326,2,0,43,80,0.06,outbreak updates
+A099,A020,4,1,67,83,0.78,vaccine safety
+A220,A007,2,1,50,74,0.11,vaccine safety
+A212,A311,5,1,57,90,0.09,outbreak updates
+A257,A341,1,0,16,16,0.0,outbreak updates
+A473,A393,3,0,40,60,0.42,vaccine safety
+A243,A311,3,0,35,60,0.01,vaccine safety
+A122,A428,9,0,13,23,0.84,vaccine safety
+A064,A015,3,0,76,85,0.55,school exemptions
+A271,A405,1,1,11,11,0.11,where to get vaccinated
+A130,A026,8,0,28,61,0.27,natural immunity
+A254,A281,1,1,9,9,0.04,vaccine safety
+A281,A247,3,0,15,28,0.0,school exemptions
+A023,A097,2,0,52,82,0.0,where to get vaccinated
+A424,A251,20,0,66,89,0.83,natural immunity
+A037,A239,2,1,13,37,0.11,where to get vaccinated
+A230,A293,2,0,52,87,0.01,vaccine safety
+A303,A172,2,0,76,90,0.0,school exemptions
+A290,A413,17,5,56,80,0.68,vaccine safety
+A196,A048,6,0,29,53,0.7,school exemptions
+A122,A227,4,0,12,17,0.6,natural immunity
+A251,A179,3,0,19,36,0.94,school exemptions
+A387,A200,1,0,47,47,0.03,outbreak updates
+A152,A256,3,0,76,90,0.1,outbreak updates
+A433,A341,5,0,47,58,0.08,vaccine safety
+A325,A131,2,0,49,79,0.04,outbreak updates
+A324,A213,2,0,41,67,0.05,outbreak updates
+A157,A088,5,1,45,49,0.02,outbreak updates
+A409,A418,3,0,44,70,0.02,outbreak updates
+A222,A227,14,1,65,67,0.62,vaccine safety
+A378,A159,3,1,63,87,0.0,outbreak updates
+A167,A340,1,0,4,4,0.03,vaccine safety
+A291,A283,1,0,52,52,0.0,school exemptions
+A150,A140,2,0,50,54,0.84,vaccine safety
+A020,A330,3,0,10,19,0.92,natural immunity
+A445,A279,3,0,5,41,0.02,school exemptions
+A460,A387,1,0,34,34,0.0,where to get vaccinated
+A499,A222,11,1,78,90,0.75,vaccine safety
+A307,A146,2,1,3,40,0.06,vaccine safety
+A098,A179,6,0,70,90,1.0,natural immunity
+A155,A218,5,0,11,16,0.91,school exemptions
+A099,A302,8,0,50,65,0.97,vaccine safety
+A393,A073,1,0,16,16,0.06,school exemptions
+A132,A099,11,0,55,88,0.85,school exemptions
+A098,A466,35,5,78,90,0.4,natural immunity
+A033,A264,4,0,9,26,0.31,natural immunity
+A164,A144,1,0,11,11,0.1,outbreak updates
+A163,A253,2,0,28,61,0.34,school exemptions
+A222,A205,7,0,34,38,0.65,vaccine safety
+A111,A400,2,0,78,90,0.03,vaccine safety
+A317,A195,1,0,45,45,0.18,outbreak updates
+A055,A062,3,0,34,50,0.11,natural immunity
+A103,A488,3,1,56,67,0.56,natural immunity
+A180,A014,1,1,42,42,0.11,where to get vaccinated
+A270,A480,2,0,63,72,0.12,where to get vaccinated
+A290,A419,9,1,35,68,0.74,natural immunity
+A460,A146,3,1,61,79,0.06,where to get vaccinated
+A342,A300,3,0,79,90,0.03,where to get vaccinated
+A428,A467,7,1,39,50,1.0,natural immunity
+A079,A122,6,1,19,31,0.5,natural immunity
+A098,A302,11,1,35,73,0.95,natural immunity
+A013,A170,2,0,30,65,0.0,outbreak updates
+A467,A428,4,1,54,58,0.89,school exemptions
+A091,A220,2,1,53,72,0.02,vaccine safety
+A418,A342,5,0,39,52,0.0,outbreak updates
+A205,A344,8,0,47,64,0.64,natural immunity
+A003,A192,1,0,79,79,0.01,where to get vaccinated
+A065,A347,1,1,18,18,0.07,outbreak updates
+A215,A077,5,0,23,29,0.06,outbreak updates
+A175,A316,1,0,73,73,0.05,vaccine safety
+A278,A079,6,0,46,57,0.92,natural immunity
+A424,A100,3,0,29,30,0.66,vaccine safety
+A331,A410,1,1,42,42,0.02,outbreak updates
+A413,A236,7,0,76,90,0.63,school exemptions
+A344,A254,9,0,74,83,0.5,school exemptions
+A171,A445,2,0,71,83,0.08,school exemptions
+A454,A324,1,0,29,29,0.0,where to get vaccinated
+A122,A196,14,2,26,31,0.91,school exemptions
+A136,A254,4,0,47,48,0.48,vaccine safety
+A457,A319,3,0,57,82,0.0,school exemptions
+A499,A394,11,0,59,90,0.81,vaccine safety
+A076,A039,2,2,18,27,0.49,school exemptions
+A248,A032,1,0,62,62,0.0,outbreak updates
+A394,A196,20,0,9,26,0.93,school exemptions
+A091,A052,2,0,51,78,0.0,where to get vaccinated
+A464,A240,2,0,14,49,0.03,outbreak updates
+A192,A403,4,1,72,90,0.0,where to get vaccinated
+A038,A122,3,0,42,50,0.52,school exemptions
+A087,A144,2,0,79,90,0.0,vaccine safety
+A227,A242,7,1,70,90,0.76,natural immunity
+A103,A234,3,0,45,75,0.36,school exemptions
+A209,A233,1,0,14,14,0.01,school exemptions
+A245,A500,6,1,16,23,0.53,vaccine safety
+A290,A344,15,2,10,24,0.64,vaccine safety
+A232,A495,4,0,5,16,0.19,vaccine safety
+A196,A419,7,0,50,83,0.79,natural immunity
+A001,A500,3,1,10,39,0.63,vaccine safety
+A153,A319,3,0,64,86,0.0,outbreak updates
+A216,A025,6,0,52,80,0.22,vaccine safety
+A430,A099,4,1,68,90,0.96,vaccine safety
+A371,A398,14,1,1,7,0.62,vaccine safety
+A316,A144,3,0,68,89,0.09,outbreak updates
+A439,A007,4,0,54,75,0.11,vaccine safety
+A232,A113,2,0,42,49,0.25,vaccine safety
+A124,A007,1,0,49,49,0.13,vaccine safety
+A324,A297,2,1,59,66,0.0,vaccine safety
+A083,A466,1,0,5,5,0.4,vaccine safety
+A409,A464,5,2,18,56,0.0,outbreak updates
+A162,A002,5,1,20,41,0.0,school exemptions
+A378,A088,2,1,42,70,0.0,outbreak updates
+A499,A468,3,0,53,86,0.87,vaccine safety
+A302,A099,13,1,26,47,0.86,school exemptions
+A179,A499,14,2,9,32,0.79,vaccine safety
+A221,A296,3,0,48,86,0.02,outbreak updates
+A277,A226,2,0,37,58,0.04,school exemptions
+A394,A254,18,1,79,90,0.5,school exemptions
+A251,A468,7,0,29,38,0.71,vaccine safety
+A317,A384,1,0,47,47,0.0,outbreak updates
+A141,A347,2,1,46,75,0.0,where to get vaccinated
+A312,A447,4,0,8,30,0.01,outbreak updates
+A434,A007,2,0,35,44,0.16,where to get vaccinated
+A286,A450,3,0,66,67,1.0,natural immunity
+A350,A479,2,0,46,70,0.0,where to get vaccinated
+A096,A466,2,0,5,17,0.38,vaccine safety
+A187,A492,3,1,66,90,0.1,school exemptions
+A129,A338,2,0,46,83,0.18,outbreak updates
+A120,A144,2,0,48,83,0.0,outbreak updates
+A222,A428,11,1,47,50,0.77,natural immunity
+A118,A466,1,0,66,66,0.36,school exemptions
+A451,A228,5,0,33,70,0.0,vaccine safety
+A471,A184,1,0,13,13,0.58,natural immunity
+A110,A181,1,0,57,57,0.0,where to get vaccinated
+A421,A447,1,1,47,47,0.0,outbreak updates
+A097,A101,3,0,49,58,0.03,outbreak updates
+A042,A144,1,1,70,70,0.06,vaccine safety
+A160,A445,3,0,52,83,0.0,outbreak updates
+A209,A279,4,0,71,89,0.0,school exemptions
+A412,A142,3,0,54,71,0.4,school exemptions
+A348,A388,1,0,10,10,0.0,vaccine safety
+A413,A227,8,0,13,52,0.63,school exemptions
+A367,A327,1,0,23,23,0.6,natural immunity
+A013,A345,2,0,12,25,0.46,vaccine safety
+A241,A144,2,0,60,68,0.0,where to get vaccinated
+A149,A227,9,0,56,61,0.66,natural immunity
+A495,A131,2,1,16,23,0.0,school exemptions
+A493,A347,2,1,43,47,0.04,outbreak updates
+A318,A368,2,0,76,90,0.12,school exemptions
+A281,A479,2,0,77,90,0.04,where to get vaccinated
+A019,A303,1,0,48,48,0.25,vaccine safety
+A286,A430,11,0,2,38,0.64,natural immunity
+A343,A079,9,0,32,42,0.98,natural immunity
+A242,A020,4,0,62,77,0.67,school exemptions
+A020,A449,2,0,10,17,0.69,vaccine safety
+A466,A210,1,1,57,57,0.18,vaccine safety
+A069,A234,2,0,47,86,0.4,vaccine safety
+A325,A387,2,0,16,45,0.03,outbreak updates
+A159,A375,1,0,64,64,0.02,where to get vaccinated
+A058,A311,1,0,58,58,0.0,vaccine safety
+A049,A018,2,1,61,80,0.08,outbreak updates
+A305,A124,3,0,9,18,0.06,where to get vaccinated
+A329,A226,3,2,71,83,0.03,outbreak updates
+A361,A025,2,1,12,38,0.23,natural immunity
+A236,A261,3,0,57,90,0.78,natural immunity
+A199,A169,2,0,36,74,0.1,where to get vaccinated
+A202,A146,4,0,3,7,0.09,outbreak updates
+A098,A344,4,0,55,71,0.66,school exemptions
+A222,A155,9,0,18,54,0.54,natural immunity
+A127,A235,4,0,52,88,0.0,vaccine safety
+A297,A295,3,0,69,90,0.1,vaccine safety
+A020,A222,13,3,21,26,0.66,natural immunity
+A215,A423,2,0,68,90,0.03,outbreak updates
+A333,A146,3,0,66,90,0.04,where to get vaccinated
+A403,A007,2,1,43,62,0.08,vaccine safety
+A354,A340,2,0,5,20,0.0,where to get vaccinated
+A330,A236,6,0,62,70,0.66,vaccine safety
+A290,A155,12,1,15,28,0.61,vaccine safety
+A149,A344,14,2,43,43,0.71,natural immunity
+A302,A344,10,1,9,32,0.64,school exemptions
+A394,A122,11,2,8,20,0.53,natural immunity
+A210,A226,2,0,5,28,0.06,outbreak updates
+A066,A375,2,1,78,90,0.0,where to get vaccinated
+A351,A234,2,0,55,90,0.46,natural immunity
+A129,A389,1,0,63,63,0.01,where to get vaccinated
+A160,A029,3,0,77,86,0.01,school exemptions
+A090,A345,2,0,25,46,0.58,natural immunity
+A051,A319,1,0,7,7,0.0,school exemptions
+A222,A424,11,0,55,84,0.85,school exemptions
+A223,A347,4,2,64,77,0.0,where to get vaccinated
+A298,A143,5,0,15,27,0.01,vaccine safety
+A337,A408,2,0,68,69,0.1,outbreak updates
+A261,A302,4,0,29,35,1.0,school exemptions
+A287,A158,2,0,58,66,0.08,vaccine safety
+A461,A012,1,1,53,53,0.03,where to get vaccinated
+A376,A095,1,0,4,4,0.05,outbreak updates
+A061,A106,3,0,25,53,0.51,vaccine safety
+A138,A066,1,0,28,28,0.1,vaccine safety
+A145,A053,4,0,36,42,0.46,natural immunity
+A225,A433,2,0,21,21,0.27,outbreak updates
+A251,A286,12,2,66,70,0.82,school exemptions
+A181,A143,1,0,50,50,0.03,outbreak updates
+A301,A088,3,0,44,72,0.0,school exemptions
+A373,A088,1,0,44,44,0.01,school exemptions
+A159,A382,1,0,51,51,0.03,where to get vaccinated
+A093,A341,1,1,41,41,0.0,outbreak updates
+A278,A302,10,0,71,74,1.0,school exemptions
+A482,A032,1,1,74,74,0.02,school exemptions
+A394,A430,6,1,10,38,0.58,vaccine safety
+A208,A375,3,3,65,75,0.07,outbreak updates
+A184,A340,1,1,76,76,0.1,where to get vaccinated
+A105,A352,1,0,16,16,0.33,school exemptions
+A488,A118,1,0,31,31,0.55,natural immunity
+A046,A345,2,0,36,59,0.54,school exemptions
+A287,A263,5,0,20,56,0.0,outbreak updates
+A187,A102,1,0,33,33,0.17,natural immunity
+A290,A020,5,0,54,72,0.7,vaccine safety
+A207,A345,1,0,15,15,0.44,natural immunity
+A288,A010,2,0,76,90,0.0,outbreak updates
+A175,A284,4,0,58,90,0.1,vaccine safety
+A369,A040,1,0,19,19,0.05,vaccine safety
+A205,A079,6,1,25,51,0.84,school exemptions
+A143,A375,1,0,31,31,0.07,where to get vaccinated
+A194,A410,4,0,54,62,0.06,outbreak updates
+A274,A201,2,0,46,54,0.0,vaccine safety
+A142,A059,2,0,37,63,0.59,vaccine safety
+A019,A457,2,0,43,51,0.15,natural immunity
+A037,A289,1,1,21,21,0.12,vaccine safety
+A100,A056,1,0,77,77,0.6,school exemptions
+A320,A084,2,0,68,73,0.11,vaccine safety
+A222,A142,2,0,57,73,0.36,school exemptions
+A047,A445,2,0,75,90,0.07,school exemptions
+A191,A451,3,1,35,69,0.09,outbreak updates
+A158,A319,2,0,46,76,0.05,outbreak updates
+A087,A347,3,0,42,67,0.03,outbreak updates
+A388,A400,1,0,66,66,0.0,outbreak updates
+A132,A205,8,0,67,78,0.64,school exemptions
+A065,A226,4,0,78,90,0.2,school exemptions
+A035,A345,1,0,26,26,0.48,vaccine safety
+A428,A205,14,2,69,90,0.55,vaccine safety
+A171,A158,1,0,49,49,0.0,where to get vaccinated
+A294,A035,1,0,2,2,0.69,vaccine safety
+A020,A412,9,1,40,63,0.64,school exemptions
+A289,A306,2,0,30,59,0.04,natural immunity
+A070,A410,3,0,71,90,0.0,school exemptions
+A121,A234,4,2,34,70,0.37,vaccine safety
+A430,A098,6,0,71,72,0.83,school exemptions
+A317,A146,3,0,41,47,0.13,vaccine safety
+A454,A410,2,0,58,64,0.05,school exemptions
+A448,A009,1,0,15,15,0.0,vaccine safety
+A355,A341,2,2,18,18,0.08,where to get vaccinated
+A220,A474,2,0,31,64,0.02,vaccine safety
+A043,A362,1,0,11,11,0.04,vaccine safety
+A372,A131,1,0,52,52,0.0,outbreak updates
+A261,A132,5,0,60,89,0.6,school exemptions
+A159,A296,2,0,11,15,0.06,school exemptions
+A084,A088,4,0,16,18,0.02,outbreak updates
+A056,A141,2,1,68,84,0.66,vaccine safety
+A460,A347,2,0,33,68,0.0,vaccine safety
+A317,A296,2,0,33,46,0.0,outbreak updates
+A499,A450,6,0,24,61,0.97,natural immunity
+A236,A330,8,1,10,23,0.92,school exemptions
+A478,A034,2,0,1,16,0.03,where to get vaccinated
+A389,A018,3,0,21,41,0.0,outbreak updates
+A218,A398,18,2,31,55,0.73,vaccine safety
+A445,A234,2,0,50,69,0.42,school exemptions
+A299,A363,3,2,36,55,0.0,where to get vaccinated
+A025,A356,2,0,66,90,0.0,natural immunity
+A333,A347,3,0,17,22,0.05,outbreak updates
+A353,A295,1,0,19,19,0.06,vaccine safety
+A428,A419,5,1,72,87,0.72,vaccine safety
+A240,A319,1,0,60,60,0.0,school exemptions
+A450,A254,5,0,76,90,0.51,natural immunity
+A288,A021,3,0,2,23,0.02,school exemptions
+A473,A390,2,0,4,4,0.39,vaccine safety
+A027,A360,2,2,78,82,0.04,where to get vaccinated
+A251,A466,21,1,47,49,0.41,school exemptions
+A057,A151,4,1,65,90,0.59,natural immunity
+A234,A392,1,0,14,14,0.22,natural immunity
+A373,A498,2,0,66,90,0.04,school exemptions
+A433,A073,2,0,44,62,0.06,outbreak updates
+A239,A192,3,0,23,48,0.0,where to get vaccinated
+A110,A326,1,0,45,45,0.0,vaccine safety
+A227,A261,11,1,55,63,0.8,vaccine safety
+A003,A311,1,0,75,75,0.07,vaccine safety
+A428,A236,5,0,35,66,0.64,vaccine safety
+A262,A347,1,0,15,15,0.0,vaccine safety
+A406,A466,1,0,25,25,0.43,school exemptions
+A391,A312,3,0,11,49,0.0,where to get vaccinated
+A019,A095,1,1,62,62,0.08,where to get vaccinated
+A444,A272,2,0,79,90,0.49,natural immunity
+A494,A498,3,0,9,35,0.11,outbreak updates
+A297,A340,2,0,29,49,0.05,vaccine safety
+A380,A279,1,1,8,8,0.0,school exemptions
+A220,A347,3,0,79,90,0.0,outbreak updates
+A052,A007,2,0,5,25,0.07,where to get vaccinated
+A100,A345,2,0,23,32,0.54,vaccine safety
+A201,A300,1,0,24,24,0.0,where to get vaccinated
+A098,A349,5,0,69,90,0.77,school exemptions
+A428,A251,8,1,36,68,0.81,school exemptions
+A468,A349,6,0,26,52,0.84,vaccine safety
+A030,A265,2,0,5,42,0.53,vaccine safety
+A146,A303,1,0,45,45,0.26,vaccine safety
+A371,A236,11,0,26,45,0.62,natural immunity
+A483,A074,2,0,37,41,0.18,vaccine safety
+A099,A259,5,0,66,90,0.81,natural immunity
+A293,A003,3,1,67,72,0.0,where to get vaccinated
+A467,A343,13,0,34,68,0.88,vaccine safety
+A126,A445,2,0,67,68,0.08,school exemptions
+A041,A353,3,0,65,71,0.0,outbreak updates
+A326,A159,1,0,78,78,0.07,where to get vaccinated
+A378,A319,1,0,6,6,0.02,outbreak updates
+A131,A143,2,0,36,43,0.06,vaccine safety
+A298,A324,1,0,36,36,0.0,where to get vaccinated
+A016,A234,5,2,14,16,0.39,school exemptions
+A020,A155,12,2,23,38,0.67,school exemptions
+A070,A019,2,2,27,48,0.03,school exemptions
+A273,A088,2,0,68,84,0.0,outbreak updates
+A447,A240,5,0,40,52,0.05,outbreak updates
+A299,A032,2,0,22,54,0.05,school exemptions
+A054,A300,4,0,57,64,0.0,vaccine safety
+A014,A209,1,0,21,21,0.0,outbreak updates
+A167,A498,3,0,19,51,0.0,school exemptions
+A280,A144,2,0,67,90,0.12,vaccine safety
+A208,A432,2,1,52,58,0.05,natural immunity
+A394,A302,13,1,27,60,0.92,school exemptions
+A480,A192,3,0,62,64,0.08,vaccine safety
+A348,A281,3,1,53,58,0.04,outbreak updates
+A050,A446,2,0,76,90,0.0,outbreak updates
+A413,A187,3,0,52,74,0.6,vaccine safety
+A419,A370,4,0,10,45,0.32,school exemptions
+A494,A162,3,0,25,53,0.38,vaccine safety
+A450,A413,4,0,73,84,0.72,vaccine safety
+A457,A427,3,1,29,46,0.31,school exemptions
+A500,A431,3,0,3,5,0.29,natural immunity
+A415,A341,2,0,24,45,0.0,where to get vaccinated
+A268,A375,3,3,61,90,0.0,outbreak updates
+A488,A445,4,0,31,34,0.11,outbreak updates
+A377,A240,3,0,17,21,0.0,outbreak updates
+A149,A467,3,0,58,70,0.9,natural immunity
+A259,A344,5,0,60,64,0.72,school exemptions
+A484,A082,2,0,8,40,0.9,natural immunity
+A289,A038,2,0,19,33,0.79,vaccine safety
+A172,A257,1,1,29,29,0.0,vaccine safety
+A412,A122,4,0,23,25,0.58,natural immunity
+A344,A261,4,0,6,7,0.78,natural immunity
+A235,A445,5,1,36,58,0.03,outbreak updates
+A300,A200,2,1,56,76,0.04,outbreak updates
+A222,A236,4,0,27,43,0.63,vaccine safety
+A344,A466,38,4,56,66,0.33,natural immunity
+A185,A195,2,0,41,50,0.07,outbreak updates
+A343,A466,15,1,31,66,0.47,vaccine safety
+A107,A445,1,0,13,13,0.15,school exemptions
+A327,A015,3,0,72,90,0.47,school exemptions
+A074,A256,2,0,75,75,0.14,school exemptions
+A067,A347,2,0,21,32,0.01,vaccine safety
+A292,A445,1,0,71,71,0.07,outbreak updates
+A218,A149,5,0,22,36,0.83,natural immunity
+A190,A347,2,1,12,15,0.06,where to get vaccinated
+A458,A113,3,0,69,90,0.16,school exemptions
+A047,A422,4,0,57,88,0.05,outbreak updates
+A218,A424,14,0,47,61,0.76,natural immunity
+A253,A037,1,0,15,15,0.19,natural immunity
+A302,A371,3,1,66,90,0.76,vaccine safety
+A277,A007,2,0,46,80,0.06,where to get vaccinated
+A231,A014,5,0,4,22,0.0,outbreak updates
+A077,A032,2,0,24,28,0.0,school exemptions
+A089,A498,2,0,36,71,0.01,outbreak updates
+A467,A398,11,0,28,40,0.67,natural immunity
+A286,A467,5,0,51,66,0.9,natural immunity
+A133,A488,1,0,51,51,0.49,school exemptions
+A290,A286,24,2,31,68,0.81,natural immunity
+A302,A242,4,1,12,43,0.82,vaccine safety
+A094,A347,2,0,48,57,0.0,where to get vaccinated
+A450,A227,3,0,21,57,0.65,natural immunity
+A169,A241,3,0,13,23,0.1,vaccine safety
+A259,A466,25,0,57,90,0.43,school exemptions
+A467,A254,8,0,43,64,0.42,school exemptions
+A242,A227,10,2,39,75,0.67,natural immunity
+A116,A297,1,0,77,77,0.0,outbreak updates
+A402,A188,1,0,1,1,0.0,outbreak updates
+A394,A349,6,0,2,30,0.81,natural immunity
+A160,A240,1,0,14,14,0.0,school exemptions
+A344,A242,12,0,8,32,0.68,natural immunity
+A014,A445,3,0,76,90,0.09,school exemptions
+A443,A144,1,0,68,68,0.09,outbreak updates
+A499,A428,5,2,47,59,0.73,natural immunity
+A234,A256,3,0,12,14,0.12,outbreak updates
+A025,A031,1,0,54,54,0.1,school exemptions
+A249,A345,5,0,6,37,0.45,vaccine safety
+A172,A240,2,0,11,32,0.0,outbreak updates
+A278,A020,12,1,70,88,0.67,school exemptions
+A337,A326,1,1,76,76,0.0,outbreak updates
+A208,A131,2,0,49,84,0.0,outbreak updates
+A319,A169,1,1,55,55,0.17,where to get vaccinated
+A500,A345,3,0,68,85,0.57,vaccine safety
+A343,A398,11,1,70,87,0.69,school exemptions
+A371,A344,7,0,23,47,0.65,school exemptions
+A227,A048,9,0,15,42,0.77,school exemptions
+A202,A240,5,0,63,90,0.01,outbreak updates
+A265,A184,2,0,51,81,0.61,vaccine safety
+A041,A226,2,0,40,77,0.0,school exemptions
+A268,A445,2,0,18,52,0.09,school exemptions
+A476,A393,4,0,66,67,0.54,school exemptions
+A326,A144,2,0,42,66,0.11,outbreak updates
+A286,A205,14,2,71,90,0.66,school exemptions
+A020,A428,3,0,10,25,0.81,school exemptions
+A436,A270,1,0,4,4,0.04,vaccine safety
+A388,A347,3,0,34,41,0.03,where to get vaccinated
+A499,A413,13,2,19,40,0.84,natural immunity
+A017,A161,3,0,37,60,0.18,natural immunity
+A040,A435,6,0,57,63,0.0,vaccine safety
+A394,A278,11,2,49,72,0.93,school exemptions
+A448,A410,2,0,40,71,0.05,school exemptions
+A399,A053,2,0,77,90,0.42,vaccine safety
+A003,A347,3,0,61,82,0.03,outbreak updates
+A020,A499,4,0,16,48,0.74,vaccine safety
+A292,A264,1,0,59,59,0.4,natural immunity
+A394,A048,5,0,43,71,0.66,vaccine safety
+A302,A450,13,1,16,41,1.0,natural immunity
+A295,A144,5,1,61,70,0.09,outbreak updates
+A352,A282,3,0,5,44,0.3,vaccine safety
+A230,A240,1,1,26,26,0.0,outbreak updates
+A135,A146,2,0,64,77,0.09,vaccine safety
+A160,A431,2,0,41,57,0.3,school exemptions
+A348,A347,2,0,7,21,0.09,outbreak updates
+A156,A240,3,0,62,66,0.06,school exemptions
+A132,A254,21,3,45,72,0.5,vaccine safety
+A473,A264,2,0,17,28,0.43,school exemptions
+A399,A345,3,0,7,19,0.57,vaccine safety
+A234,A466,5,0,77,79,0.35,natural immunity
+A313,A025,3,0,32,52,0.2,vaccine safety
+A004,A086,2,0,63,71,0.49,school exemptions
+A499,A259,4,0,44,82,0.83,vaccine safety
+A109,A066,2,0,60,69,0.12,vaccine safety
+A473,A141,3,0,49,86,0.61,vaccine safety
+A036,A095,1,0,63,63,0.01,outbreak updates
+A349,A098,5,0,2,17,0.89,natural immunity
+A058,A144,1,1,18,18,0.08,vaccine safety
+A264,A083,2,0,55,76,0.58,vaccine safety
+A499,A205,8,0,73,90,0.75,school exemptions
+A071,A341,4,0,43,64,0.02,where to get vaccinated
+A122,A394,6,1,41,54,0.97,natural immunity
+A128,A232,2,0,50,75,0.26,school exemptions
+A398,A343,8,0,3,33,0.86,natural immunity
+A412,A132,4,0,68,74,0.68,natural immunity
+A028,A234,2,0,32,41,0.47,school exemptions
+A203,A347,1,1,22,22,0.0,where to get vaccinated
+A145,A345,2,0,74,90,0.59,vaccine safety
+A352,A025,2,0,18,44,0.16,natural immunity
+A276,A365,1,0,63,63,0.72,school exemptions
+A201,A295,4,0,47,62,0.09,vaccine safety
+A202,A427,1,0,58,58,0.25,natural immunity
+A118,A445,1,1,1,1,0.0,school exemptions
+A062,A433,3,0,43,47,0.05,school exemptions
+A054,A410,3,0,31,51,0.0,school exemptions
+A050,A233,2,0,27,61,0.07,school exemptions
+A227,A343,7,0,20,20,0.84,natural immunity
+A466,A254,1,0,12,12,0.5,school exemptions
+A164,A445,4,0,1,21,0.1,school exemptions
+A041,A341,1,1,40,40,0.07,outbreak updates
+A207,A500,4,1,4,35,0.56,vaccine safety
+A077,A340,3,1,71,77,0.05,vaccine safety
+A154,A345,1,0,20,20,0.45,natural immunity
+A028,A413,3,0,17,36,0.71,school exemptions
+A163,A420,2,0,43,79,0.5,natural immunity
+A074,A226,2,0,26,58,0.1,school exemptions
+A424,A413,9,0,23,31,0.75,natural immunity
+A260,A303,3,1,62,83,0.21,school exemptions
+A479,A347,2,0,62,84,0.0,where to get vaccinated
+A015,A264,2,1,35,54,0.25,natural immunity
+A042,A073,1,0,17,17,0.09,school exemptions
+A341,A340,2,0,11,27,0.0,where to get vaccinated
+A480,A233,3,2,36,58,0.01,outbreak updates
+A088,A435,3,0,34,48,0.0,where to get vaccinated
+A237,A488,3,0,72,90,0.54,school exemptions
+A039,A184,2,0,77,90,0.49,school exemptions
+A399,A466,2,0,62,71,0.43,natural immunity
+A197,A212,3,0,24,38,0.08,where to get vaccinated
+A179,A330,9,0,7,29,0.93,vaccine safety
+A284,A159,2,0,24,37,0.06,outbreak updates
+A209,A300,1,0,75,75,0.01,outbreak updates
+A242,A371,9,0,32,71,0.68,vaccine safety
+A138,A347,2,1,40,42,0.0,where to get vaccinated
+A442,A226,2,0,78,90,0.09,outbreak updates
+A492,A234,3,0,29,57,0.37,vaccine safety
+A075,A375,2,0,75,90,0.04,vaccine safety
+A024,A009,1,0,6,6,0.05,outbreak updates
+A335,A445,1,0,25,25,0.07,school exemptions
+A037,A073,4,1,5,28,0.0,school exemptions
+A098,A254,12,2,13,45,0.45,vaccine safety
+A191,A021,1,0,22,22,0.02,outbreak updates
+A371,A218,5,0,7,8,0.95,school exemptions
+A465,A051,2,0,1,25,0.05,school exemptions
+A170,A312,3,2,41,64,0.02,vaccine safety
+A360,A410,2,0,18,36,0.1,outbreak updates
+A363,A340,1,0,32,32,0.12,where to get vaccinated
+A343,A179,9,0,34,71,0.94,school exemptions
+A412,A398,11,0,27,63,0.75,natural immunity
+A132,A261,8,0,36,66,0.83,vaccine safety
+A393,A226,5,1,58,78,0.08,school exemptions
+A254,A276,1,1,42,42,0.35,natural immunity
+A189,A347,1,0,39,39,0.04,vaccine safety
+A302,A098,5,0,35,57,0.89,school exemptions
+A281,A066,3,0,28,52,0.12,outbreak updates
+A478,A233,2,1,10,16,0.0,outbreak updates
+A399,A500,1,0,25,25,0.54,vaccine safety
+A499,A155,8,2,60,81,0.6,vaccine safety
+A155,A099,3,0,63,89,0.87,school exemptions
+A036,A003,1,0,3,3,0.04,vaccine safety
+A087,A287,2,0,70,82,0.04,vaccine safety
+A098,A467,5,0,5,35,0.94,natural immunity
+A358,A226,4,0,28,37,0.05,outbreak updates
+A196,A122,10,1,36,48,0.52,school exemptions
+A452,A340,1,0,29,29,0.04,where to get vaccinated
+A342,A239,2,0,41,48,0.03,outbreak updates
+A401,A244,2,0,69,90,0.02,school exemptions
+A241,A472,2,0,6,11,0.0,vaccine safety
+A275,A043,2,0,4,16,0.04,where to get vaccinated
+A070,A125,3,0,33,62,0.02,where to get vaccinated
+A363,A375,1,0,52,52,0.0,outbreak updates
+A413,A286,20,1,36,66,0.92,natural immunity
+A004,A264,2,1,47,53,0.34,school exemptions
+A011,A143,1,1,60,60,0.04,outbreak updates
+A214,A307,1,1,13,13,0.01,vaccine safety
+A006,A340,1,0,68,68,0.03,outbreak updates
+A221,A351,2,0,40,69,0.1,natural immunity
+A257,A007,2,0,47,82,0.15,vaccine safety
+A255,A198,1,0,43,43,0.02,outbreak updates
+A344,A302,11,1,71,78,0.91,natural immunity
+A006,A002,2,0,58,81,0.04,school exemptions
+A156,A393,5,0,50,71,0.44,natural immunity
+A296,A066,2,0,78,90,0.11,where to get vaccinated
+A450,A424,3,0,38,59,0.68,vaccine safety
+A051,A401,1,0,44,44,0.01,school exemptions
+A464,A320,7,0,23,33,0.0,vaccine safety
+A389,A209,4,0,61,90,0.0,outbreak updates
+A122,A450,4,0,62,69,0.99,vaccine safety
+A500,A025,2,0,54,71,0.22,vaccine safety
+A083,A476,3,0,59,89,0.07,natural immunity
+A147,A468,1,0,6,6,0.84,natural immunity
+A020,A242,8,0,70,90,0.8,natural immunity
+A047,A256,2,0,7,32,0.17,outbreak updates
+A266,A400,3,0,68,83,0.05,outbreak updates
+A209,A350,1,0,18,18,0.0,where to get vaccinated
+A222,A254,23,1,44,65,0.5,natural immunity
+A414,A198,2,0,25,57,0.0,school exemptions
+A182,A341,2,0,24,39,0.06,outbreak updates
+A066,A347,4,0,10,25,0.0,outbreak updates
+A499,A419,5,1,15,53,0.72,school exemptions
+A244,A131,3,0,56,80,0.0,outbreak updates
+A430,A466,30,0,52,90,0.41,natural immunity
+A356,A221,2,0,2,6,0.13,vaccine safety
+A228,A095,3,1,13,42,0.05,vaccine safety
+A378,A334,4,0,79,86,0.04,outbreak updates
+A440,A012,1,0,44,44,0.02,outbreak updates
+A051,A445,2,1,17,49,0.07,outbreak updates
+A128,A131,1,1,60,60,0.0,school exemptions
+A114,A478,6,1,4,39,0.0,outbreak updates
+A330,A398,9,0,32,51,0.62,vaccine safety
+A101,A144,2,0,51,53,0.0,where to get vaccinated
+A052,A034,4,0,73,84,0.0,outbreak updates
+A026,A234,3,1,9,22,0.42,school exemptions
+A399,A419,2,0,49,79,0.77,school exemptions
+A095,A169,2,0,65,90,0.08,outbreak updates
+A116,A341,3,0,14,37,0.0,outbreak updates
+A027,A233,1,0,63,63,0.06,outbreak updates
+A488,A186,1,0,2,2,0.53,school exemptions
+A014,A123,4,0,18,29,0.11,where to get vaccinated
+A251,A467,8,1,15,38,0.95,vaccine safety
+A412,A349,20,1,51,54,0.85,vaccine safety
+A330,A441,2,0,12,45,0.62,natural immunity
+A409,A198,3,1,51,73,0.01,outbreak updates
+A265,A061,2,0,3,20,0.76,natural immunity
+A096,A233,1,0,59,59,0.0,school exemptions
+A064,A303,1,0,46,46,0.16,school exemptions
+A236,A099,6,1,3,23,0.91,vaccine safety
+A237,A345,2,0,53,84,0.5,natural immunity
+A398,A179,6,0,49,82,0.97,school exemptions
+A146,A447,3,0,69,90,0.0,where to get vaccinated
+A176,A240,1,0,37,37,0.0,school exemptions
+A398,A227,5,0,33,70,0.65,vaccine safety
+A149,A466,35,1,68,79,0.42,school exemptions
+A479,A034,2,0,11,31,0.01,where to get vaccinated
+A201,A347,1,0,54,54,0.09,where to get vaccinated
+A328,A039,3,1,47,71,0.56,natural immunity
+A009,A445,3,0,58,81,0.1,school exemptions
+A242,A218,12,1,42,58,0.96,school exemptions
+A112,A209,3,0,61,61,0.09,where to get vaccinated
+A424,A254,8,0,49,54,0.44,vaccine safety
+A132,A149,8,1,66,90,0.88,school exemptions
+A361,A147,2,0,56,76,0.73,natural immunity
+A403,A112,1,0,66,66,0.0,where to get vaccinated
+A048,A218,5,0,52,57,0.97,vaccine safety
+A332,A387,4,0,16,30,0.12,outbreak updates
+A336,A204,3,0,60,60,0.12,vaccine safety
+A357,A170,1,0,46,46,0.03,school exemptions
+A343,A184,8,0,12,15,0.55,school exemptions
+A318,A195,1,0,2,2,0.06,school exemptions
+A200,A169,2,0,38,63,0.13,where to get vaccinated
+A048,A468,7,1,55,85,0.76,natural immunity
+A325,A043,4,1,77,90,0.04,where to get vaccinated
+A423,A340,2,0,32,49,0.0,vaccine safety
+A264,A234,4,0,26,40,0.43,natural immunity
+A349,A259,3,1,68,68,0.77,vaccine safety
+A039,A289,2,0,61,63,0.06,vaccine safety
+A176,A445,3,0,59,75,0.01,outbreak updates
+A320,A144,5,0,12,50,0.07,outbreak updates
+A069,A160,1,0,50,50,0.18,vaccine safety
+A368,A146,3,0,71,90,0.05,vaccine safety
+A105,A457,3,1,7,28,0.12,vaccine safety
+A109,A142,2,1,9,25,0.45,vaccine safety
+A440,A490,5,1,22,41,0.0,outbreak updates
+A290,A467,11,0,70,86,0.9,school exemptions
+A057,A234,2,0,25,53,0.47,vaccine safety
+A293,A144,5,1,22,53,0.05,where to get vaccinated
+A362,A341,1,0,30,30,0.04,where to get vaccinated
+A299,A234,2,0,56,84,0.44,school exemptions
+A240,A300,4,0,2,36,0.02,where to get vaccinated
+A109,A139,1,0,25,25,0.0,outbreak updates
+A500,A101,1,1,46,46,0.0,outbreak updates
+A245,A234,1,0,31,31,0.42,school exemptions
+A005,A445,2,0,29,41,0.0,outbreak updates
+A132,A466,29,2,66,78,0.43,vaccine safety
+A413,A251,4,1,2,5,0.82,natural immunity
+A332,A433,2,0,77,89,0.04,outbreak updates
+A297,A052,2,0,5,25,0.01,outbreak updates
+A182,A387,2,0,68,90,0.15,outbreak updates
+A324,A159,3,0,45,84,0.04,where to get vaccinated
+A179,A430,6,2,75,90,0.66,school exemptions
+A109,A445,3,1,1,3,0.13,outbreak updates
+A006,A347,1,0,68,68,0.0,where to get vaccinated
+A064,A205,1,1,17,17,0.6,vaccine safety
+A341,A287,4,0,18,42,0.12,vaccine safety
+A192,A066,4,0,70,90,0.1,outbreak updates
+A383,A296,2,0,36,42,0.0,school exemptions
+A460,A341,2,0,35,49,0.0,vaccine safety
+A393,A303,1,0,25,25,0.15,natural immunity
+A364,A489,1,0,2,2,0.0,where to get vaccinated
+A180,A449,3,0,6,45,0.66,vaccine safety
+A142,A062,1,0,74,74,0.07,vaccine safety
+A266,A311,1,0,75,75,0.03,vaccine safety
+A033,A032,1,0,18,18,0.03,school exemptions
+A350,A144,2,0,36,44,0.01,outbreak updates
+A412,A020,14,0,47,58,0.79,vaccine safety
+A287,A341,4,0,19,39,0.0,vaccine safety
+A430,A184,3,0,54,56,0.45,natural immunity
+A484,A313,2,1,53,75,0.13,school exemptions
+A290,A424,4,0,66,68,0.75,school exemptions
+A495,A498,4,0,3,14,0.01,outbreak updates
+A303,A319,1,0,38,38,0.0,outbreak updates
+A382,A304,4,1,47,85,0.01,school exemptions
+A126,A012,1,1,52,52,0.0,where to get vaccinated
+A192,A226,1,0,9,9,0.13,school exemptions
+A286,A419,8,0,30,60,0.64,school exemptions
+A343,A205,4,0,66,90,0.63,vaccine safety
+A137,A276,2,0,60,84,0.26,school exemptions
+A308,A498,2,0,20,22,0.0,school exemptions
+A261,A428,7,1,50,70,0.81,natural immunity
+A400,A240,2,0,58,89,0.0,outbreak updates
+A020,A236,6,2,30,49,0.66,school exemptions
+A036,A340,2,0,54,90,0.0,outbreak updates
+A403,A340,3,1,19,23,0.02,outbreak updates
+A358,A123,2,1,11,30,0.0,where to get vaccinated
+A060,A462,3,0,40,67,0.0,outbreak updates
+A270,A387,2,0,52,88,0.0,outbreak updates
+A021,A091,1,1,61,61,0.05,vaccine safety
+A310,A347,3,0,50,78,0.0,where to get vaccinated
+A319,A063,4,0,36,58,0.0,outbreak updates
+A392,A057,2,0,4,12,0.75,vaccine safety
+A222,A020,3,0,67,90,0.64,natural immunity
+A107,A347,1,0,47,47,0.08,outbreak updates
+A487,A347,1,0,55,55,0.0,vaccine safety
+A149,A132,10,1,48,78,0.66,natural immunity
+A437,A159,4,1,55,61,0.02,vaccine safety
+A160,A226,2,1,9,46,0.08,outbreak updates
+A179,A302,4,1,21,54,0.93,vaccine safety
+A181,A436,5,0,3,6,0.0,vaccine safety
+A020,A142,2,0,59,84,0.42,vaccine safety
+A118,A264,1,0,53,53,0.41,vaccine safety
+A053,A365,1,0,52,52,0.72,natural immunity
+A394,A079,4,1,75,90,0.92,natural immunity
+A308,A296,3,0,77,90,0.0,school exemptions
+A221,A195,2,0,18,35,0.08,outbreak updates
+A061,A345,3,0,37,65,0.52,natural immunity
+A112,A497,2,0,79,90,0.0,outbreak updates
+A272,A103,4,0,1,30,0.23,vaccine safety
+A306,A345,1,0,26,26,0.52,school exemptions
+A074,A380,1,0,26,26,0.0,school exemptions
+A454,A340,2,0,27,58,0.04,outbreak updates
+A241,A124,1,0,31,31,0.0,vaccine safety
+A112,A347,1,0,60,60,0.0,where to get vaccinated
+A491,A243,4,0,10,30,0.0,vaccine safety
+A027,A198,1,1,2,2,0.01,school exemptions
+A192,A191,2,1,63,90,0.09,outbreak updates
+A296,A287,1,0,1,1,0.0,where to get vaccinated
+A450,A122,5,0,19,45,0.56,school exemptions
+A282,A073,5,0,9,16,0.0,school exemptions
+A271,A488,3,0,53,86,0.49,school exemptions
+A428,A079,3,0,78,83,0.92,school exemptions
+A424,A344,5,0,41,77,0.7,vaccine safety
+A139,A445,3,0,59,63,0.0,school exemptions
+A246,A045,2,1,5,19,0.1,where to get vaccinated
+A409,A009,1,0,50,50,0.04,where to get vaccinated
+A106,A345,1,0,10,10,0.51,vaccine safety
+A171,A340,1,0,64,64,0.02,vaccine safety
+A208,A276,4,0,34,57,0.24,school exemptions
+A242,A079,3,0,15,52,0.86,school exemptions
+A020,A251,6,0,25,28,0.75,vaccine safety
+A085,A375,2,1,15,22,0.0,outbreak updates
+A302,A119,3,0,62,82,0.51,school exemptions
+A312,A481,3,0,71,89,0.0,outbreak updates
+A282,A347,1,0,76,76,0.0,where to get vaccinated
+A423,A012,1,0,19,19,0.08,vaccine safety
+A494,A273,4,0,24,29,0.02,outbreak updates
+A090,A065,2,0,36,69,0.09,vaccine safety
+A216,A488,1,0,45,45,0.52,school exemptions
+A424,A259,5,1,2,34,0.77,school exemptions
+A321,A354,1,1,10,10,0.08,where to get vaccinated
+A189,A375,1,0,47,47,0.04,vaccine safety
+A412,A413,13,3,22,49,0.73,natural immunity
+A471,A254,2,0,4,15,0.44,school exemptions
+A433,A395,3,0,49,60,0.0,school exemptions
+A406,A410,2,2,77,90,0.09,school exemptions
+A468,A184,8,1,62,89,0.48,natural immunity
+A087,A223,3,0,20,22,0.06,vaccine safety
+A499,A236,8,1,13,28,0.62,natural immunity
+A133,A267,2,0,26,41,0.01,school exemptions
+A196,A132,14,2,60,64,0.7,natural immunity
+A031,A240,2,0,67,89,0.0,school exemptions
+A098,A278,3,0,25,48,0.92,natural immunity
+A132,A218,4,0,21,32,0.88,vaccine safety
+A487,A144,4,0,51,82,0.07,outbreak updates
+A411,A329,3,0,51,56,0.0,vaccine safety
+A496,A234,3,1,19,26,0.4,vaccine safety
+A373,A139,2,0,49,49,0.0,outbreak updates
+A296,A445,2,0,16,43,0.0,school exemptions
+A238,A226,1,0,58,58,0.09,school exemptions
+A467,A290,4,0,13,37,0.88,vaccine safety
+A155,A499,5,0,50,50,0.79,natural immunity
+A499,A122,3,1,65,90,0.67,school exemptions
+A170,A347,2,0,56,58,0.05,outbreak updates
+A439,A144,2,0,72,78,0.07,outbreak updates
+A013,A445,2,0,27,63,0.08,outbreak updates
+A286,A149,11,1,15,41,0.92,school exemptions
+A142,A141,4,1,56,75,0.51,school exemptions
+A127,A010,2,0,53,64,0.0,vaccine safety
+A116,A347,2,0,35,54,0.05,where to get vaccinated
+A236,A122,9,1,42,48,0.61,natural immunity
+A124,A400,4,0,50,87,0.13,vaccine safety
+A392,A373,3,1,51,76,0.26,natural immunity
+A193,A131,3,1,33,53,0.0,outbreak updates
+A054,A211,2,0,25,44,0.0,vaccine safety
+A029,A088,1,0,55,55,0.09,school exemptions
+A273,A279,2,0,22,45,0.08,school exemptions
+A017,A226,2,0,44,82,0.0,outbreak updates
+A219,A255,2,0,18,48,0.0,where to get vaccinated
+A201,A445,2,0,18,36,0.04,outbreak updates
+A099,A344,11,4,49,72,0.79,natural immunity
+A291,A021,1,0,44,44,0.0,school exemptions
+A415,A319,1,1,23,23,0.0,outbreak updates
+A235,A303,1,0,14,14,0.25,natural immunity
+A495,A234,2,0,21,53,0.46,vaccine safety
+A150,A500,1,0,62,62,0.57,natural immunity
+A394,A371,8,1,14,48,0.77,vaccine safety
+A378,A167,1,0,55,55,0.06,where to get vaccinated
+A029,A241,2,0,14,16,0.02,outbreak updates
+A161,A387,1,1,21,21,0.09,where to get vaccinated
+A205,A278,4,0,26,30,1.0,vaccine safety
+A343,A286,8,1,9,19,0.79,natural immunity
+A309,A032,2,0,3,36,0.0,outbreak updates
+A030,A204,4,0,34,55,0.03,natural immunity
+A098,A261,20,1,31,48,0.84,vaccine safety
+A197,A029,3,1,23,57,0.14,school exemptions
+A450,A222,7,0,66,78,0.61,school exemptions
+A413,A254,24,3,15,54,0.44,vaccine safety
+A268,A180,3,0,72,78,0.21,vaccine safety
+A265,A296,1,1,2,2,0.0,outbreak updates
+A109,A007,1,1,68,68,0.16,where to get vaccinated
+A083,A088,1,0,65,65,0.08,school exemptions
+A292,A351,6,0,37,42,0.24,natural immunity
+A242,A467,10,2,42,81,0.82,natural immunity
+A363,A347,1,0,55,55,0.0,where to get vaccinated
+A166,A479,2,0,69,84,0.0,outbreak updates
+A369,A347,1,0,55,55,0.0,outbreak updates
+A194,A154,3,0,63,64,0.16,natural immunity
+A231,A241,2,0,3,23,0.04,vaccine safety
+A111,A445,3,0,50,73,0.02,school exemptions
+A256,A498,1,0,45,45,0.09,outbreak updates
+A450,A428,4,1,2,5,0.76,school exemptions
+A330,A020,3,0,51,51,0.73,vaccine safety
+A230,A032,2,0,52,54,0.11,outbreak updates
+A382,A312,2,0,51,59,0.03,where to get vaccinated
+A462,A493,2,0,44,56,0.0,vaccine safety
+A122,A184,4,0,74,80,0.48,natural immunity
+A274,A387,3,1,44,79,0.0,vaccine safety
+A082,A253,3,0,14,19,0.32,school exemptions
+A434,A144,3,0,46,84,0.02,where to get vaccinated
+A169,A088,3,0,29,31,0.02,school exemptions
+A400,A267,2,0,56,81,0.0,outbreak updates
+A259,A261,12,0,11,47,0.86,vaccine safety
+A225,A276,2,0,38,52,0.23,natural immunity
+A109,A125,3,1,46,80,0.04,outbreak updates
+A166,A357,2,0,36,71,0.0,where to get vaccinated
+A034,A284,3,0,60,63,0.05,where to get vaccinated
+A496,A381,2,0,49,50,0.36,school exemptions
+A046,A254,3,0,34,60,0.47,vaccine safety
+A316,A226,1,0,75,75,0.0,school exemptions
+A376,A298,3,0,5,18,0.04,vaccine safety
+A026,A345,2,0,48,52,0.5,vaccine safety
+A309,A211,2,1,12,50,0.05,vaccine safety
+A343,A149,8,2,4,34,0.87,natural immunity
+A152,A173,2,0,71,75,0.1,where to get vaccinated
+A218,A242,10,0,39,45,0.79,school exemptions
+A045,A433,2,0,11,50,0.1,outbreak updates
+A347,A435,3,1,47,86,0.07,outbreak updates
+A456,A340,4,0,19,24,0.0,where to get vaccinated
+A251,A424,8,1,59,76,0.76,school exemptions
+A169,A279,3,0,22,29,0.02,school exemptions
+A297,A445,4,0,70,90,0.0,outbreak updates
+A037,A195,1,0,71,71,0.08,outbreak updates
+A103,A294,2,0,43,65,0.39,school exemptions
+A370,A184,1,0,3,3,0.53,natural immunity
+A181,A014,2,0,34,67,0.09,vaccine safety
+A155,A302,13,0,27,62,1.0,vaccine safety
+A380,A433,2,0,44,47,0.12,school exemptions
+A467,A020,7,1,5,26,0.75,vaccine safety
+A109,A433,1,0,45,45,0.1,outbreak updates
+A430,A371,8,1,37,69,0.7,vaccine safety
+A099,A430,6,0,79,90,0.78,natural immunity
+A242,A419,9,0,26,31,0.74,natural immunity
+A020,A254,21,2,48,80,0.45,natural immunity
+A481,A416,2,0,53,58,0.0,outbreak updates
+A061,A184,2,0,15,15,0.48,natural immunity
+A213,A073,3,0,58,66,0.06,school exemptions
+A151,A466,3,0,34,40,0.33,vaccine safety
+A461,A488,2,0,64,75,0.5,natural immunity
+A141,A420,1,0,20,20,0.48,natural immunity
+A408,A177,2,0,65,86,0.0,school exemptions
+A044,A341,1,0,62,62,0.1,where to get vaccinated
+A085,A405,1,0,44,44,0.0,vaccine safety
+A261,A254,6,1,48,53,0.46,school exemptions
+A201,A062,1,1,22,22,0.08,natural immunity
+A500,A184,2,0,28,28,0.47,natural immunity
+A257,A285,4,0,65,90,0.0,vaccine safety
+A192,A445,1,1,52,52,0.0,outbreak updates
+A260,A234,2,0,14,18,0.38,vaccine safety
+A097,A350,1,0,77,77,0.0,where to get vaccinated
+A243,A366,1,0,75,75,0.0,outbreak updates
+A349,A466,18,2,18,45,0.4,natural immunity
+A164,A226,1,0,12,12,0.15,outbreak updates
+A028,A500,1,0,29,29,0.54,vaccine safety
+A389,A466,1,0,26,26,0.35,natural immunity
+A247,A410,2,0,58,79,0.0,school exemptions
+A138,A369,2,0,9,40,0.04,school exemptions
+A066,A124,2,0,47,66,0.13,vaccine safety
+A012,A300,3,1,57,62,0.0,where to get vaccinated
+A053,A500,4,0,69,86,0.46,school exemptions
+A497,A387,4,0,71,72,0.08,where to get vaccinated
+A246,A266,2,0,2,2,0.0,vaccine safety
+A484,A347,2,2,38,74,0.0,outbreak updates
+A149,A349,10,2,21,53,0.83,vaccine safety
+A002,A341,1,0,37,37,0.05,vaccine safety
+A435,A498,5,0,2,23,0.0,outbreak updates
+A369,A378,1,0,7,7,0.03,vaccine safety
+A228,A144,1,0,11,11,0.03,where to get vaccinated
+A007,A341,1,0,72,72,0.1,where to get vaccinated
+A159,A340,4,0,48,79,0.0,outbreak updates
+A178,A234,2,0,35,57,0.46,school exemptions
+A349,A343,5,1,13,17,0.78,school exemptions
+A145,A004,1,0,79,79,0.67,school exemptions
+A374,A008,2,0,31,31,0.02,school exemptions
+A098,A367,5,0,8,30,0.66,school exemptions
+A468,A259,6,0,29,37,0.79,school exemptions
+A130,A170,2,0,33,69,0.0,outbreak updates
+A111,A340,4,0,28,49,0.0,where to get vaccinated
+A413,A290,6,0,73,79,0.86,natural immunity
+A472,A195,1,0,35,35,0.0,school exemptions
+A447,A287,5,0,22,27,0.02,outbreak updates
+A022,A131,4,0,69,81,0.0,outbreak updates
+A392,A347,2,1,28,60,0.05,vaccine safety

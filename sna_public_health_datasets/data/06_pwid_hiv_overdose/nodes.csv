@@ -1,0 +1,381 @@
+id,role,location,age,gender,housing,primary_drug,injections_per_day,years_injecting,ssp_client,on_moud,carries_naloxone,overdoses_6m,hiv_status,hcv_antibody
+P131,sexual partner (does not inject),City North,32,woman,unstable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P378,PWID,Rural town,33,woman,homeless,opioids,5,9,0,0,0,1,unknown,unknown
+P022,PWID,Rural town,36,man,stable,opioids,6,18,0,0,0,0,negative,positive
+P244,sexual partner (does not inject),City East,53,man,stable,none (does not inject),0,0,0,0,0,0,negative,negative
+P184,PWID,City North,32,man,unstable,methamphetamine,3,5,1,0,0,0,unknown,unknown
+P316,PWID,Rural town,37,man,homeless,opioids,3,7,0,0,0,0,positive,positive
+P067,sexual partner (does not inject),City East,28,man,homeless,none (does not inject),0,0,0,0,0,0,negative,negative
+P262,PWID,City North,38,man,homeless,methamphetamine,1,11,0,0,0,0,unknown,unknown
+P300,PWID,City North,38,man,homeless,opioids,3,11,1,0,1,0,negative,positive
+P037,PWID,Rural town,28,man,stable,opioids,10,12,0,0,0,2,positive,positive
+P236,PWID,Rural town,18,man,stable,opioids,2,4,0,0,0,0,unknown,unknown
+P379,sexual partner (does not inject),Rural town,23,woman,unstable,none (does not inject),0,0,0,0,1,0,unknown,unknown
+P365,sexual partner (does not inject),City East,19,man,unstable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P014,PWID,Rural town,24,man,unstable,opioids,4,4,1,0,0,0,unknown,unknown
+P082,PWID,City East,29,man,unstable,opioids,7,4,0,0,0,2,positive,positive
+P368,PWID,City South,41,man,unstable,opioids,3,1,0,0,1,1,unknown,unknown
+P007,PWID,Rural town,38,woman,stable,opioids,1,7,0,0,1,1,unknown,unknown
+P251,PWID,City South,32,man,unstable,opioids + methamphetamine,6,1,0,0,0,0,negative,negative
+P289,PWID,City South,39,man,homeless,methamphetamine,3,5,1,0,0,0,negative,negative
+P361,sexual partner (does not inject),City East,23,woman,homeless,none (does not inject),0,0,0,0,0,0,negative,negative
+P156,PWID,City East,39,man,unstable,opioids,3,20,1,0,1,0,negative,positive
+P350,sexual partner (does not inject),City South,26,man,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P328,sexual partner (does not inject),City East,30,woman,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P085,PWID,City South,38,man,homeless,methamphetamine,2,12,1,1,0,0,negative,positive
+P319,PWID,City East,39,man,unstable,opioids,3,5,1,0,0,0,negative,positive
+P050,PWID,Rural town,47,man,unstable,methamphetamine,2,3,0,0,0,0,unknown,unknown
+P046,PWID,City South,44,man,homeless,opioids,4,9,0,0,0,2,negative,negative
+P264,sexual partner (does not inject),City South,46,woman,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P099,PWID,City South,39,man,unstable,methamphetamine,2,14,0,1,0,0,unknown,unknown
+P122,PWID,Rural town,32,man,unstable,opioids,2,18,0,0,0,1,positive,positive
+P142,PWID,Rural town,26,man,unstable,opioids + methamphetamine,10,12,0,0,0,0,positive,positive
+P025,sexual partner (does not inject),Rural town,30,woman,homeless,none (does not inject),0,0,0,0,1,0,negative,negative
+P215,PWID,Rural town,43,woman,stable,opioids,6,10,0,0,0,1,negative,positive
+P132,PWID,City East,40,man,stable,methamphetamine,1,16,0,0,0,0,negative,negative
+P128,PWID,City South,42,man,homeless,opioids + methamphetamine,1,7,0,0,1,0,unknown,unknown
+P179,PWID,City North,23,woman,unstable,opioids + methamphetamine,6,9,0,0,0,0,unknown,unknown
+P320,PWID,Rural town,26,man,unstable,opioids,8,11,0,0,0,0,negative,positive
+P070,PWID,City East,30,man,homeless,opioids,4,4,1,1,1,0,negative,positive
+P326,sexual partner (does not inject),Rural town,46,woman,unstable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P359,PWID,City East,35,woman,unstable,opioids,4,1,0,0,1,1,unknown,unknown
+P078,peer outreach worker,City South,53,woman,stable,none (in recovery),0,0,0,0,1,0,negative,positive
+P376,PWID,City East,40,woman,homeless,opioids,1,5,0,0,0,2,unknown,unknown
+P309,peer outreach worker,Rural town,55,man,stable,none (in recovery),0,0,0,1,1,0,negative,negative
+P203,PWID,Rural town,32,woman,stable,opioids,5,3,1,0,0,1,unknown,unknown
+P045,PWID,City East,38,man,unstable,opioids,2,12,1,0,1,1,negative,positive
+P119,PWID,Rural town,32,man,unstable,methamphetamine,1,12,0,0,1,0,unknown,unknown
+P334,PWID,City East,46,man,stable,opioids + methamphetamine,1,16,0,0,0,0,negative,negative
+P256,PWID,Rural town,22,man,unstable,opioids,4,8,1,1,0,0,negative,positive
+P355,PWID,City East,53,woman,stable,methamphetamine,2,10,1,0,0,0,negative,positive
+P193,peer outreach worker,City North,59,man,stable,none (in recovery),0,0,0,0,1,0,negative,negative
+P087,PWID,City North,47,woman,unstable,opioids + methamphetamine,1,16,0,0,0,0,unknown,unknown
+P035,PWID,City South,36,man,unstable,opioids + methamphetamine,2,6,1,1,1,0,unknown,unknown
+P017,PWID,City East,39,man,unstable,opioids,4,4,0,1,0,0,unknown,unknown
+P069,PWID,Rural town,22,man,stable,methamphetamine,3,7,0,0,0,0,negative,positive
+P294,PWID,City East,49,man,homeless,opioids,2,18,1,0,0,2,negative,positive
+P242,PWID,City East,35,man,homeless,opioids + methamphetamine,5,4,0,1,0,0,unknown,unknown
+P296,PWID,Rural town,35,man,stable,opioids,3,4,0,1,0,1,positive,positive
+P073,PWID,Rural town,28,woman,unstable,opioids + methamphetamine,2,2,0,0,0,0,negative,negative
+P019,PWID,City South,42,woman,stable,opioids + methamphetamine,5,6,1,1,0,0,negative,positive
+P106,sexual partner (does not inject),Rural town,28,woman,stable,none (does not inject),0,0,0,0,0,0,negative,negative
+P246,PWID,City East,34,man,homeless,opioids,3,13,0,1,0,2,unknown,unknown
+P349,PWID,Rural town,50,man,unstable,opioids + methamphetamine,1,4,0,0,0,0,unknown,unknown
+P088,PWID,Rural town,32,man,unstable,opioids,8,14,0,0,1,1,positive,positive
+P211,PWID,City North,32,man,unstable,opioids + methamphetamine,2,7,1,1,1,1,negative,negative
+P177,PWID,City North,34,man,stable,opioids,5,6,1,0,1,2,unknown,unknown
+P352,sexual partner (does not inject),City East,36,man,stable,none (does not inject),0,0,0,0,1,0,unknown,unknown
+P054,PWID,City East,43,woman,homeless,opioids + methamphetamine,3,7,1,1,1,1,negative,positive
+P357,PWID,City East,29,woman,homeless,opioids + methamphetamine,3,3,1,0,1,1,negative,positive
+P048,sexual partner (does not inject),City East,34,man,stable,none (does not inject),0,0,0,0,0,0,negative,positive
+P042,PWID,City South,40,man,stable,opioids,2,6,1,0,0,0,negative,negative
+P053,PWID,Rural town,32,woman,unstable,opioids,8,7,0,1,1,0,negative,positive
+P259,PWID,Rural town,41,man,unstable,methamphetamine,1,4,0,0,0,0,unknown,unknown
+P057,PWID,Rural town,29,man,stable,opioids + methamphetamine,1,15,0,0,0,1,unknown,unknown
+P353,PWID,Rural town,41,woman,stable,opioids,10,8,0,0,0,1,negative,positive
+P227,PWID,City East,38,man,homeless,methamphetamine,3,15,0,0,0,0,negative,negative
+P140,PWID,City East,34,woman,unstable,methamphetamine,2,12,1,0,0,0,negative,positive
+P090,sexual partner (does not inject),Rural town,40,woman,stable,none (does not inject),0,0,0,0,0,0,negative,negative
+P063,PWID,City East,45,man,homeless,opioids,4,7,1,0,0,0,negative,positive
+P061,PWID,Rural town,35,man,stable,opioids + methamphetamine,3,21,0,0,0,0,negative,positive
+P336,PWID,City North,42,man,homeless,opioids,1,4,0,0,0,0,unknown,unknown
+P354,PWID,Rural town,42,man,homeless,opioids + methamphetamine,3,19,0,0,0,0,unknown,unknown
+P093,PWID,Rural town,42,man,unstable,opioids + methamphetamine,1,17,0,1,0,0,unknown,unknown
+P125,PWID,City North,39,man,stable,opioids + methamphetamine,1,19,1,0,0,0,unknown,negative
+P084,PWID,City South,62,man,unstable,methamphetamine,3,5,0,0,0,0,negative,negative
+P171,PWID,City North,41,man,stable,opioids + methamphetamine,6,8,1,0,1,0,negative,positive
+P198,PWID,Rural town,22,man,stable,opioids,6,7,0,0,0,1,negative,positive
+P091,PWID,City East,25,man,stable,methamphetamine,3,9,1,1,0,0,negative,positive
+P103,PWID,City North,35,man,homeless,opioids,1,11,1,0,0,1,negative,negative
+P324,PWID,City North,27,man,unstable,opioids + methamphetamine,3,13,0,1,0,0,unknown,unknown
+P232,PWID,City East,26,man,homeless,opioids,1,6,1,0,1,1,negative,negative
+P341,PWID,City South,26,man,unstable,opioids,2,12,1,0,1,0,negative,positive
+P325,peer outreach worker,City East,53,woman,stable,none (in recovery),0,0,0,0,1,0,negative,positive
+P372,PWID,City North,34,woman,stable,opioids + methamphetamine,4,11,1,0,1,0,negative,positive
+P321,PWID,City East,32,man,unstable,opioids,2,18,0,0,0,0,negative,negative
+P033,PWID,Rural town,29,man,stable,methamphetamine,2,8,0,0,0,0,negative,positive
+P302,PWID,City South,43,man,stable,opioids,1,5,0,0,1,0,negative,negative
+P117,PWID,City North,37,man,stable,opioids,1,9,1,1,0,0,negative,positive
+P344,PWID,Rural town,32,man,unstable,opioids + methamphetamine,7,5,0,0,0,0,unknown,unknown
+P358,PWID,City South,46,woman,stable,opioids + methamphetamine,5,10,1,1,0,1,negative,positive
+P222,PWID,City East,45,woman,stable,opioids,6,6,1,1,1,0,negative,negative
+P240,PWID,Rural town,27,man,stable,opioids,1,7,1,0,0,0,unknown,unknown
+P030,PWID,Rural town,19,man,unstable,opioids + methamphetamine,4,5,1,0,0,0,positive,positive
+P224,PWID,Rural town,29,woman,unstable,opioids,7,9,0,0,0,1,negative,positive
+P136,PWID,Rural town,24,man,stable,opioids,8,10,0,0,0,1,positive,positive
+P180,PWID,City East,36,woman,homeless,opioids + methamphetamine,5,10,1,1,1,0,negative,positive
+P129,PWID,City South,24,man,stable,methamphetamine,1,3,0,0,0,0,unknown,unknown
+P303,sexual partner (does not inject),City South,33,man,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P234,PWID,City East,40,woman,homeless,opioids,3,8,1,0,0,0,negative,positive
+P010,PWID,Rural town,28,man,stable,methamphetamine,2,11,0,1,0,0,unknown,unknown
+P089,PWID,Rural town,28,man,homeless,opioids,5,3,1,0,0,1,negative,positive
+P150,PWID,City East,43,man,stable,methamphetamine,2,10,1,0,0,0,negative,positive
+P333,PWID,Rural town,29,man,homeless,opioids,1,5,0,0,0,0,negative,positive
+P065,PWID,City North,33,woman,homeless,opioids,4,7,0,0,0,0,negative,positive
+P133,PWID,City North,38,man,stable,opioids,6,2,1,1,1,1,unknown,unknown
+P003,PWID,Rural town,29,nonbinary,homeless,opioids + methamphetamine,9,6,0,0,0,2,positive,positive
+P135,PWID,Rural town,32,man,stable,opioids,9,7,0,0,0,1,positive,positive
+P213,PWID,Rural town,46,man,homeless,methamphetamine,2,2,0,0,0,0,unknown,unknown
+P040,PWID,City East,52,woman,homeless,methamphetamine,2,8,1,0,1,0,negative,negative
+P111,PWID,City South,29,man,unstable,opioids,2,12,1,1,1,0,negative,positive
+P120,PWID,Rural town,33,man,stable,opioids,1,4,0,0,0,1,unknown,unknown
+P367,PWID,City North,49,man,unstable,opioids + methamphetamine,5,18,0,0,0,0,unknown,unknown
+P058,sexual partner (does not inject),Rural town,31,woman,stable,none (does not inject),0,0,0,0,0,0,negative,negative
+P304,PWID,City East,29,woman,homeless,opioids,3,10,1,1,0,0,negative,negative
+P331,PWID,City East,38,woman,homeless,opioids + methamphetamine,5,16,1,1,1,1,negative,positive
+P209,PWID,Rural town,39,man,homeless,opioids + methamphetamine,2,15,1,0,0,0,unknown,unknown
+P220,PWID,Rural town,34,man,stable,opioids + methamphetamine,4,11,0,0,0,0,negative,positive
+P173,PWID,City East,46,woman,unstable,opioids,3,4,1,0,0,1,negative,negative
+P170,PWID,Rural town,28,man,unstable,opioids + methamphetamine,4,8,1,1,0,0,unknown,unknown
+P327,PWID,City East,40,woman,unstable,opioids,6,15,1,0,1,1,negative,negative
+P305,PWID,City East,44,woman,homeless,opioids,4,4,1,1,1,1,unknown,unknown
+P295,PWID,Rural town,32,man,homeless,opioids,6,10,0,0,0,2,unknown,unknown
+P102,PWID,City East,35,man,unstable,opioids + methamphetamine,1,3,1,0,0,0,negative,positive
+P356,sexual partner (does not inject),Rural town,31,man,unstable,none (does not inject),0,0,0,0,0,0,negative,negative
+P043,PWID,Rural town,44,woman,stable,opioids + methamphetamine,6,14,0,0,0,1,unknown,unknown
+P235,PWID,City North,44,woman,unstable,opioids + methamphetamine,1,20,1,0,0,0,negative,positive
+P121,PWID,City South,29,man,homeless,opioids,1,6,1,0,1,1,negative,negative
+P307,PWID,City East,40,man,homeless,opioids,6,7,1,0,0,2,negative,positive
+P098,PWID,City North,48,woman,homeless,methamphetamine,3,8,1,1,1,0,negative,negative
+P072,PWID,City North,36,man,stable,opioids,5,14,0,1,0,0,unknown,unknown
+P028,PWID,City North,40,woman,homeless,opioids,1,7,1,1,0,0,negative,positive
+P274,PWID,City South,36,man,unstable,opioids,6,10,1,0,1,0,negative,negative
+P006,PWID,City North,29,woman,homeless,opioids + methamphetamine,1,15,1,1,1,0,negative,positive
+P195,PWID,City North,24,man,homeless,opioids,2,8,1,0,1,0,negative,negative
+P314,PWID,City North,32,nonbinary,homeless,methamphetamine,1,8,0,1,0,0,negative,positive
+P233,PWID,City South,24,woman,homeless,methamphetamine,3,10,1,0,1,3,negative,positive
+P191,PWID,City East,37,man,homeless,opioids + methamphetamine,3,3,0,0,1,0,unknown,unknown
+P226,sexual partner (does not inject),City North,47,man,stable,none (does not inject),0,0,0,0,0,0,negative,negative
+P159,PWID,City East,33,man,stable,opioids + methamphetamine,3,15,1,1,0,0,negative,positive
+P335,PWID,City North,47,man,stable,opioids,4,7,1,0,1,0,negative,positive
+P313,PWID,Rural town,34,woman,unstable,opioids,9,8,1,0,0,0,positive,positive
+P250,PWID,City East,31,man,stable,opioids,1,17,1,0,0,0,unknown,unknown
+P287,PWID,Rural town,41,man,stable,opioids + methamphetamine,5,14,0,0,0,1,unknown,unknown
+P201,PWID,Rural town,43,woman,stable,opioids,2,7,0,0,0,0,unknown,positive
+P348,PWID,City North,39,man,unstable,opioids,2,1,1,1,0,1,negative,negative
+P162,PWID,City South,56,man,stable,opioids + methamphetamine,6,10,1,0,1,0,negative,negative
+P114,sexual partner (does not inject),Rural town,45,man,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P100,PWID,Rural town,25,man,homeless,opioids,6,7,0,0,0,0,positive,positive
+P299,PWID,Rural town,40,man,unstable,opioids,4,8,0,1,0,2,unknown,unknown
+P258,PWID,Rural town,38,man,homeless,opioids,2,10,0,0,0,1,unknown,unknown
+P271,PWID,Rural town,41,man,homeless,opioids,3,18,0,0,0,1,negative,positive
+P380,PWID,City South,33,woman,homeless,opioids,4,12,0,0,0,0,unknown,unknown
+P291,PWID,Rural town,32,woman,stable,opioids,5,12,0,0,0,2,unknown,unknown
+P339,PWID,Rural town,30,man,stable,opioids,3,11,0,0,0,1,unknown,unknown
+P004,PWID,Rural town,36,woman,stable,opioids,6,7,0,0,0,1,unknown,unknown
+P237,PWID,City South,50,woman,stable,opioids,4,9,1,1,1,1,negative,positive
+P373,sexual partner (does not inject),City South,18,man,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P229,PWID,Rural town,38,woman,unstable,opioids + methamphetamine,6,4,0,0,0,0,unknown,positive
+P055,PWID,City East,32,man,stable,methamphetamine,1,18,0,0,0,0,negative,negative
+P190,PWID,Rural town,27,woman,unstable,opioids,8,10,0,0,0,1,unknown,positive
+P301,PWID,City South,46,man,unstable,opioids,6,12,0,0,0,1,unknown,unknown
+P276,sexual partner (does not inject),Rural town,37,woman,stable,none (does not inject),0,0,0,0,0,0,negative,negative
+P174,PWID,City East,22,woman,stable,opioids,3,8,0,1,0,0,unknown,unknown
+P337,PWID,Rural town,25,woman,stable,opioids,6,8,0,0,0,0,negative,positive
+P076,sexual partner (does not inject),City South,28,woman,homeless,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P143,PWID,City North,23,woman,stable,opioids + methamphetamine,4,9,0,0,0,0,unknown,unknown
+P269,PWID,Rural town,28,man,unstable,opioids,2,11,0,0,0,0,negative,negative
+P134,PWID,City South,48,woman,unstable,opioids + methamphetamine,1,12,0,1,0,1,unknown,unknown
+P024,PWID,City North,18,man,stable,methamphetamine,3,4,1,0,1,1,negative,negative
+P351,PWID,Rural town,23,man,homeless,opioids,10,4,0,0,0,1,positive,positive
+P151,PWID,Rural town,47,man,stable,opioids,3,3,0,0,0,3,unknown,unknown
+P080,PWID,Rural town,32,woman,stable,opioids + methamphetamine,7,9,0,0,0,1,positive,positive
+P218,PWID,City East,20,woman,homeless,opioids,4,6,1,0,0,0,negative,positive
+P163,PWID,City North,22,man,homeless,opioids,1,8,1,0,0,0,negative,positive
+P292,PWID,Rural town,27,woman,stable,opioids,9,10,1,0,0,2,positive,positive
+P263,PWID,City North,36,woman,stable,methamphetamine,3,9,1,0,1,0,unknown,unknown
+P029,PWID,Rural town,37,woman,homeless,opioids + methamphetamine,5,5,0,0,0,1,unknown,unknown
+P096,PWID,City South,44,man,unstable,opioids + methamphetamine,3,16,1,0,1,1,unknown,unknown
+P332,PWID,Rural town,38,woman,stable,opioids + methamphetamine,5,5,0,0,0,0,negative,negative
+P023,PWID,Rural town,20,woman,stable,opioids,2,6,1,0,0,0,unknown,unknown
+P283,PWID,Rural town,36,man,stable,opioids,9,8,0,0,0,1,negative,positive
+P315,PWID,Rural town,37,man,stable,opioids,8,9,0,0,0,0,positive,positive
+P273,PWID,City North,32,man,homeless,methamphetamine,3,12,1,1,1,0,unknown,negative
+P104,sexual partner (does not inject),City South,26,woman,unstable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P016,PWID,City North,25,woman,homeless,opioids + methamphetamine,4,4,1,1,0,1,negative,negative
+P101,PWID,City North,22,man,stable,opioids,5,8,1,0,1,1,negative,positive
+P204,PWID,City South,36,man,homeless,opioids,4,1,1,1,1,0,negative,negative
+P165,peer outreach worker,Rural town,37,woman,stable,none (in recovery),0,0,0,1,1,0,negative,negative
+P297,PWID,City East,55,woman,stable,opioids,6,1,1,0,1,0,negative,negative
+P247,PWID,City East,36,man,unstable,opioids,2,6,1,1,1,0,negative,negative
+P074,sexual partner (does not inject),Rural town,36,woman,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P152,PWID,Rural town,33,woman,stable,opioids,5,12,0,0,1,1,negative,positive
+P205,PWID,City North,35,woman,stable,opioids + methamphetamine,5,5,1,0,1,0,negative,positive
+P066,PWID,Rural town,29,man,unstable,opioids + methamphetamine,5,9,0,0,1,0,unknown,unknown
+P207,PWID,City South,28,man,stable,opioids + methamphetamine,4,10,1,0,1,0,negative,negative
+P176,sexual partner (does not inject),City North,40,man,stable,none (does not inject),0,0,0,0,1,0,negative,negative
+P013,PWID,Rural town,34,woman,stable,methamphetamine,1,6,1,0,0,0,unknown,unknown
+P186,PWID,Rural town,30,man,unstable,opioids,3,13,0,1,0,1,negative,positive
+P130,PWID,City South,38,woman,homeless,opioids + methamphetamine,5,4,1,1,1,0,negative,positive
+P189,PWID,Rural town,29,man,homeless,opioids,5,13,0,0,0,0,unknown,unknown
+P270,PWID,City North,44,man,unstable,opioids,5,4,0,0,0,1,negative,negative
+P200,PWID,City East,41,man,stable,opioids + methamphetamine,1,7,0,0,1,0,unknown,positive
+P280,PWID,City East,56,man,unstable,opioids + methamphetamine,1,5,0,0,0,0,unknown,unknown
+P281,PWID,City East,35,woman,homeless,opioids + methamphetamine,3,6,1,0,1,2,negative,positive
+P223,PWID,City North,51,woman,homeless,methamphetamine,1,1,1,0,1,0,negative,positive
+P265,PWID,Rural town,30,woman,stable,opioids,3,16,0,0,0,0,positive,positive
+P360,PWID,Rural town,39,man,stable,opioids,7,5,0,0,0,3,unknown,unknown
+P298,PWID,City East,34,woman,unstable,opioids,6,20,0,0,0,0,unknown,unknown
+P277,PWID,City North,42,woman,unstable,opioids,1,13,0,1,0,0,unknown,positive
+P238,PWID,City South,56,man,homeless,opioids,6,14,0,0,0,1,negative,positive
+P075,sexual partner (does not inject),City East,40,woman,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P231,PWID,Rural town,32,man,homeless,opioids,5,8,0,1,0,0,unknown,unknown
+P261,PWID,Rural town,38,woman,homeless,opioids,10,24,0,0,0,2,unknown,unknown
+P306,PWID,City North,44,man,homeless,opioids,5,8,0,0,0,0,unknown,unknown
+P182,PWID,Rural town,35,man,stable,methamphetamine,2,8,0,0,0,0,unknown,unknown
+P149,PWID,City East,49,man,stable,methamphetamine,2,2,1,0,0,1,unknown,unknown
+P345,PWID,Rural town,39,man,stable,opioids,8,3,0,0,0,1,negative,positive
+P217,sexual partner (does not inject),City South,38,woman,stable,none (does not inject),0,0,0,0,0,0,negative,negative
+P083,PWID,City East,42,woman,stable,opioids,1,6,1,0,1,0,negative,positive
+P311,PWID,Rural town,41,man,homeless,opioids,2,12,0,0,0,0,unknown,unknown
+P290,PWID,City East,26,woman,homeless,opioids + methamphetamine,6,11,1,0,0,2,negative,positive
+P342,sexual partner (does not inject),City East,32,man,stable,none (does not inject),0,0,0,0,0,0,unknown,negative
+P279,PWID,City North,34,man,stable,opioids + methamphetamine,4,10,1,1,0,0,negative,positive
+P137,PWID,Rural town,40,woman,unstable,methamphetamine,3,5,0,0,0,0,unknown,unknown
+P255,PWID,City South,37,woman,homeless,opioids + methamphetamine,1,5,1,0,0,1,negative,positive
+P322,PWID,Rural town,27,man,stable,opioids + methamphetamine,4,13,0,0,0,0,negative,positive
+P161,sexual partner (does not inject),City East,43,woman,stable,none (does not inject),0,0,0,0,0,0,negative,negative
+P343,PWID,Rural town,43,man,homeless,opioids + methamphetamine,1,14,0,0,0,1,unknown,unknown
+P012,sexual partner (does not inject),City South,28,woman,unstable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P051,PWID,Rural town,40,woman,homeless,opioids,9,10,0,0,0,3,unknown,unknown
+P086,sexual partner (does not inject),City South,27,man,unstable,none (does not inject),0,0,0,0,0,0,negative,negative
+P018,PWID,City East,39,man,homeless,methamphetamine,2,25,1,1,0,1,negative,positive
+P194,sexual partner (does not inject),Rural town,24,man,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P346,sexual partner (does not inject),City South,28,woman,stable,none (does not inject),0,0,0,0,0,0,negative,negative
+P109,PWID,City North,56,woman,unstable,opioids + methamphetamine,6,6,1,1,0,0,negative,positive
+P366,sexual partner (does not inject),City South,31,man,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P097,PWID,Rural town,34,man,homeless,methamphetamine,3,20,0,0,0,0,negative,positive
+P175,PWID,City South,53,woman,stable,opioids,3,22,1,1,1,0,negative,negative
+P157,PWID,Rural town,32,woman,unstable,opioids + methamphetamine,8,3,0,0,0,2,unknown,unknown
+P308,PWID,City South,41,woman,homeless,opioids,6,16,1,0,1,1,negative,positive
+P071,PWID,City South,58,man,stable,opioids,5,7,0,0,1,1,negative,negative
+P362,PWID,City East,25,man,stable,opioids,6,6,1,1,1,1,negative,positive
+P363,sexual partner (does not inject),Rural town,38,man,unstable,none (does not inject),0,0,0,0,1,0,unknown,unknown
+P285,PWID,Rural town,25,man,unstable,opioids,5,10,0,0,1,0,unknown,unknown
+P148,PWID,Rural town,34,man,stable,opioids,4,13,0,0,0,1,negative,positive
+P183,PWID,Rural town,42,woman,homeless,opioids + methamphetamine,6,20,0,0,0,1,unknown,unknown
+P216,PWID,City South,52,man,unstable,opioids,3,13,1,0,0,0,unknown,unknown
+P115,sexual partner (does not inject),City East,39,woman,stable,none (does not inject),0,0,0,0,0,0,negative,negative
+P253,PWID,Rural town,39,woman,homeless,opioids,1,8,1,0,0,1,unknown,positive
+P199,PWID,Rural town,25,woman,homeless,opioids,8,11,0,1,0,1,positive,positive
+P210,peer outreach worker,City East,32,man,stable,none (in recovery),0,0,0,0,1,0,negative,positive
+P011,PWID,City North,42,man,unstable,methamphetamine,2,4,0,0,0,0,unknown,unknown
+P116,PWID,City East,50,man,homeless,opioids,5,5,1,0,1,2,negative,positive
+P267,sexual partner (does not inject),City South,42,woman,unstable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P338,PWID,City South,41,man,homeless,opioids,4,13,1,0,1,0,negative,positive
+P052,PWID,City North,51,woman,homeless,opioids,4,1,1,0,0,0,negative,negative
+P160,PWID,City East,32,woman,stable,opioids,1,3,0,0,1,0,negative,negative
+P371,PWID,Rural town,26,man,stable,opioids,9,6,0,0,0,2,positive,positive
+P144,PWID,Rural town,46,man,stable,methamphetamine,2,10,0,0,0,0,negative,positive
+P059,PWID,Rural town,25,man,unstable,opioids,6,7,0,1,0,0,negative,positive
+P312,PWID,City South,38,man,stable,opioids + methamphetamine,1,5,1,1,0,0,negative,positive
+P113,PWID,Rural town,24,woman,unstable,opioids,5,7,0,0,0,1,negative,positive
+P038,PWID,City East,41,man,unstable,opioids,2,1,1,1,0,0,unknown,unknown
+P275,sexual partner (does not inject),City East,37,woman,stable,none (does not inject),0,0,0,0,0,0,unknown,negative
+P108,PWID,City East,26,man,unstable,opioids,6,9,1,0,0,1,unknown,unknown
+P031,PWID,City South,37,woman,stable,opioids,6,3,0,0,0,0,negative,positive
+P249,PWID,City South,45,woman,stable,opioids,3,9,1,0,1,0,negative,positive
+P021,PWID,City North,37,woman,unstable,methamphetamine,1,7,1,1,0,0,negative,negative
+P225,PWID,City South,49,man,unstable,methamphetamine,1,31,0,1,0,1,negative,positive
+P139,PWID,City South,36,man,unstable,methamphetamine,3,6,1,0,0,0,negative,positive
+P154,PWID,City South,48,woman,homeless,opioids + methamphetamine,3,3,0,0,0,0,unknown,unknown
+P049,PWID,Rural town,38,woman,unstable,opioids,1,11,0,0,0,1,negative,positive
+P266,sexual partner (does not inject),Rural town,56,woman,unstable,none (does not inject),0,0,0,0,0,0,negative,negative
+P374,sexual partner (does not inject),City North,25,man,homeless,none (does not inject),0,0,0,0,1,0,unknown,unknown
+P252,PWID,Rural town,28,woman,stable,opioids + methamphetamine,7,7,1,0,0,2,negative,positive
+P064,PWID,City South,18,man,unstable,opioids + methamphetamine,3,4,1,0,0,0,negative,positive
+P155,PWID,Rural town,46,man,unstable,opioids,7,7,1,0,0,3,positive,positive
+P228,PWID,City North,32,woman,homeless,opioids + methamphetamine,6,9,1,0,0,2,negative,positive
+P041,PWID,City East,33,man,stable,opioids,4,14,1,0,0,1,negative,negative
+P245,PWID,City South,29,man,stable,opioids,3,4,0,1,0,1,unknown,unknown
+P118,PWID,Rural town,27,woman,stable,opioids,1,9,0,0,1,0,unknown,unknown
+P230,sexual partner (does not inject),Rural town,32,woman,unstable,none (does not inject),0,0,0,0,1,0,unknown,negative
+P286,PWID,City East,47,man,unstable,methamphetamine,1,7,1,0,0,0,negative,negative
+P375,PWID,Rural town,32,woman,stable,opioids,3,8,0,0,0,2,unknown,unknown
+P005,PWID,City South,51,woman,homeless,opioids + methamphetamine,3,16,1,1,0,0,negative,negative
+P062,PWID,Rural town,34,man,homeless,opioids + methamphetamine,3,6,0,0,0,2,negative,positive
+P340,PWID,City North,37,woman,homeless,opioids + methamphetamine,4,4,1,0,1,2,negative,positive
+P310,PWID,City East,30,woman,stable,opioids,4,6,0,0,0,0,unknown,negative
+P257,sexual partner (does not inject),Rural town,28,woman,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P187,PWID,City East,28,woman,homeless,methamphetamine,3,2,1,1,0,0,negative,positive
+P002,PWID,City East,48,man,stable,methamphetamine,3,9,1,1,0,0,negative,negative
+P347,PWID,City North,30,man,homeless,methamphetamine,3,5,1,1,1,0,negative,negative
+P192,PWID,City North,40,man,stable,opioids + methamphetamine,1,7,0,1,0,1,unknown,unknown
+P272,PWID,City South,23,man,unstable,opioids,1,9,1,0,1,0,unknown,unknown
+P110,PWID,Rural town,25,man,unstable,opioids,4,11,0,0,0,0,negative,positive
+P318,PWID,City East,38,woman,homeless,methamphetamine,2,9,0,0,0,0,negative,positive
+P020,PWID,Rural town,34,man,homeless,opioids,9,5,0,0,0,3,negative,positive
+P092,PWID,City South,37,man,stable,methamphetamine,1,4,1,1,0,0,negative,positive
+P081,PWID,City North,18,woman,homeless,opioids,5,2,1,0,1,1,negative,positive
+P329,PWID,City North,36,man,homeless,methamphetamine,3,4,0,0,1,0,unknown,unknown
+P293,PWID,City East,55,woman,stable,methamphetamine,2,13,1,0,1,0,negative,positive
+P158,PWID,Rural town,23,man,homeless,opioids,4,2,1,0,0,1,negative,positive
+P008,PWID,Rural town,26,man,homeless,opioids,4,6,0,0,0,1,positive,negative
+P147,PWID,City East,28,woman,stable,opioids,6,6,1,1,1,1,negative,positive
+P034,PWID,City South,19,man,homeless,opioids,4,1,0,1,0,0,negative,positive
+P027,PWID,City South,43,man,unstable,opioids,2,5,1,0,0,0,negative,positive
+P032,PWID,Rural town,22,man,homeless,opioids,10,6,0,0,0,0,positive,positive
+P288,PWID,Rural town,25,woman,stable,opioids + methamphetamine,6,11,0,0,0,1,unknown,unknown
+P095,PWID,Rural town,18,woman,stable,opioids,1,4,0,0,0,1,unknown,unknown
+P015,PWID,Rural town,45,man,stable,opioids,6,7,0,0,0,3,negative,positive
+P127,PWID,Rural town,44,woman,unstable,opioids + methamphetamine,1,4,0,0,0,1,unknown,unknown
+P197,PWID,Rural town,48,man,stable,opioids + methamphetamine,2,12,0,0,0,1,unknown,negative
+P077,PWID,City East,39,woman,stable,opioids + methamphetamine,4,15,1,1,1,0,negative,positive
+P208,peer outreach worker,City South,33,man,stable,none (in recovery),0,0,0,1,1,0,negative,negative
+P206,PWID,Rural town,35,woman,unstable,opioids,5,20,0,0,0,1,positive,negative
+P107,PWID,Rural town,24,man,unstable,methamphetamine,2,4,0,0,0,0,unknown,unknown
+P039,PWID,City East,23,man,unstable,opioids,2,9,1,0,1,0,negative,negative
+P317,sexual partner (does not inject),City North,46,woman,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P138,PWID,City North,42,man,homeless,methamphetamine,3,3,0,0,1,0,unknown,unknown
+P254,PWID,City North,56,man,stable,opioids,6,15,1,1,0,0,negative,negative
+P112,PWID,City North,30,man,stable,opioids + methamphetamine,5,16,1,0,1,0,negative,positive
+P167,sexual partner (does not inject),City South,24,woman,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P105,PWID,City South,34,woman,homeless,opioids + methamphetamine,2,7,0,0,1,0,negative,positive
+P196,PWID,Rural town,30,man,unstable,opioids,4,16,1,0,0,0,negative,positive
+P146,PWID,City North,33,man,homeless,opioids,1,10,1,0,1,2,negative,positive
+P377,sexual partner (does not inject),City South,41,woman,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P126,sexual partner (does not inject),Rural town,18,woman,stable,none (does not inject),0,0,0,0,1,0,negative,positive
+P123,PWID,City East,45,man,unstable,opioids,2,18,1,1,0,0,negative,negative
+P169,PWID,Rural town,35,man,unstable,opioids + methamphetamine,3,5,0,0,0,0,negative,positive
+P214,PWID,City South,52,man,stable,opioids,3,10,1,0,0,0,negative,positive
+P181,sexual partner (does not inject),City South,31,man,unstable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P364,PWID,City North,35,woman,stable,opioids + methamphetamine,1,13,1,0,0,1,negative,positive
+P243,PWID,City South,42,man,unstable,opioids,5,17,0,0,0,0,negative,positive
+P178,PWID,City North,29,man,stable,opioids,3,4,0,0,0,0,unknown,unknown
+P036,PWID,City South,47,woman,homeless,opioids,2,14,1,0,0,1,negative,negative
+P168,PWID,Rural town,30,man,stable,opioids + methamphetamine,9,16,0,0,0,3,positive,positive
+P219,PWID,City South,44,woman,stable,opioids,6,9,1,0,0,1,unknown,unknown
+P330,PWID,City South,50,woman,stable,opioids,4,4,0,0,0,2,unknown,positive
+P278,peer outreach worker,City North,45,man,stable,none (in recovery),0,0,0,1,1,0,negative,positive
+P370,PWID,City North,35,woman,homeless,opioids + methamphetamine,1,5,1,1,0,0,negative,negative
+P202,PWID,Rural town,34,woman,unstable,opioids,8,20,0,0,0,0,unknown,unknown
+P124,PWID,City South,29,man,homeless,opioids,6,9,1,0,1,0,negative,negative
+P369,PWID,City North,55,man,stable,methamphetamine,2,1,1,0,1,0,negative,negative
+P260,PWID,City East,41,woman,unstable,opioids,4,8,1,0,1,0,negative,negative
+P268,PWID,City East,49,man,homeless,opioids,6,3,1,1,1,0,negative,positive
+P044,PWID,City East,47,woman,unstable,opioids + methamphetamine,3,8,1,1,1,0,unknown,unknown
+P166,PWID,City North,35,man,homeless,opioids,3,3,0,0,0,1,unknown,unknown
+P221,PWID,City East,51,man,unstable,opioids + methamphetamine,5,2,1,0,0,1,negative,negative
+P282,PWID,City South,47,man,stable,methamphetamine,1,13,0,1,0,0,unknown,unknown
+P185,PWID,Rural town,31,man,stable,methamphetamine,2,14,0,0,1,0,unknown,unknown
+P164,sexual partner (does not inject),Rural town,47,man,stable,none (does not inject),0,0,0,0,0,0,negative,negative
+P153,PWID,City North,42,man,stable,opioids + methamphetamine,1,10,1,0,0,0,unknown,unknown
+P212,PWID,City South,42,woman,unstable,opioids,4,22,0,1,1,0,negative,positive
+P241,PWID,Rural town,38,man,stable,opioids,6,12,0,0,0,1,positive,positive
+P323,PWID,City North,41,nonbinary,stable,opioids + methamphetamine,5,5,1,0,1,1,negative,positive
+P145,sexual partner (does not inject),City East,50,man,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P009,PWID,City North,38,woman,stable,opioids,4,12,1,0,1,0,negative,positive
+P172,PWID,City North,46,man,unstable,methamphetamine,2,23,0,0,0,0,unknown,unknown
+P001,PWID,City South,41,woman,unstable,opioids,6,21,0,1,0,1,unknown,unknown
+P094,PWID,Rural town,43,man,stable,methamphetamine,1,20,0,0,0,0,unknown,unknown
+P079,sexual partner (does not inject),Rural town,32,woman,stable,none (does not inject),0,0,0,0,0,0,unknown,unknown
+P188,PWID,City North,40,man,homeless,opioids,1,8,1,1,0,0,unknown,unknown
+P060,PWID,City North,45,man,unstable,opioids,6,8,1,1,1,0,negative,negative
+P068,PWID,Rural town,34,man,unstable,opioids + methamphetamine,6,1,0,0,0,1,positive,positive
+P284,PWID,City East,35,man,homeless,opioids + methamphetamine,3,13,1,0,1,0,negative,negative
+P141,PWID,Rural town,39,man,stable,opioids + methamphetamine,5,8,0,0,0,0,negative,positive
+P248,sexual partner (does not inject),City North,55,woman,unstable,none (does not inject),0,0,0,0,0,0,negative,negative
+P056,PWID,Rural town,33,woman,stable,opioids,1,2,0,0,0,0,unknown,unknown
+P047,PWID,City South,40,woman,stable,opioids,4,11,1,1,1,0,negative,positive
+P239,PWID,City South,28,man,unstable,opioids,1,1,0,0,0,0,negative,positive
+P026,PWID,City North,39,man,stable,methamphetamine,3,14,1,1,0,0,negative,positive

@@ -1,0 +1,321 @@
+id,org_name,org_type,sector,region,county_wide,staff_fte,volunteer_run,on_referral_platform,languages,waitlist,median_days_to_service,year_joined_coalition
+ORG320,Rental/utility aid 3,rental and utility assistance,social services,urban core,0,8,0,1,English only,0,7,2022
+ORG013,Health plan 2,health plan care coordination,government & coordination,urban core,1,41,0,1,English and Spanish,1,37,2013
+ORG059,Food pantry 27,food pantry,social services,urban core,0,1,1,0,English only,0,5,2022
+ORG297,Food pantry 19,food pantry,social services,urban core,0,11,0,1,English and Spanish,0,3,2019
+ORG264,School 9,school (social worker or nurse),community & faith,urban core,0,32,0,0,English only,0,5,2019
+ORG173,School 11,school (social worker or nurse),community & faith,urban core,0,137,0,1,English and Spanish,1,43,2012
+ORG272,School 21,school (social worker or nurse),community & faith,south suburbs,0,95,0,1,English and Spanish,0,3,2021
+ORG234,Rental/utility aid 6,rental and utility assistance,social services,south suburbs,0,8,0,1,English and Spanish,1,31,2025
+ORG171,Behavioral health 13,behavioral health provider,health care,urban core,0,37,0,1,English only,1,19,2019
+ORG273,Health plan 4,health plan care coordination,government & coordination,urban core,1,41,0,1,English and Spanish,0,12,2022
+ORG210,Library 5,library,community & faith,north suburbs,0,10,0,0,English and Spanish,0,6,2022
+ORG190,Faith org 33,faith-based organization,community & faith,south suburbs,0,4,0,0,English and Spanish,0,6,2025
+ORG168,Refugee services 3,refugee and immigrant services,social services,rural west,0,19,0,0,"English, Spanish and other languages",0,2,2015
+ORG311,Community center 6,community center,community & faith,urban core,0,7,0,1,English and Spanish,0,4,2017
+ORG071,Urgent care 5,urgent care,health care,north suburbs,0,21,0,0,English and Spanish,1,25,2020
+ORG286,School 4,school (social worker or nurse),community & faith,urban core,0,112,0,1,English only,0,5,2016
+ORG292,SUD treatment 4,substance use treatment,health care,urban core,0,17,0,0,English and Spanish,0,6,2013
+ORG217,Food pantry 14,food pantry,social services,rural west,0,2,0,0,English and Spanish,1,15,2019
+ORG166,Primary care 14,primary care practice,health care,urban core,0,26,0,1,English and Spanish,0,10,2024
+ORG033,Food pantry 39,food pantry,social services,urban core,0,2,0,0,English and Spanish,0,2,2018
+ORG038,Senior services 1,senior services,social services,south suburbs,0,29,0,1,English and Spanish,0,5,2019
+ORG148,DV program 4,domestic violence program,social services,south suburbs,0,14,0,1,English and Spanish,0,7,2015
+ORG150,Urgent care 3,urgent care,health care,north suburbs,0,31,0,1,English only,0,3,2015
+ORG247,Faith org 15,faith-based organization,community & faith,north suburbs,0,2,0,0,English and Spanish,0,5,2020
+ORG243,Shelter 5,homeless shelter,social services,urban core,0,35,0,1,English and Spanish,1,21,2017
+ORG227,CHW program 6,community health worker program,community & faith,rural west,0,,0,0,English and Spanish,0,,2024
+ORG086,SUD treatment 10,substance use treatment,health care,south suburbs,0,32,0,1,English and Spanish,0,5,2014
+ORG205,Faith org 32,faith-based organization,community & faith,urban core,0,1,1,1,English only,0,2,2012
+ORG176,Urgent care 1,urgent care,health care,south suburbs,0,16,0,1,English only,0,7,2020
+ORG161,Probation services 2,justice and probation services,government & coordination,urban core,1,18,0,1,English only,0,7,2013
+ORG028,Shelter 2,homeless shelter,social services,north suburbs,0,51,0,1,English only,1,10,2021
+ORG117,Faith org 24,faith-based organization,community & faith,urban core,0,1,1,1,English and Spanish,1,26,2015
+ORG204,Food pantry 23,food pantry,social services,north suburbs,0,3,0,1,English and Spanish,0,5,2020
+ORG147,Behavioral health 23,behavioral health provider,health care,urban core,0,51,0,1,English and Spanish,1,17,2014
+ORG087,FQHC site 7,FQHC clinic site,health care,north suburbs,0,72,0,1,English and Spanish,1,7,2015
+ORG318,Food pantry 41,food pantry,social services,urban core,0,2,0,0,English only,0,9,2023
+ORG295,Food pantry 31,food pantry,social services,south suburbs,0,5,0,1,English and Spanish,0,5,2019
+ORG124,Behavioral health 18,behavioral health provider,health care,urban core,0,65,0,1,English and Spanish,1,21,2016
+ORG116,Supportive housing 3,transitional or supportive housing,social services,urban core,0,8,0,1,English only,1,10,2015
+ORG178,School 18,school (social worker or nurse),community & faith,south suburbs,0,47,0,1,English and Spanish,0,4,2017
+ORG255,Rental/utility aid 8,rental and utility assistance,social services,urban core,0,9,0,0,English and Spanish,1,26,2024
+ORG104,SUD treatment 5,substance use treatment,health care,urban core,0,23,0,0,English and Spanish,0,3,2024
+ORG172,SUD treatment 6,substance use treatment,health care,rural west,0,20,0,0,English only,0,4,2019
+ORG248,Health plan 1,health plan care coordination,government & coordination,urban core,1,,0,1,English only,0,,2025
+ORG160,Probation services 1,justice and probation services,government & coordination,urban core,1,16,0,1,English and Spanish,0,6,2020
+ORG127,Primary care 21,primary care practice,health care,south suburbs,0,11,0,1,English and Spanish,0,6,2021
+ORG069,Faith org 17,faith-based organization,community & faith,urban core,0,,0,1,English and Spanish,1,,2025
+ORG123,Benefits office 2,state benefits office,government & coordination,south suburbs,0,23,0,1,English and Spanish,0,4,2012
+ORG004,FQHC site 13,FQHC clinic site,health care,north suburbs,0,23,0,1,English and Spanish,0,9,2020
+ORG162,Behavioral health 16,behavioral health provider,health care,urban core,0,16,0,1,English and Spanish,0,7,2020
+ORG006,CHW program 3,community health worker program,community & faith,north suburbs,0,17,0,0,English only,0,8,2025
+ORG189,FQHC site 2,FQHC clinic site,health care,rural east,0,14,0,1,English only,0,6,2021
+ORG169,School 13,school (social worker or nurse),community & faith,rural west,0,63,0,0,English and Spanish,0,5,2023
+ORG156,FQHC site 11,FQHC clinic site,health care,urban core,0,28,0,1,English and Spanish,0,4,2016
+ORG275,Behavioral health 4,behavioral health provider,health care,rural west,0,74,0,0,English and Spanish,1,26,2017
+ORG277,Behavioral health 3,behavioral health provider,health care,south suburbs,0,16,0,0,English and Spanish,0,7,2016
+ORG062,School 12,school (social worker or nurse),community & faith,urban core,0,101,0,0,English only,1,15,2019
+ORG223,Community center 5,community center,community & faith,north suburbs,0,4,0,0,English and Spanish,0,2,2021
+ORG301,Faith org 25,faith-based organization,community & faith,urban core,0,,1,0,English and Spanish,0,,2023
+ORG073,FQHC site 12,FQHC clinic site,health care,south suburbs,0,54,0,1,English and Spanish,1,10,2014
+ORG079,School 6,school (social worker or nurse),community & faith,south suburbs,0,,0,1,English and Spanish,0,,2017
+ORG225,Primary care 13,primary care practice,health care,urban core,0,8,0,1,English and Spanish,0,9,2017
+ORG070,Faith org 1,faith-based organization,community & faith,south suburbs,0,1,1,1,English and Spanish,0,5,2013
+ORG043,Food pantry 6,food pantry,social services,urban core,0,0,1,1,English only,0,6,2012
+ORG053,Food pantry 33,food pantry,social services,south suburbs,0,1,1,1,English and Spanish,0,3,2016
+ORG270,Senior services 8,senior services,social services,south suburbs,0,5,0,1,English and Spanish,0,4,2018
+ORG051,Primary care 8,primary care practice,health care,rural east,0,16,0,1,English and Spanish,0,8,2022
+ORG039,Behavioral health 24,behavioral health provider,health care,rural east,0,30,0,1,English and Spanish,0,2,2024
+ORG022,Behavioral health 22,behavioral health provider,health care,urban core,0,77,0,1,English and Spanish,1,12,2012
+ORG200,Food pantry 8,food pantry,social services,north suburbs,0,,1,1,English only,0,,2019
+ORG019,Food pantry 32,food pantry,social services,north suburbs,0,4,0,1,English and Spanish,0,4,2018
+ORG231,Food pantry 10,food pantry,social services,north suburbs,0,1,1,1,English and Spanish,0,9,2020
+ORG091,Food pantry 35,food pantry,social services,urban core,0,0,1,1,English and Spanish,0,2,2013
+ORG215,Benefits office 4,state benefits office,government & coordination,rural west,0,86,0,0,English only,0,8,2014
+ORG250,School 20,school (social worker or nurse),community & faith,north suburbs,0,33,0,0,English only,0,4,2022
+ORG235,Food pantry 7,food pantry,social services,rural west,0,1,1,0,English only,0,8,2023
+ORG054,Food pantry 20,food pantry,social services,rural west,0,0,1,0,English and Spanish,0,7,2019
+ORG252,WIC 3,WIC clinic,social services,urban core,0,4,0,1,English and Spanish,0,3,2014
+ORG077,County health program 7,county health department program,government & coordination,urban core,1,25,0,1,English only,0,3,2012
+ORG194,Behavioral health 15,behavioral health provider,health care,urban core,0,54,0,1,English and Spanish,0,10,2016
+ORG287,Primary care 25,primary care practice,health care,urban core,0,26,0,1,English and Spanish,0,4,2018
+ORG133,FQHC site 1,FQHC clinic site,health care,rural west,0,24,0,0,English and Spanish,0,5,2017
+ORG265,Child care 4,child care and early education,social services,south suburbs,0,28,0,1,English only,0,5,2023
+ORG197,Health plan 3,health plan care coordination,government & coordination,urban core,1,69,0,1,English only,0,5,2016
+ORG012,Faith org 5,faith-based organization,community & faith,urban core,0,4,0,1,English and Spanish,0,4,2022
+ORG020,Disability services 2,disability services,social services,south suburbs,0,18,0,1,English and Spanish,0,6,2025
+ORG078,Transportation 4,transportation service,social services,north suburbs,0,15,0,1,English and Spanish,0,2,2023
+ORG259,SUD treatment 8,substance use treatment,health care,rural east,0,19,0,1,English and Spanish,0,6,2023
+ORG291,Rental/utility aid 4,rental and utility assistance,social services,urban core,0,5,0,0,English only,1,23,2025
+ORG256,Food pantry 26,food pantry,social services,urban core,0,2,0,0,English only,0,6,2023
+ORG266,SUD treatment 1,substance use treatment,health care,south suburbs,0,32,0,1,English and Spanish,0,3,2022
+ORG254,FQHC site 3,FQHC clinic site,health care,south suburbs,0,34,0,1,English only,0,2,2016
+ORG058,Library 4,library,community & faith,urban core,0,14,0,1,English and Spanish,0,9,2021
+ORG047,County health program 5,county health department program,government & coordination,urban core,1,52,0,0,English only,0,5,2018
+ORG307,Senior services 3,senior services,social services,rural east,0,11,0,0,English and Spanish,0,7,2022
+ORG305,CHW program 2,community health worker program,community & faith,urban core,0,13,0,1,English only,0,10,2013
+ORG010,Coordinated entry (housing),housing coordinated entry,social services,urban core,1,40,0,1,English and Spanish,0,2,2013
+ORG099,Shelter 1,homeless shelter,social services,urban core,0,51,0,1,English and Spanish,0,1,2017
+ORG310,Primary care 20,primary care practice,health care,south suburbs,0,15,0,1,English and Spanish,0,5,2018
+ORG203,Hospital 4,hospital,health care,urban core,1,553,0,1,"English, Spanish and other languages",0,3,2014
+ORG163,Senior services 5,senior services,social services,north suburbs,0,10,0,1,English only,0,4,2016
+ORG228,Urgent care 4,urgent care,health care,north suburbs,0,14,0,1,English and Spanish,1,19,2021
+ORG257,SUD treatment 9,substance use treatment,health care,rural east,0,47,0,0,English and Spanish,1,17,2013
+ORG049,Workforce center 5,workforce center,social services,urban core,0,,0,0,English and Spanish,0,,2012
+ORG306,Disability services 3,disability services,social services,urban core,0,20,0,0,English and Spanish,0,2,2023
+ORG036,211 helpline,211 helpline,government & coordination,urban core,1,18,0,1,"English, Spanish and other languages",0,3,2013
+ORG246,Supportive housing 2,transitional or supportive housing,social services,urban core,0,9,0,0,English and Spanish,1,55,2024
+ORG202,Behavioral health 21,behavioral health provider,health care,north suburbs,0,21,0,0,English and Spanish,1,16,2021
+ORG005,Faith org 16,faith-based organization,community & faith,urban core,0,4,0,0,English only,0,6,2020
+ORG282,Behavioral health 7,behavioral health provider,health care,north suburbs,0,16,0,1,English only,1,17,2016
+ORG064,Primary care 6,primary care practice,health care,urban core,0,6,0,1,English and Spanish,0,8,2017
+ORG167,Primary care 26,primary care practice,health care,urban core,0,13,0,1,English only,0,10,2017
+ORG308,Food pantry 3,food pantry,social services,north suburbs,0,2,0,1,English only,0,2,2016
+ORG121,Food pantry 28,food pantry,social services,south suburbs,0,1,1,0,English and Spanish,0,3,2022
+ORG085,Primary care 7,primary care practice,health care,urban core,0,22,0,1,English and Spanish,0,11,2014
+ORG278,Community center 2,community center,community & faith,south suburbs,0,20,0,1,English and Spanish,0,3,2013
+ORG044,Faith org 6,faith-based organization,community & faith,urban core,0,1,1,0,English and Spanish,0,10,2015
+ORG149,Rental/utility aid 2,rental and utility assistance,social services,south suburbs,0,7,0,1,English and Spanish,1,10,2019
+ORG261,CHW program 5,community health worker program,community & faith,north suburbs,0,,0,1,English only,0,,2021
+ORG193,County health program 4,county health department program,government & coordination,urban core,1,11,0,1,English only,0,2,2023
+ORG021,County health program 6,county health department program,government & coordination,urban core,1,33,0,1,English and Spanish,0,8,2015
+ORG288,Senior services 9,senior services,social services,rural west,0,11,0,0,English only,0,4,2015
+ORG017,DV program 3,domestic violence program,social services,rural west,0,22,0,0,English only,0,4,2022
+ORG238,Faith org 18,faith-based organization,community & faith,urban core,0,8,0,1,English only,0,12,2023
+ORG206,Supportive housing 6,transitional or supportive housing,social services,urban core,0,9,0,1,English and Spanish,1,15,2023
+ORG239,Primary care 23,primary care practice,health care,north suburbs,0,6,0,1,English and Spanish,0,4,2013
+ORG115,School 3,school (social worker or nurse),community & faith,urban core,0,37,0,1,English and Spanish,0,3,2019
+ORG267,Behavioral health 2,behavioral health provider,health care,urban core,0,47,0,1,English and Spanish,0,10,2021
+ORG031,Faith org 9,faith-based organization,community & faith,urban core,0,2,0,0,English and Spanish,0,5,2019
+ORG186,Workforce center 3,workforce center,social services,south suburbs,0,19,0,0,English and Spanish,0,7,2017
+ORG309,Workforce center 4,workforce center,social services,urban core,0,12,0,1,English and Spanish,0,3,2017
+ORG230,Shelter 8,homeless shelter,social services,urban core,0,17,0,1,English only,0,3,2020
+ORG137,Primary care 4,primary care practice,health care,urban core,0,19,0,0,English only,0,6,2019
+ORG125,Food pantry 13,food pantry,social services,rural east,0,4,0,1,English and Spanish,0,7,2017
+ORG097,Behavioral health 14,behavioral health provider,health care,south suburbs,0,108,0,1,English and Spanish,1,36,2025
+ORG055,Refugee services 1,refugee and immigrant services,social services,urban core,0,10,0,0,"English, Spanish and other languages",0,8,2025
+ORG084,Mutual aid 5,mutual aid group,community & faith,urban core,0,2,0,0,English only,0,5,2019
+ORG302,Primary care 12,primary care practice,health care,north suburbs,0,9,0,0,English only,0,2,2015
+ORG253,County health program 2,county health department program,government & coordination,urban core,1,13,0,1,English and Spanish,0,5,2019
+ORG213,Pharmacy 5,pharmacy,health care,urban core,0,10,0,1,English only,0,8,2024
+ORG317,CHW program 4,community health worker program,community & faith,rural east,0,15,0,1,English only,0,6,2020
+ORG181,Legal aid 2,legal aid,social services,urban core,1,18,0,0,English only,0,3,2012
+ORG130,Food pantry 37,food pantry,social services,north suburbs,0,1,1,1,English and Spanish,0,3,2025
+ORG050,Dental 5,dental clinic,health care,urban core,0,17,0,1,English and Spanish,0,3,2023
+ORG158,Supportive housing 4,transitional or supportive housing,social services,urban core,0,11,0,1,English and Spanish,0,4,2015
+ORG290,Primary care 17,primary care practice,health care,urban core,0,14,0,1,English and Spanish,0,2,2015
+ORG145,SUD treatment 3,substance use treatment,health care,south suburbs,0,,0,0,English only,0,,2025
+ORG023,Tribal org 2,tribal community organization,community & faith,rural west,0,3,0,0,English and Spanish,0,2,2023
+ORG263,School 16,school (social worker or nurse),community & faith,urban core,0,155,0,0,English and Spanish,0,4,2018
+ORG293,WIC 2,WIC clinic,social services,rural west,0,7,0,0,English and Spanish,0,5,2016
+ORG209,Faith org 34,faith-based organization,community & faith,south suburbs,0,1,1,0,English and Spanish,0,3,2014
+ORG244,County health program 3,county health department program,government & coordination,urban core,1,38,0,1,English only,0,10,2021
+ORG249,Food pantry 16,food pantry,social services,urban core,0,0,1,0,English only,0,4,2023
+ORG296,FQHC site 9,FQHC clinic site,health care,rural east,0,51,0,1,English and Spanish,0,6,2016
+ORG026,Dental 3,dental clinic,health care,south suburbs,0,9,0,1,English and Spanish,0,2,2014
+ORG135,Library 2,library,community & faith,north suburbs,0,6,0,0,English only,0,3,2013
+ORG075,Food pantry 1,food pantry,social services,urban core,0,2,0,1,English only,0,4,2024
+ORG175,Child care 3,child care and early education,social services,urban core,0,19,0,1,English and Spanish,0,5,2013
+ORG316,Primary care 24,primary care practice,health care,south suburbs,0,16,0,0,English and Spanish,0,3,2021
+ORG114,Behavioral health 20,behavioral health provider,health care,urban core,0,18,0,1,English only,1,22,2020
+ORG303,Faith org 19,faith-based organization,community & faith,rural west,0,2,0,0,English and Spanish,0,9,2019
+ORG052,FQHC site 10,FQHC clinic site,health care,north suburbs,0,22,0,1,English only,0,7,2013
+ORG072,Child care 7,child care and early education,social services,south suburbs,0,32,0,1,English and Spanish,1,10,2012
+ORG153,FQHC site 14,FQHC clinic site,health care,north suburbs,0,57,0,1,English only,0,10,2023
+ORG258,Faith org 36,faith-based organization,community & faith,north suburbs,0,0,1,1,English and Spanish,0,7,2013
+ORG165,Child care 6,child care and early education,social services,south suburbs,0,38,0,0,English and Spanish,0,6,2016
+ORG159,Pharmacy 1,pharmacy,health care,south suburbs,0,9,0,1,English and Spanish,0,4,2023
+ORG102,Behavioral health 8,behavioral health provider,health care,south suburbs,0,7,0,1,English and Spanish,1,28,2025
+ORG003,Dental 1,dental clinic,health care,urban core,0,7,0,1,English and Spanish,0,4,2024
+ORG242,Food pantry 29,food pantry,social services,north suburbs,0,1,1,0,English only,0,4,2022
+ORG294,Supportive housing 1,transitional or supportive housing,social services,south suburbs,0,9,0,0,English only,1,21,2020
+ORG221,Dental 4,dental clinic,health care,north suburbs,0,7,0,1,English only,0,3,2013
+ORG040,Workforce center 1,workforce center,social services,urban core,0,10,0,0,English and Spanish,0,9,2023
+ORG262,Senior services 2,senior services,social services,north suburbs,0,6,0,1,English and Spanish,0,4,2020
+ORG174,Senior services 4,senior services,social services,rural west,0,11,0,0,English and Spanish,1,27,2021
+ORG018,Primary care 22,primary care practice,health care,rural west,0,18,0,0,English only,0,13,2019
+ORG100,Dental 2,dental clinic,health care,urban core,0,9,0,1,English and Spanish,0,3,2024
+ORG268,Faith org 21,faith-based organization,community & faith,urban core,0,1,1,0,English and Spanish,0,2,2021
+ORG251,Food pantry 21,food pantry,social services,urban core,0,2,0,1,English and Spanish,1,20,2013
+ORG113,Shelter 4,homeless shelter,social services,urban core,0,25,0,1,English and Spanish,1,17,2020
+ORG142,Rental/utility aid 7,rental and utility assistance,social services,north suburbs,0,19,0,1,English only,0,15,2025
+ORG065,School 15,school (social worker or nurse),community & faith,north suburbs,0,35,0,0,English and Spanish,0,5,2023
+ORG269,Community center 1,community center,community & faith,rural west,0,16,0,1,English and Spanish,0,4,2012
+ORG048,Faith org 12,faith-based organization,community & faith,south suburbs,0,3,0,1,English and Spanish,0,3,2017
+ORG093,Tribal org 1,tribal community organization,community & faith,rural west,0,7,0,0,English and Spanish,0,2,2015
+ORG101,Senior services 6,senior services,social services,urban core,0,13,0,0,English and Spanish,0,1,2021
+ORG110,Legal aid 4,legal aid,social services,urban core,1,17,0,1,English only,1,16,2022
+ORG068,Food pantry 30,food pantry,social services,south suburbs,0,6,0,0,English only,0,4,2025
+ORG015,School 17,school (social worker or nurse),community & faith,south suburbs,0,96,0,0,English only,0,8,2023
+ORG236,Faith org 13,faith-based organization,community & faith,urban core,0,,1,0,English only,0,,2025
+ORG211,SUD treatment 2,substance use treatment,health care,north suburbs,0,24,0,1,English only,0,8,2019
+ORG192,Faith org 28,faith-based organization,community & faith,urban core,0,2,0,0,English and Spanish,0,3,2024
+ORG007,School 22,school (social worker or nurse),community & faith,south suburbs,0,,0,0,English only,0,,2019
+ORG094,School 2,school (social worker or nurse),community & faith,north suburbs,0,113,0,0,English only,0,7,2017
+ORG304,School 7,school (social worker or nurse),community & faith,south suburbs,0,152,0,0,English only,0,9,2021
+ORG119,Urgent care 2,urgent care,health care,south suburbs,0,20,0,1,English only,0,11,2012
+ORG088,County health program 1,county health department program,government & coordination,urban core,1,45,0,0,English and Spanish,0,6,2012
+ORG218,Pharmacy 6,pharmacy,health care,south suburbs,0,10,0,0,English and Spanish,0,10,2022
+ORG177,Food pantry 38,food pantry,social services,south suburbs,0,1,1,0,English and Spanish,1,62,2018
+ORG300,Faith org 2,faith-based organization,community & faith,north suburbs,0,7,0,0,English only,0,5,2019
+ORG224,Faith org 22,faith-based organization,community & faith,south suburbs,0,4,0,0,English only,0,5,2020
+ORG035,Benefits office 1,state benefits office,government & coordination,south suburbs,0,35,0,1,English only,0,6,2012
+ORG207,Regional food bank,regional food bank,social services,urban core,1,248,0,1,English only,0,7,2014
+ORG042,Food pantry 5,food pantry,social services,south suburbs,0,0,1,0,English and Spanish,0,4,2019
+ORG139,Library 3,library,community & faith,rural east,0,11,0,0,English only,0,3,2025
+ORG008,Faith org 31,faith-based organization,community & faith,urban core,0,5,0,1,English and Spanish,0,3,2023
+ORG057,Mutual aid 6,mutual aid group,community & faith,urban core,0,3,0,0,English and Spanish,1,22,2017
+ORG001,Faith org 10,faith-based organization,community & faith,rural east,0,2,0,1,English and Spanish,0,6,2020
+ORG241,Mutual aid 1,mutual aid group,community & faith,north suburbs,0,1,1,1,English and Spanish,0,3,2018
+ORG067,FQHC site 5,FQHC clinic site,health care,urban core,0,68,0,1,English only,0,4,2025
+ORG082,Food pantry 12,food pantry,social services,north suburbs,0,7,0,1,English and Spanish,0,2,2021
+ORG138,Behavioral health 10,behavioral health provider,health care,north suburbs,0,40,0,1,English and Spanish,0,2,2018
+ORG144,Primary care 10,primary care practice,health care,north suburbs,0,11,0,1,English only,0,3,2018
+ORG131,Faith org 26,faith-based organization,community & faith,urban core,0,3,0,0,English and Spanish,0,3,2014
+ORG187,Behavioral health 17,behavioral health provider,health care,rural east,0,23,0,0,English and Spanish,1,19,2023
+ORG030,Pharmacy 3,pharmacy,health care,urban core,0,7,0,1,English and Spanish,0,8,2022
+ORG107,Primary care 15,primary care practice,health care,urban core,0,10,0,1,English and Spanish,0,12,2015
+ORG208,Mutual aid 4,mutual aid group,community & faith,south suburbs,0,3,0,0,English and Spanish,0,5,2019
+ORG279,Child care 2,child care and early education,social services,urban core,0,25,0,0,English only,1,34,2020
+ORG109,Food pantry 40,food pantry,social services,south suburbs,0,4,0,1,English and Spanish,0,7,2017
+ORG196,Faith org 8,faith-based organization,community & faith,urban core,0,3,0,0,English only,0,4,2021
+ORG152,Primary care 5,primary care practice,health care,south suburbs,0,12,0,1,English only,0,5,2013
+ORG081,Disability services 1,disability services,social services,urban core,0,15,0,1,English only,0,9,2018
+ORG233,Behavioral health 19,behavioral health provider,health care,north suburbs,0,12,0,1,English only,1,11,2015
+ORG164,Benefits office 3,state benefits office,government & coordination,urban core,0,40,0,1,English and Spanish,0,3,2021
+ORG009,Faith org 3,faith-based organization,community & faith,north suburbs,0,3,0,0,English and Spanish,0,7,2013
+ORG108,School 19,school (social worker or nurse),community & faith,urban core,0,84,0,1,English only,0,5,2022
+ORG016,Child care 8,child care and early education,social services,urban core,0,21,0,0,English only,1,26,2024
+ORG025,Primary care 1,primary care practice,health care,south suburbs,0,16,0,1,English and Spanish,0,3,2023
+ORG063,Community center 8,community center,community & faith,north suburbs,0,8,0,0,English only,0,5,2024
+ORG157,Behavioral health 9,behavioral health provider,health care,rural west,0,28,0,0,English only,1,20,2022
+ORG312,Transportation 2,transportation service,social services,urban core,0,4,0,1,English and Spanish,0,4,2015
+ORG226,Primary care 18,primary care practice,health care,urban core,0,18,0,0,English and Spanish,0,4,2025
+ORG140,DV program 2,domestic violence program,social services,urban core,0,17,0,1,English and Spanish,0,12,2015
+ORG024,Workforce center 2,workforce center,social services,urban core,0,14,0,1,English and Spanish,0,8,2015
+ORG201,Legal aid 1,legal aid,social services,urban core,1,11,0,0,English only,1,37,2023
+ORG182,Faith org 14,faith-based organization,community & faith,south suburbs,0,1,1,0,English and Spanish,0,16,2018
+ORG299,Food pantry 25,food pantry,social services,urban core,0,5,0,1,English only,0,7,2021
+ORG188,Shelter 3,homeless shelter,social services,rural west,0,,0,0,English and Spanish,0,,2019
+ORG281,Primary care 2,primary care practice,health care,south suburbs,0,14,0,1,English and Spanish,1,26,2013
+ORG132,Faith org 29,faith-based organization,community & faith,urban core,0,4,0,0,English and Spanish,0,3,2016
+ORG289,Behavioral health 1,behavioral health provider,health care,urban core,0,63,0,0,English only,1,14,2019
+ORG315,Behavioral health 25,behavioral health provider,health care,north suburbs,0,39,0,1,English only,1,25,2015
+ORG105,SUD treatment 7,substance use treatment,health care,rural west,0,36,0,0,English and Spanish,1,37,2013
+ORG154,Refugee services 4,refugee and immigrant services,social services,north suburbs,0,32,0,0,"English, Spanish and other languages",0,4,2022
+ORG184,Food pantry 17,food pantry,social services,south suburbs,0,2,0,1,English and Spanish,0,9,2024
+ORG136,Benefits office 5,state benefits office,government & coordination,north suburbs,0,40,0,1,English only,0,3,2020
+ORG199,Disability services 4,disability services,social services,urban core,0,6,0,1,English only,0,2,2022
+ORG222,FQHC site 8,FQHC clinic site,health care,rural west,0,59,0,0,English and Spanish,0,8,2015
+ORG191,Behavioral health 12,behavioral health provider,health care,north suburbs,0,17,0,1,English and Spanish,1,36,2014
+ORG276,Faith org 4,faith-based organization,community & faith,rural east,0,1,1,0,English and Spanish,0,11,2023
+ORG229,Child care 5,child care and early education,social services,rural east,0,20,0,0,English only,1,17,2016
+ORG046,Faith org 35,faith-based organization,community & faith,north suburbs,0,1,1,1,English and Spanish,0,8,2018
+ORG096,Faith org 27,faith-based organization,community & faith,north suburbs,0,3,0,1,English only,0,8,2016
+ORG066,Library 1,library,community & faith,north suburbs,0,14,0,0,English and Spanish,0,7,2015
+ORG232,FQHC site 6,FQHC clinic site,health care,rural west,0,84,0,0,English and Spanish,0,4,2019
+ORG313,School 14,school (social worker or nurse),community & faith,north suburbs,0,89,0,0,English and Spanish,0,14,2020
+ORG037,Community center 3,community center,community & faith,north suburbs,0,6,0,0,English only,0,9,2016
+ORG240,Food pantry 9,food pantry,social services,urban core,0,4,0,1,English only,1,36,2012
+ORG002,Community center 9,community center,community & faith,south suburbs,0,9,0,0,English and Spanish,1,15,2015
+ORG092,Pharmacy 2,pharmacy,health care,south suburbs,0,12,0,0,English only,0,20,2018
+ORG126,Workforce center 6,workforce center,social services,urban core,0,,0,1,English and Spanish,0,,2025
+ORG122,Mutual aid 2,mutual aid group,community & faith,south suburbs,0,5,0,1,English only,0,2,2021
+ORG014,Transportation 1,transportation service,social services,north suburbs,0,9,0,0,English only,0,5,2018
+ORG185,Faith org 20,faith-based organization,community & faith,north suburbs,0,0,1,0,English and Spanish,0,3,2022
+ORG112,Primary care 19,primary care practice,health care,south suburbs,0,9,0,1,English and Spanish,0,11,2025
+ORG319,Rental/utility aid 5,rental and utility assistance,social services,rural west,0,6,0,0,English and Spanish,0,2,2012
+ORG027,Hospital 3,hospital,health care,urban core,1,903,0,1,"English, Spanish and other languages",0,3,2014
+ORG141,Faith org 30,faith-based organization,community & faith,urban core,0,0,1,0,English only,0,3,2019
+ORG034,Behavioral health 5,behavioral health provider,health care,rural west,0,17,0,0,English and Spanish,0,2,2023
+ORG029,WIC 4,WIC clinic,social services,rural west,0,15,0,0,English and Spanish,0,2,2016
+ORG170,Faith org 11,faith-based organization,community & faith,south suburbs,0,0,1,1,English and Spanish,0,3,2021
+ORG134,Workforce center 7,workforce center,social services,rural west,0,19,0,0,English and Spanish,0,5,2022
+ORG237,Rental/utility aid 9,rental and utility assistance,social services,south suburbs,0,,0,0,English and Spanish,1,,2015
+ORG198,Faith org 7,faith-based organization,community & faith,south suburbs,0,2,0,1,English only,0,3,2013
+ORG151,Food pantry 4,food pantry,social services,north suburbs,0,3,0,1,English and Spanish,0,2,2022
+ORG120,Faith org 23,faith-based organization,community & faith,south suburbs,0,2,0,0,English only,0,3,2019
+ORG080,Food pantry 22,food pantry,social services,urban core,0,1,1,0,English only,0,7,2015
+ORG143,Hospital 2,hospital,health care,urban core,1,785,0,1,"English, Spanish and other languages",0,4,2017
+ORG076,Food pantry 18,food pantry,social services,urban core,0,1,1,1,English only,0,7,2023
+ORG118,Mutual aid 3,mutual aid group,community & faith,urban core,0,1,1,1,English and Spanish,1,17,2023
+ORG298,Transportation 3,transportation service,social services,urban core,0,23,0,0,English only,0,5,2021
+ORG106,School 5,school (social worker or nurse),community & faith,north suburbs,0,58,0,0,English and Spanish,0,8,2025
+ORG283,CHW program 1,community health worker program,community & faith,urban core,0,13,0,0,English and Spanish,0,5,2016
+ORG095,Child care 1,child care and early education,social services,urban core,0,14,0,0,English only,1,16,2025
+ORG083,Supportive housing 5,transitional or supportive housing,social services,north suburbs,0,12,0,1,English and Spanish,0,5,2019
+ORG045,Community center 4,community center,community & faith,south suburbs,0,8,0,0,English and Spanish,0,10,2013
+ORG128,DV program 1,domestic violence program,social services,rural west,0,14,0,0,English only,0,7,2025
+ORG146,Hospital 1,hospital,health care,urban core,1,648,0,1,"English, Spanish and other languages",0,5,2015
+ORG314,Behavioral health 11,behavioral health provider,health care,rural west,0,65,0,0,English and Spanish,0,4,2012
+ORG285,Primary care 11,primary care practice,health care,north suburbs,0,53,0,1,English only,0,2,2025
+ORG090,Refugee services 2,refugee and immigrant services,social services,rural east,0,15,0,0,"English, Spanish and other languages",0,4,2020
+ORG111,Behavioral health 6,behavioral health provider,health care,urban core,0,63,0,1,English and Spanish,1,23,2025
+ORG155,Primary care 3,primary care practice,health care,south suburbs,0,37,0,0,English and Spanish,0,2,2013
+ORG271,Tribal org 3,tribal community organization,community & faith,rural west,0,23,0,0,English only,0,1,2021
+ORG183,Transportation 5,transportation service,social services,urban core,0,9,0,0,English and Spanish,0,3,2013
+ORG060,Primary care 16,primary care practice,health care,north suburbs,0,7,0,0,English and Spanish,0,5,2022
+ORG032,Legal aid 5,legal aid,social services,urban core,1,16,0,1,English and Spanish,1,29,2020
+ORG011,FQHC site 4,FQHC clinic site,health care,north suburbs,0,61,0,1,English only,0,3,2020
+ORG061,Area agency on aging,area agency on aging,government & coordination,urban core,1,37,0,1,English and Spanish,0,8,2015
+ORG214,Food pantry 11,food pantry,social services,south suburbs,0,1,1,1,English and Spanish,0,9,2022
+ORG219,Food pantry 2,food pantry,social services,urban core,0,1,1,1,English and Spanish,0,7,2019
+ORG284,Food pantry 15,food pantry,social services,urban core,0,0,1,1,English only,0,3,2016
+ORG195,Behavioral health 26,behavioral health provider,health care,south suburbs,0,14,0,0,English and Spanish,1,19,2019
+ORG089,Food pantry 34,food pantry,social services,south suburbs,0,0,1,0,English and Spanish,0,2,2013
+ORG260,School 10,school (social worker or nurse),community & faith,north suburbs,0,60,0,0,English only,0,5,2019
+ORG074,Shelter 9,homeless shelter,social services,rural west,0,16,0,0,English and Spanish,1,13,2017
+ORG098,Primary care 9,primary care practice,health care,south suburbs,0,19,0,1,English and Spanish,0,7,2023
+ORG245,Pharmacy 4,pharmacy,health care,rural west,0,16,0,0,English and Spanish,1,37,2017
+ORG216,Shelter 7,homeless shelter,social services,south suburbs,0,39,0,1,English and Spanish,1,23,2024
+ORG212,Food pantry 24,food pantry,social services,rural west,0,2,0,0,English and Spanish,0,4,2023
+ORG056,WIC 1,WIC clinic,social services,urban core,0,9,0,1,English only,1,21,2018
+ORG129,Legal aid 3,legal aid,social services,urban core,1,43,0,0,English only,0,10,2020
+ORG180,Senior services 7,senior services,social services,rural east,0,6,0,1,English only,0,2,2019
+ORG179,Shelter 6,homeless shelter,social services,south suburbs,0,19,0,0,English only,1,18,2023
+ORG041,Community center 7,community center,community & faith,rural west,0,23,0,0,English only,0,5,2020
+ORG103,School 8,school (social worker or nurse),community & faith,south suburbs,0,112,0,0,English only,0,7,2017
+ORG274,Food pantry 36,food pantry,social services,rural east,0,3,0,0,English only,0,3,2021
+ORG220,School 1,school (social worker or nurse),community & faith,rural east,0,40,0,1,English and Spanish,0,3,2024
+ORG280,Rental/utility aid 1,rental and utility assistance,social services,urban core,0,3,0,1,English and Spanish,0,2,2015
