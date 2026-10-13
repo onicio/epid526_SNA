@@ -1,0 +1,1333 @@
+source,target,relationship,injected_together,shared_equipment,shared_syringes,sex_partners,social_support,overdose_response,contact_days_month,weight
+P271,P371,acquaintance,1,1,1,0,1,0,11,3
+P325,P278,coworker,0,0,0,0,1,0,6,1
+P166,P317,romantic partner,0,0,0,1,0,0,16,1
+P183,P371,friend,1,1,0,0,0,0,6,2
+P320,P107,friend,1,0,0,0,0,0,6,1
+P213,P056,friend,0,0,0,0,1,0,8,1
+P331,P357,acquaintance,1,0,0,0,0,0,10,1
+P072,P129,friend,1,1,0,0,0,0,9,2
+P232,P040,acquaintance,1,1,0,0,0,1,6,2
+P101,P171,friend,1,1,0,0,0,0,4,2
+P318,P358,acquaintance,1,1,1,0,0,0,5,2
+P290,P210,peer worker contact,0,0,0,0,1,0,6,1
+P274,P204,friend,1,0,0,0,0,0,4,1
+P052,P356,romantic partner,0,0,0,1,0,0,10,1
+P219,P027,friend,1,1,0,0,0,0,15,2
+P054,P181,romantic partner,0,0,0,1,0,0,8,1
+P344,P256,family,1,0,0,0,0,0,8,1
+P136,P292,friend,1,1,1,0,0,0,14,2
+P299,P343,friend,1,1,0,0,0,0,11,2
+P247,P325,peer worker contact,0,0,0,0,1,0,1,1
+P124,P036,romantic partner,0,0,0,1,0,0,23,1
+P175,P130,acquaintance,1,0,0,0,0,0,5,1
+P027,P312,friend,1,1,0,0,0,0,5,2
+P175,P111,friend,1,1,0,0,1,0,11,3
+P101,P117,friend,1,0,0,0,0,0,11,1
+P243,P105,acquaintance,1,0,0,0,1,1,9,2
+P209,P315,friend,0,0,0,0,1,0,3,1
+P335,P117,family,1,0,0,0,1,0,8,2
+P351,P196,family,1,1,0,0,0,0,11,2
+P080,P315,friend,0,0,0,0,1,0,6,1
+P321,P204,acquaintance,1,0,0,0,0,1,14,1
+P189,P292,family,1,1,1,0,0,0,14,2
+P134,P005,friend,1,0,0,0,1,0,10,2
+P314,P171,friend,1,1,0,0,0,0,13,2
+P120,P202,friend,1,1,1,0,0,0,5,2
+P299,P032,family,1,1,1,0,0,0,10,2
+P196,P141,friend,1,1,0,0,1,0,13,3
+P233,P204,acquaintance,1,0,0,0,0,0,8,1
+P018,P221,acquaintance,1,0,0,0,0,0,12,1
+P132,P305,family,1,0,0,0,0,0,10,1
+P140,P268,acquaintance,1,1,0,0,0,0,6,2
+P277,P323,friend,1,1,0,0,0,0,12,2
+P097,P088,friend,1,1,1,0,1,0,9,3
+P002,P132,friend,1,0,0,0,1,0,9,2
+P020,P283,friend,1,1,1,0,1,0,10,3
+P061,P057,friend,1,0,0,0,1,0,14,2
+P224,P023,acquaintance,1,1,1,0,0,0,9,2
+P051,P240,family,0,0,0,0,1,0,6,1
+P093,P068,friend,0,0,0,0,1,0,7,1
+P277,P300,friend,1,1,1,0,0,1,13,2
+P148,P136,friend,1,0,0,0,0,0,7,1
+P329,P117,family,0,0,0,0,1,0,7,1
+P038,P044,acquaintance,1,0,0,0,1,0,9,2
+P218,P210,peer worker contact,0,0,0,0,1,0,3,1
+P222,P294,acquaintance,1,0,0,0,0,0,10,1
+P155,P032,acquaintance,1,1,0,0,0,0,10,2
+P247,P268,acquaintance,1,0,0,0,0,0,11,1
+P378,P151,family,1,1,0,0,0,0,8,2
+P102,P319,acquaintance,1,0,0,0,0,0,8,1
+P162,P368,friend,1,1,0,0,1,0,10,3
+P184,P192,romantic partner,1,0,0,1,0,0,24,2
+P348,P239,acquaintance,1,1,0,0,0,0,10,2
+P179,P211,romantic partner,0,0,0,1,0,0,9,1
+P278,P208,coworker,0,0,0,0,1,0,4,1
+P119,P315,friend,1,1,1,0,1,0,6,3
+P291,P198,family,1,1,0,0,0,0,12,2
+P203,P316,family,0,0,0,0,1,0,2,1
+P029,P231,friend,1,0,0,0,1,0,14,2
+P314,P016,acquaintance,1,0,0,0,1,0,15,2
+P311,P248,romantic partner,0,0,0,1,0,0,10,1
+P118,P037,friend,1,1,0,0,0,0,10,2
+P283,P169,friend,1,1,1,0,1,0,13,3
+P148,P113,friend,1,1,1,0,0,0,15,2
+P340,P370,friend,0,0,0,0,1,0,1,1
+P174,P319,romantic partner,0,0,0,1,0,0,12,1
+P038,P286,friend,0,0,0,0,1,0,5,1
+P311,P261,acquaintance,1,1,1,0,1,0,16,3
+P359,P045,acquaintance,1,1,0,0,0,1,13,2
+P240,P198,friend,0,0,0,0,1,0,5,1
+P339,P291,acquaintance,1,1,0,0,0,0,9,2
+P295,P253,friend,1,1,0,0,1,0,9,3
+P148,P322,family,1,0,0,0,0,0,6,1
+P306,P103,acquaintance,1,1,0,0,0,0,8,2
+P158,P079,romantic partner,0,0,0,1,0,0,22,1
+P353,P127,acquaintance,1,0,0,0,0,0,11,1
+P202,P196,friend,1,1,1,0,0,0,10,2
+P080,P190,friend,1,1,0,0,1,0,8,3
+P306,P177,acquaintance,1,0,0,0,0,0,6,1
+P260,P210,peer worker contact,0,0,0,0,1,0,2,1
+P156,P223,acquaintance,1,0,0,0,0,0,7,1
+P113,P073,friend,0,0,0,0,1,0,8,1
+P168,P008,acquaintance,1,1,0,0,0,0,6,2
+P368,P129,friend,1,1,0,0,0,0,10,2
+P283,P288,friend,1,0,0,0,0,0,9,1
+P313,P127,acquaintance,1,0,0,0,0,0,8,1
+P038,P376,friend,1,0,0,0,0,0,7,1
+P033,P258,friend,0,0,0,0,1,0,6,1
+P177,P278,peer worker contact,0,0,0,0,1,0,4,1
+P157,P198,romantic partner,1,0,0,1,0,0,30,2
+P009,P067,romantic partner,0,0,0,1,0,0,14,1
+P182,P252,friend,1,0,0,0,0,0,9,1
+P063,P307,friend,0,0,0,0,1,0,2,1
+P354,P344,family,0,0,0,0,1,0,2,1
+P289,P245,friend,0,0,0,0,1,0,3,1
+P211,P184,friend,1,1,1,0,1,0,15,3
+P149,P232,friend,1,1,0,0,0,0,11,2
+P202,P374,romantic partner,0,0,0,1,0,0,12,1
+P102,P327,romantic partner,0,0,0,1,0,0,12,1
+P369,P184,acquaintance,1,1,0,0,0,0,8,2
+P155,P151,friend,1,1,1,0,0,0,10,2
+P219,P368,friend,1,0,0,0,0,1,11,1
+P287,P137,acquaintance,1,1,1,0,0,0,6,2
+P237,P036,acquaintance,1,0,0,0,1,0,12,2
+P065,P279,friend,1,1,0,0,0,0,7,2
+P017,P268,friend,1,0,0,0,0,1,9,1
+P380,P154,acquaintance,1,0,0,0,0,0,18,1
+P155,P144,family,0,0,0,0,1,0,6,1
+P158,P142,acquaintance,1,1,1,0,1,0,13,3
+P064,P208,peer worker contact,0,0,0,0,1,1,1,1
+P224,P148,acquaintance,1,1,1,0,0,0,8,2
+P080,P322,friend,1,1,0,0,0,0,5,2
+P146,P193,peer worker contact,0,0,0,0,1,0,3,1
+P224,P209,friend,1,1,0,0,0,0,7,2
+P096,P249,family,1,0,0,0,0,0,9,1
+P260,P297,acquaintance,1,0,0,0,1,1,8,2
+P319,P325,peer worker contact,0,0,0,0,1,0,4,1
+P245,P121,friend,1,0,0,0,0,0,10,1
+P265,P313,friend,1,1,1,0,1,0,6,3
+P285,P158,friend,1,0,0,0,1,0,12,2
+P336,P028,family,1,0,0,0,1,0,16,2
+P271,P110,family,1,1,0,0,0,0,13,2
+P140,P039,acquaintance,1,0,0,0,0,0,12,1
+P229,P168,family,1,1,1,0,1,0,11,3
+P288,P315,friend,1,0,0,0,0,0,10,1
+P199,P118,friend,1,1,1,0,0,0,10,2
+P111,P130,friend,1,1,0,0,0,1,7,2
+P095,P155,romantic partner,0,0,0,1,0,0,14,1
+P199,P339,friend,1,1,1,0,1,0,15,3
+P182,P158,acquaintance,1,0,0,0,1,0,6,2
+P310,P070,romantic partner,0,0,0,1,0,0,15,1
+P174,P331,friend,0,0,0,0,1,0,11,1
+P339,P333,friend,1,1,0,0,0,0,9,2
+P021,P370,friend,1,0,0,0,0,0,8,1
+P047,P042,romantic partner,0,0,0,1,0,0,12,1
+P240,P053,acquaintance,1,1,0,0,0,0,8,2
+P313,P155,romantic partner,0,0,0,1,0,0,12,1
+P353,P015,acquaintance,1,1,1,0,0,0,13,2
+P224,P288,romantic partner,1,0,0,1,1,0,14,3
+P107,P241,friend,0,0,0,0,1,0,6,1
+P359,P116,friend,1,1,0,0,1,0,5,3
+P228,P112,friend,0,0,0,0,1,0,2,1
+P069,P345,acquaintance,1,1,0,0,1,0,8,3
+P056,P196,friend,1,1,1,0,0,0,12,2
+P087,P324,acquaintance,1,1,0,0,1,0,9,3
+P069,P351,friend,1,1,0,0,1,0,11,3
+P189,P291,family,1,1,1,0,1,0,6,3
+P140,P294,acquaintance,1,0,0,0,1,0,16,2
+P344,P320,friend,1,1,0,0,0,0,10,2
+P291,P007,friend,0,0,0,0,1,0,4,1
+P316,P094,acquaintance,1,1,1,0,0,0,7,2
+P138,P128,family,1,0,0,0,1,0,11,2
+P148,P378,friend,1,0,0,0,1,0,6,2
+P204,P121,acquaintance,1,1,0,0,0,0,13,2
+P211,P011,family,1,1,0,0,1,0,8,3
+P069,P236,friend,0,0,0,0,1,0,4,1
+P142,P151,acquaintance,1,1,0,0,0,0,8,2
+P180,P294,romantic partner,0,0,0,1,0,0,16,1
+P315,P291,friend,1,1,1,0,1,0,11,3
+P110,P148,family,1,1,1,0,1,0,9,3
+P007,P309,peer worker contact,0,0,0,0,1,1,5,1
+P204,P341,family,0,0,0,0,1,0,5,1
+P018,P376,family,0,0,0,0,1,0,5,1
+P177,P377,romantic partner,0,0,0,1,0,0,13,1
+P015,P053,friend,1,1,1,0,0,0,7,2
+P159,P300,friend,1,0,0,0,1,0,11,2
+P245,P251,acquaintance,1,0,0,0,0,0,6,1
+P325,P193,coworker,0,0,0,0,1,0,6,1
+P265,P022,friend,1,1,1,0,0,0,9,2
+P117,P223,acquaintance,1,1,1,0,0,0,8,2
+P087,P103,romantic partner,0,0,0,1,0,0,17,1
+P309,P193,coworker,0,0,0,0,1,0,3,1
+P371,P037,acquaintance,1,1,1,0,0,0,7,2
+P101,P372,romantic partner,0,0,0,1,0,0,10,1
+P023,P345,romantic partner,0,0,0,1,0,0,15,1
+P270,P370,friend,1,0,0,0,0,0,10,1
+P062,P152,friend,0,0,0,0,1,0,3,1
+P036,P251,friend,1,1,0,0,0,0,15,2
+P155,P292,acquaintance,1,0,0,0,0,0,10,1
+P051,P119,friend,1,1,0,0,0,0,13,2
+P199,P094,acquaintance,1,0,0,0,0,0,9,1
+P171,P270,friend,1,1,0,0,1,0,9,3
+P299,P313,friend,1,1,1,0,1,0,13,3
+P215,P003,acquaintance,1,0,0,0,1,0,9,2
+P252,P066,family,1,1,1,0,0,0,11,2
+P030,P003,acquaintance,1,1,0,0,0,0,10,2
+P285,P004,acquaintance,1,0,0,0,1,0,9,2
+P353,P189,friend,0,0,0,0,1,0,6,1
+P313,P066,acquaintance,1,1,0,0,1,0,10,3
+P056,P136,friend,1,0,0,0,0,0,10,1
+P020,P030,acquaintance,1,1,0,0,0,0,7,2
+P313,P345,friend,1,1,1,0,1,0,11,3
+P239,P207,family,0,0,0,0,1,0,4,1
+P199,P196,friend,1,1,0,0,1,0,8,3
+P271,P190,acquaintance,1,1,1,0,1,0,9,3
+P070,P092,friend,1,0,0,0,0,0,5,1
+P255,P207,friend,1,0,0,0,1,0,9,2
+P080,P151,friend,1,0,0,0,0,0,13,1
+P236,P333,friend,1,1,0,0,0,0,6,2
+P344,P141,family,0,0,0,0,1,0,8,1
+P021,P153,friend,1,1,0,0,0,0,8,2
+P283,P320,friend,1,1,0,0,0,0,10,2
+P231,P371,friend,1,0,0,0,0,0,12,1
+P295,P144,friend,1,0,0,0,0,0,6,1
+P262,P163,friend,1,1,1,0,0,0,6,2
+P072,P364,romantic partner,0,0,0,1,0,0,10,1
+P245,P154,friend,1,0,0,0,0,0,5,1
+P220,P032,friend,1,0,0,0,0,0,9,1
+P038,P227,friend,1,1,1,0,1,0,12,3
+P353,P030,acquaintance,1,1,0,0,0,0,8,2
+P319,P331,family,0,0,0,0,1,0,2,1
+P100,P068,friend,1,1,1,0,1,0,7,3
+P202,P157,acquaintance,1,0,0,0,0,0,10,1
+P252,P053,friend,1,1,0,0,1,1,10,3
+P290,P040,friend,1,0,0,0,1,1,9,2
+P069,P113,friend,0,0,0,0,1,0,4,1
+P226,P317,romantic partner,0,0,0,1,0,0,16,1
+P261,P241,acquaintance,1,1,1,0,0,0,9,2
+P307,P227,friend,0,0,0,0,1,0,7,1
+P268,P257,romantic partner,0,0,0,1,0,0,14,1
+P299,P291,acquaintance,1,1,1,0,1,0,12,3
+P341,P207,friend,1,0,0,0,1,0,6,2
+P082,P359,friend,1,1,0,0,0,0,7,2
+P289,P078,peer worker contact,0,0,0,0,1,0,7,1
+P084,P368,friend,1,1,0,0,1,0,11,3
+P318,P294,romantic partner,0,0,0,1,0,0,20,1
+P132,P045,friend,1,1,0,0,0,0,12,2
+P069,P155,friend,1,0,0,0,0,0,9,1
+P149,P355,friend,1,0,0,0,0,0,8,1
+P082,P357,friend,1,1,1,0,0,0,10,2
+P327,P357,friend,1,0,0,0,0,0,12,1
+P224,P261,family,0,0,0,0,1,0,8,1
+P308,P071,family,1,0,0,0,0,0,10,1
+P338,P078,peer worker contact,0,0,0,0,1,0,2,1
+P221,P074,romantic partner,0,0,0,1,0,0,13,1
+P089,P032,family,1,0,0,0,1,0,13,2
+P049,P339,friend,1,1,1,0,0,0,9,2
+P103,P163,friend,1,0,0,0,0,0,7,1
+P212,P341,friend,1,0,0,0,1,1,9,2
+P155,P320,acquaintance,1,1,1,0,0,0,6,2
+P367,P211,romantic partner,0,0,0,1,0,0,8,1
+P110,P295,friend,1,1,0,0,0,0,4,2
+P379,P257,romantic partner,0,0,0,1,0,0,11,1
+P343,P241,acquaintance,1,1,0,0,0,0,13,2
+P187,P304,acquaintance,1,0,0,0,0,0,7,1
+P268,P325,peer worker contact,0,0,0,0,1,1,5,1
+P158,P003,friend,1,1,0,0,1,0,11,3
+P027,P084,friend,1,0,0,0,0,0,10,1
+P019,P251,friend,1,1,0,0,0,0,6,2
+P367,P087,romantic partner,0,0,0,1,0,0,6,1
+P285,P049,romantic partner,0,0,0,1,0,0,16,1
+P221,P318,friend,1,0,0,0,1,0,6,2
+P214,P005,acquaintance,1,0,0,0,0,0,9,1
+P088,P043,friend,1,0,0,0,1,1,10,2
+P144,P190,romantic partner,0,0,0,1,0,0,10,1
+P059,P196,friend,1,0,0,0,0,0,10,1
+P040,P054,friend,0,0,0,0,1,0,6,1
+P234,P331,acquaintance,1,1,0,0,0,0,13,2
+P281,P250,friend,0,0,0,0,1,0,5,1
+P344,P215,acquaintance,1,1,1,0,0,0,10,2
+P299,P082,friend,1,1,1,0,0,0,10,2
+P122,P296,family,0,0,0,0,1,0,4,1
+P022,P313,friend,1,1,1,0,0,0,10,2
+P022,P315,family,1,1,1,0,0,0,8,2
+P137,P198,acquaintance,1,1,1,0,0,0,3,2
+P135,P378,romantic partner,0,0,0,1,0,0,20,1
+P231,P252,friend,1,0,0,0,0,0,15,1
+P097,P155,acquaintance,1,1,0,0,1,0,17,3
+P339,P168,friend,1,1,0,0,1,0,5,3
+P010,P252,romantic partner,0,0,0,1,0,0,14,1
+P096,P078,peer worker contact,0,0,0,0,1,1,4,1
+P194,P363,romantic partner,0,0,0,1,0,0,9,1
+P197,P165,peer worker contact,0,0,0,0,1,0,3,1
+P229,P231,acquaintance,1,1,1,0,0,0,8,2
+P110,P313,friend,1,1,1,0,0,0,8,2
+P059,P201,friend,1,1,1,0,1,0,7,3
+P285,P033,friend,0,0,0,0,1,0,8,1
+P229,P148,friend,1,1,1,0,1,0,19,3
+P158,P236,family,1,1,1,0,0,0,9,2
+P300,P323,acquaintance,1,1,0,0,1,1,11,3
+P042,P092,acquaintance,1,0,0,0,1,0,12,2
+P220,P266,romantic partner,0,0,0,1,0,0,13,1
+P051,P296,friend,1,1,0,0,1,0,13,3
+P231,P073,acquaintance,1,0,0,0,0,0,10,1
+P051,P343,acquaintance,1,0,0,0,0,0,6,1
+P225,P085,acquaintance,1,1,1,0,0,0,8,2
+P088,P202,acquaintance,1,1,1,0,1,0,9,3
+P336,P009,romantic partner,0,0,0,1,0,0,16,1
+P260,P325,peer worker contact,0,0,0,0,1,0,9,1
+P315,P241,friend,1,1,1,0,1,0,14,3
+P048,P352,romantic partner,0,0,0,1,0,0,9,1
+P162,P207,acquaintance,1,1,0,0,1,0,7,3
+P237,P245,romantic partner,0,0,0,1,0,0,10,1
+P331,P304,acquaintance,1,0,0,0,1,0,26,2
+P367,P026,acquaintance,1,0,0,0,1,0,16,2
+P289,P162,friend,1,1,0,0,0,0,6,2
+P015,P311,friend,1,1,0,0,0,0,15,2
+P024,P009,friend,0,0,0,0,1,0,7,1
+P032,P197,friend,1,1,0,0,0,0,6,2
+P292,P032,friend,1,1,0,0,0,0,8,2
+P348,P131,romantic partner,0,0,0,1,0,0,13,1
+P128,P162,acquaintance,1,1,0,0,0,0,8,2
+P250,P077,romantic partner,0,0,0,1,0,0,10,1
+P091,P063,acquaintance,1,0,0,0,0,0,3,1
+P089,P043,friend,0,0,0,0,1,0,4,1
+P214,P368,friend,0,0,0,0,1,0,6,1
+P024,P340,romantic partner,0,0,0,1,0,0,11,1
+P327,P307,acquaintance,1,0,0,0,0,0,9,1
+P061,P360,acquaintance,1,0,0,0,0,0,13,1
+P362,P126,romantic partner,0,0,0,1,0,0,6,1
+P225,P330,romantic partner,0,0,0,1,0,0,12,1
+P110,P296,friend,0,0,0,0,1,0,5,1
+P020,P353,family,1,1,0,0,0,0,9,2
+P327,P362,friend,1,1,0,0,1,0,12,3
+P111,P005,romantic partner,0,0,0,1,0,0,16,1
+P220,P190,family,0,0,0,0,1,0,6,1
+P190,P258,family,0,0,0,0,1,0,3,1
+P323,P372,friend,1,1,0,0,0,0,7,2
+P120,P113,friend,1,1,1,0,1,0,8,3
+P101,P138,friend,1,1,0,0,0,0,11,2
+P210,P208,coworker,0,0,0,0,1,0,7,1
+P265,P141,acquaintance,1,0,0,0,1,0,11,2
+P174,P221,acquaintance,1,0,0,0,0,0,5,1
+P032,P378,acquaintance,1,1,1,0,0,0,2,2
+P037,P030,friend,1,1,1,0,0,0,14,2
+P324,P060,friend,1,0,0,0,0,0,7,1
+P315,P053,acquaintance,1,1,1,0,1,0,5,3
+P371,P360,friend,1,1,0,0,0,0,7,2
+P344,P261,acquaintance,1,1,1,0,0,0,8,2
+P210,P078,coworker,0,0,0,0,1,0,4,1
+P122,P030,acquaintance,1,1,0,0,0,0,9,2
+P202,P186,friend,1,1,0,0,1,0,12,3
+P203,P199,friend,1,0,0,0,0,0,12,1
+P173,P210,peer worker contact,0,0,0,0,1,0,8,1
+P175,P124,friend,1,0,0,0,0,1,8,1
+P218,P027,friend,1,0,0,0,0,0,10,1
+P102,P222,acquaintance,1,0,0,0,0,0,8,1
+P110,P220,acquaintance,1,0,0,0,0,0,9,1
+P063,P044,friend,1,0,0,0,0,0,9,1
+P011,P347,romantic partner,0,0,0,1,0,0,23,1
+P371,P215,friend,1,0,0,0,0,0,6,1
+P010,P168,friend,1,0,0,0,0,0,11,1
+P171,P138,friend,1,1,0,0,0,0,9,2
+P189,P136,friend,1,1,1,0,0,0,17,2
+P369,P263,romantic partner,0,0,0,1,0,0,15,1
+P045,P076,romantic partner,0,0,0,1,0,0,9,1
+P169,P007,friend,0,0,0,0,1,0,9,1
+P292,P168,friend,1,1,0,0,0,0,15,2
+P103,P125,family,0,0,0,0,1,0,9,1
+P256,P258,friend,1,1,0,0,0,0,8,2
+P189,P080,friend,1,1,0,0,0,0,8,2
+P136,P127,friend,1,1,0,0,0,0,15,2
+P120,P291,family,1,0,0,0,1,0,18,2
+P023,P008,friend,1,0,0,0,1,0,18,2
+P022,P003,friend,1,1,1,0,1,0,11,3
+P201,P080,acquaintance,1,1,0,0,1,0,17,3
+P271,P049,romantic partner,0,0,0,1,0,0,14,1
+P149,P210,peer worker contact,0,0,0,0,1,0,3,1
+P285,P148,friend,1,1,1,0,1,0,9,3
+P047,P086,romantic partner,0,0,0,1,0,0,9,1
+P173,P307,friend,1,1,0,0,1,0,10,3
+P286,P325,peer worker contact,0,0,0,0,1,1,6,1
+P162,P208,peer worker contact,0,0,0,0,1,0,11,1
+P051,P375,family,0,0,0,0,1,0,5,1
+P109,P278,peer worker contact,0,0,0,0,1,0,2,1
+P050,P339,friend,0,0,0,0,1,0,4,1
+P111,P255,acquaintance,1,0,0,0,0,0,6,1
+P039,P284,acquaintance,1,0,0,0,0,0,9,1
+P335,P340,romantic partner,0,0,0,1,0,0,14,1
+P288,P197,friend,0,0,0,0,1,0,6,1
+P353,P053,acquaintance,1,1,1,0,0,0,14,2
+P344,P190,family,1,1,0,0,0,0,5,2
+P139,P208,peer worker contact,0,0,0,0,1,0,6,1
+P114,P363,romantic partner,0,0,0,1,0,0,14,1
+P127,P157,friend,1,0,0,0,1,0,16,2
+P314,P087,acquaintance,1,1,1,0,0,0,6,2
+P256,P155,friend,0,0,0,0,1,0,5,1
+P118,P299,friend,1,1,1,0,0,0,8,2
+P108,P195,family,1,0,0,0,0,0,10,1
+P345,P094,friend,1,1,0,0,0,0,12,2
+P321,P250,friend,1,1,0,0,0,0,9,2
+P170,P215,friend,0,0,0,0,1,0,5,1
+P186,P345,friend,1,0,0,0,1,0,9,2
+P033,P196,acquaintance,1,1,0,0,1,0,18,3
+P146,P028,family,1,0,0,0,0,0,10,1
+P050,P267,romantic partner,0,0,0,1,0,0,9,1
+P289,P251,friend,1,0,0,0,0,0,8,1
+P322,P053,friend,1,1,0,0,1,0,13,3
+P254,P279,family,1,1,0,0,0,0,11,2
+P018,P195,friend,1,0,0,0,1,0,16,2
+P344,P030,friend,1,1,1,0,0,0,6,2
+P185,P276,romantic partner,0,0,0,1,0,0,9,1
+P019,P162,acquaintance,1,1,0,0,1,0,12,3
+P109,P193,peer worker contact,0,0,0,0,1,0,5,1
+P064,P078,peer worker contact,0,0,0,0,1,0,6,1
+P262,P075,romantic partner,0,0,0,1,0,0,17,1
+P380,P216,romantic partner,0,0,0,1,0,0,12,1
+P273,P262,friend,1,0,0,0,0,0,6,1
+P224,P022,acquaintance,1,1,1,0,1,0,12,3
+P168,P345,friend,1,1,0,0,0,0,8,2
+P235,P205,friend,1,1,0,0,0,0,13,2
+P051,P033,friend,1,1,0,0,0,0,7,2
+P171,P112,family,0,0,0,0,1,0,5,1
+P376,P114,romantic partner,0,0,0,1,0,0,16,1
+P371,P288,romantic partner,0,0,0,1,0,0,11,1
+P324,P336,acquaintance,1,1,0,0,0,0,11,2
+P185,P360,friend,0,0,0,0,1,0,2,1
+P335,P278,peer worker contact,0,0,0,0,1,0,4,1
+P059,P022,friend,1,1,0,0,0,0,5,2
+P072,P143,family,1,0,0,0,0,0,5,1
+P158,P196,friend,1,1,1,0,1,0,8,3
+P193,P208,coworker,0,0,0,0,1,0,3,1
+P102,P210,peer worker contact,0,0,0,0,1,0,6,1
+P207,P121,family,1,1,0,0,0,0,9,2
+P362,P268,family,0,0,0,0,1,0,2,1
+P259,P345,acquaintance,1,0,0,0,0,0,11,1
+P210,P278,coworker,0,0,0,0,1,0,1,1
+P119,P104,romantic partner,0,0,0,1,0,0,13,1
+P380,P251,acquaintance,1,1,0,0,0,0,7,2
+P225,P090,romantic partner,0,0,0,1,0,0,5,1
+P110,P082,friend,1,1,1,0,0,0,6,2
+P260,P321,friend,0,0,0,0,1,0,2,1
+P199,P089,romantic partner,0,0,0,1,0,0,11,1
+P015,P168,family,1,1,1,0,1,0,11,3
+P343,P360,acquaintance,1,1,0,0,1,0,7,3
+P288,P068,friend,1,0,0,0,0,0,12,1
+P069,P012,romantic partner,0,0,0,1,0,0,10,1
+P354,P292,romantic partner,0,0,0,1,0,0,16,1
+P340,P278,peer worker contact,0,0,0,0,1,0,6,1
+P131,P226,romantic partner,0,0,0,1,0,0,7,1
+P202,P209,acquaintance,1,0,0,0,0,0,9,1
+P319,P083,acquaintance,1,1,0,0,0,0,12,2
+P088,P253,acquaintance,1,1,0,0,0,0,12,2
+P163,P052,acquaintance,1,0,0,0,1,0,4,2
+P202,P320,friend,1,1,0,0,1,0,10,3
+P022,P349,friend,1,1,0,0,1,0,15,3
+P334,P318,friend,1,0,0,0,0,0,9,1
+P199,P189,friend,1,1,1,0,0,0,7,2
+P344,P080,friend,1,1,1,0,1,0,9,3
+P243,P308,friend,1,0,0,0,1,0,9,2
+P274,P078,peer worker contact,0,0,0,0,1,1,10,1
+P179,P172,romantic partner,0,0,0,1,0,0,8,1
+P171,P317,romantic partner,0,0,0,1,0,0,14,1
+P367,P009,friend,0,0,0,0,1,0,6,1
+P049,P168,romantic partner,0,0,0,1,0,0,10,1
+P355,P164,romantic partner,0,0,0,1,0,0,18,1
+P199,P110,acquaintance,1,1,1,0,1,0,11,3
+P151,P073,romantic partner,0,0,0,1,0,0,12,1
+P240,P122,romantic partner,0,0,0,1,0,0,15,1
+P046,P001,friend,1,1,0,0,0,0,6,2
+P135,P351,friend,1,1,1,0,1,0,13,3
+P290,P250,acquaintance,1,0,0,0,0,0,11,1
+P118,P135,friend,1,0,0,0,1,0,7,2
+P354,P332,friend,0,0,0,0,1,0,3,1
+P023,P137,acquaintance,1,1,0,0,1,0,5,3
+P125,P372,friend,1,0,0,0,0,0,7,1
+P031,P092,acquaintance,1,0,0,0,0,0,10,1
+P051,P213,acquaintance,1,1,1,0,0,0,11,2
+P032,P360,friend,1,1,1,0,0,0,8,2
+P113,P007,friend,1,1,0,0,0,1,8,2
+P038,P017,friend,0,0,0,0,1,0,1,1
+P215,P309,peer worker contact,0,0,0,0,1,0,4,1
+P026,P177,acquaintance,1,0,0,0,0,0,7,1
+P348,P205,friend,1,0,0,0,1,0,11,2
+P237,P338,acquaintance,1,0,0,0,0,0,10,1
+P015,P013,acquaintance,1,1,0,0,0,0,12,2
+P313,P315,acquaintance,1,1,1,0,0,0,12,2
+P277,P060,friend,1,0,0,0,0,1,9,1
+P023,P309,peer worker contact,0,0,0,0,1,0,7,1
+P165,P278,coworker,0,0,0,0,1,0,2,1
+P229,P343,family,0,0,0,0,1,0,6,1
+P353,P342,romantic partner,0,0,0,1,0,0,19,1
+P200,P227,acquaintance,1,1,0,0,1,1,12,3
+P353,P136,acquaintance,1,1,0,0,0,0,12,2
+P042,P368,family,1,0,0,0,0,1,8,1
+P036,P092,romantic partner,0,0,0,1,0,0,12,1
+P362,P204,acquaintance,1,1,0,0,0,0,13,2
+P080,P320,acquaintance,1,1,0,0,0,0,8,2
+P234,P055,friend,1,1,0,0,0,0,10,2
+P040,P191,acquaintance,1,0,0,0,1,0,11,2
+P283,P148,acquaintance,1,1,1,0,0,0,9,2
+P136,P295,acquaintance,1,0,0,0,1,0,10,2
+P155,P241,acquaintance,1,1,0,0,1,0,11,3
+P224,P196,family,1,1,1,0,0,0,7,2
+P050,P252,friend,1,1,1,0,1,0,12,3
+P123,P054,acquaintance,1,0,0,0,0,0,9,1
+P228,P323,friend,0,0,0,0,1,0,5,1
+P376,P191,friend,1,0,0,0,1,1,12,2
+P147,P018,friend,1,1,0,0,1,0,7,3
+P050,P080,friend,1,1,1,0,1,0,8,3
+P271,P097,friend,0,0,0,0,1,0,5,1
+P292,P135,family,1,1,1,0,0,0,7,2
+P071,P085,acquaintance,1,0,0,0,1,0,12,2
+P004,P241,romantic partner,0,0,0,1,0,0,7,1
+P125,P263,friend,1,0,0,0,0,0,6,1
+P273,P205,acquaintance,1,0,0,0,1,0,14,2
+P098,P364,acquaintance,1,1,0,0,0,0,13,2
+P340,P028,family,1,0,0,0,0,1,11,1
+P135,P144,friend,1,0,0,0,1,0,10,2
+P113,P135,family,1,1,1,0,0,0,6,2
+P253,P241,friend,1,0,0,0,0,0,10,1
+P020,P032,friend,1,1,1,0,1,0,9,3
+P219,P274,acquaintance,1,0,0,0,1,0,16,2
+P081,P060,romantic partner,0,0,0,1,0,0,8,1
+P113,P142,friend,1,1,1,0,1,0,13,3
+P354,P196,family,1,1,0,0,1,0,12,3
+P072,P112,acquaintance,1,1,0,0,0,0,4,2
+P062,P320,friend,1,1,1,0,0,0,11,2
+P353,P120,friend,1,1,1,0,1,0,11,3
+P136,P261,acquaintance,1,1,0,0,0,0,4,2
+P304,P325,peer worker contact,0,0,0,0,1,0,8,1
+P362,P294,friend,1,1,0,0,0,0,13,2
+P088,P292,friend,1,1,1,0,0,0,8,2
+P187,P294,friend,1,1,0,0,1,0,7,3
+P111,P129,friend,1,1,1,0,1,0,14,3
+P370,P172,romantic partner,0,0,0,1,0,0,15,1
+P367,P262,friend,0,0,0,0,1,0,7,1
+P149,P293,friend,1,1,0,0,1,0,7,3
+P017,P355,romantic partner,0,0,0,1,0,0,19,1
+P309,P278,coworker,0,0,0,0,1,0,8,1
+P364,P380,acquaintance,1,0,0,0,0,0,7,1
+P353,P220,friend,1,1,1,0,0,0,9,2
+P182,P088,friend,0,0,0,0,1,0,4,1
+P290,P054,family,1,0,0,0,0,1,10,1
+P112,P143,friend,1,0,0,0,1,0,9,2
+P140,P173,acquaintance,1,0,0,0,0,0,1,1
+P199,P311,acquaintance,1,0,0,0,0,0,11,1
+P300,P275,romantic partner,0,0,0,1,0,0,18,1
+P376,P041,friend,1,0,0,0,0,0,10,1
+P167,P217,romantic partner,0,0,0,1,0,0,9,1
+P149,P160,acquaintance,1,1,0,0,1,1,11,3
+P353,P089,family,0,0,0,0,1,0,2,1
+P265,P256,friend,1,1,1,0,1,0,15,3
+P202,P135,friend,1,1,1,0,0,0,4,2
+P319,P286,acquaintance,1,0,0,0,1,0,9,2
+P201,P093,acquaintance,1,0,0,0,0,0,10,1
+P297,P116,friend,1,0,0,0,0,0,9,1
+P148,P107,friend,1,1,1,0,0,0,6,2
+P100,P168,family,1,1,0,0,1,0,13,3
+P010,P057,acquaintance,1,1,1,0,1,0,9,3
+P252,P157,friend,1,1,0,0,0,0,10,2
+P367,P370,romantic partner,1,1,1,1,1,0,20,4
+P060,P143,friend,1,0,0,0,1,1,14,2
+P236,P053,friend,1,0,0,0,0,0,12,1
+P099,P302,friend,1,0,0,0,0,1,9,1
+P253,P309,peer worker contact,0,0,0,0,1,0,6,1
+P142,P291,friend,1,1,0,0,0,0,7,2
+P187,P307,romantic partner,0,0,0,1,0,0,13,1
+P112,P161,romantic partner,0,0,0,1,0,0,9,1
+P290,P284,romantic partner,0,0,0,1,0,0,21,1
+P295,P261,family,1,0,0,0,0,0,10,1
+P108,P064,acquaintance,1,0,0,0,1,0,9,2
+P286,P116,friend,0,0,0,0,1,0,2,1
+P316,P100,friend,1,1,1,0,0,0,9,2
+P098,P177,acquaintance,1,0,0,0,0,0,9,1
+P321,P160,romantic partner,0,0,0,1,0,0,9,1
+P273,P278,peer worker contact,0,0,0,0,1,0,5,1
+P207,P154,acquaintance,1,0,0,0,1,0,12,2
+P117,P361,romantic partner,0,0,0,1,0,0,13,1
+P111,P216,friend,1,1,0,0,1,0,12,3
+P019,P035,friend,1,0,0,0,1,0,11,2
+P178,P028,friend,1,1,0,0,1,0,11,3
+P277,P192,friend,1,1,0,0,0,0,13,2
+P113,P261,acquaintance,1,1,0,0,0,0,7,2
+P263,P279,acquaintance,1,1,0,0,0,0,8,2
+P088,P360,acquaintance,1,1,1,0,0,1,7,2
+P252,P168,friend,1,1,1,0,1,0,9,3
+P119,P258,family,1,1,0,0,1,0,12,3
+P020,P119,friend,1,1,1,0,1,1,17,3
+P088,P259,acquaintance,1,0,0,0,0,0,4,1
+P297,P039,friend,1,1,0,0,0,0,7,2
+P287,P351,friend,1,0,0,0,0,0,9,1
+P135,P261,acquaintance,1,1,1,0,1,0,11,3
+P265,P032,friend,0,0,0,0,1,0,4,1
+P107,P165,peer worker contact,0,0,0,0,1,0,5,1
+P189,P144,friend,1,1,0,0,1,0,10,3
+P199,P003,friend,1,1,1,0,0,0,8,2
+P143,P244,romantic partner,0,0,0,1,0,0,21,1
+P280,P200,friend,1,1,1,0,0,0,9,2
+P215,P176,romantic partner,0,0,0,1,0,0,14,1
+P234,P376,friend,1,0,0,0,1,0,9,2
+P056,P269,friend,0,0,0,0,1,0,6,1
+P004,P089,family,0,0,0,0,1,0,4,1
+P003,P066,friend,1,1,0,0,1,0,17,3
+P038,P040,friend,1,0,0,0,1,0,10,2
+P059,P120,family,1,1,0,0,0,0,11,2
+P135,P068,family,1,0,0,0,1,0,9,2
+P231,P088,family,1,1,0,0,0,0,12,2
+P022,P142,friend,0,0,0,0,1,0,9,1
+P063,P227,friend,1,1,0,0,1,0,14,3
+P292,P309,peer worker contact,0,0,0,0,1,0,4,1
+P327,P359,friend,0,0,0,0,1,0,6,1
+P372,P193,peer worker contact,0,0,0,0,1,0,4,1
+P015,P320,friend,1,1,1,0,0,0,5,2
+P002,P040,family,1,1,0,0,1,0,13,3
+P313,P343,acquaintance,1,0,0,0,0,0,8,1
+P237,P368,romantic partner,1,1,0,1,1,0,20,4
+P157,P135,friend,1,1,1,0,0,0,10,2
+P344,P094,friend,1,0,0,0,1,0,9,2
+P125,P009,romantic partner,0,0,0,1,0,0,9,1
+P277,P146,friend,1,1,0,0,0,0,6,2
+P325,P078,coworker,0,0,0,0,1,0,2,1
+P233,P272,family,0,0,0,0,1,0,6,1
+P088,P333,acquaintance,1,1,1,0,1,0,11,3
+P155,P043,friend,1,1,0,0,1,0,20,3
+P150,P045,friend,0,0,0,0,1,0,4,1
+P287,P068,friend,1,1,1,0,0,0,14,2
+P170,P292,friend,1,0,0,0,0,0,5,1
+P148,P256,friend,1,1,1,0,0,0,5,2
+P371,P068,acquaintance,1,1,1,0,0,0,10,2
+P049,P068,acquaintance,1,0,0,0,1,0,12,2
+P118,P093,family,0,0,0,0,1,0,10,1
+P170,P313,acquaintance,1,1,0,0,0,0,5,2
+P018,P362,acquaintance,1,1,0,0,0,1,4,2
+P195,P324,family,0,0,0,0,1,0,3,1
+P285,P320,friend,1,1,1,0,0,0,16,2
+P174,P364,acquaintance,1,1,0,0,1,0,13,3
+P072,P146,acquaintance,1,0,0,0,0,1,11,1
+P009,P016,acquaintance,1,0,0,0,0,0,7,1
+P202,P037,acquaintance,1,1,1,0,0,0,11,2
+P023,P196,acquaintance,1,0,0,0,1,0,10,2
+P088,P068,acquaintance,1,1,1,0,0,0,11,2
+P313,P206,acquaintance,1,1,0,0,1,0,13,3
+P136,P351,family,1,1,1,0,0,0,7,2
+P118,P313,friend,1,1,1,0,1,0,7,3
+P232,P307,acquaintance,1,0,0,0,0,0,6,1
+P319,P044,acquaintance,1,0,0,0,0,0,14,1
+P255,P129,friend,1,1,0,0,1,0,12,3
+P165,P325,coworker,0,0,0,0,1,0,4,1
+P042,P237,friend,1,0,0,0,1,1,15,2
+P349,P236,family,1,0,0,0,1,0,7,2
+P306,P251,friend,1,0,0,0,0,0,7,1
+P348,P060,acquaintance,1,0,0,0,0,1,9,1
+P199,P015,romantic partner,0,0,0,1,0,0,12,1
+P203,P165,peer worker contact,0,0,0,0,1,0,7,1
+P320,P007,acquaintance,1,1,0,0,0,0,11,2
+P005,P216,friend,1,0,0,0,1,0,13,2
+P240,P378,romantic partner,0,0,0,1,0,0,12,1
+P093,P215,acquaintance,1,0,0,0,1,0,14,2
+P005,P071,romantic partner,1,0,0,1,0,0,17,2
+P018,P002,friend,0,0,0,0,1,0,3,1
+P252,P291,friend,1,1,0,0,0,0,8,2
+P307,P191,acquaintance,1,1,1,0,0,0,8,2
+P256,P032,family,1,1,0,0,0,0,14,2
+P033,P037,friend,1,1,0,0,0,0,5,2
+P029,P073,acquaintance,1,0,0,0,0,0,11,1
+P313,P030,acquaintance,1,0,0,0,0,0,6,1
+P182,P157,acquaintance,1,1,0,0,1,0,3,3
+P296,P345,acquaintance,1,1,0,0,0,0,8,2
+P096,P272,friend,1,0,0,0,0,0,7,1
+P089,P258,friend,1,1,1,0,1,0,14,3
+P080,P351,friend,1,1,0,0,0,0,11,2
+P123,P210,peer worker contact,0,0,0,0,1,1,5,1
+P315,P351,friend,1,1,1,0,0,0,10,2
+P221,P293,friend,1,0,0,0,0,0,8,1
+P009,P254,acquaintance,1,0,0,0,1,0,15,2
+P277,P270,acquaintance,1,1,0,0,1,0,17,3
+P120,P299,friend,1,1,1,0,0,0,14,2
+P174,P250,friend,1,1,0,0,0,0,12,2
+P180,P077,family,1,0,0,0,0,0,10,1
+P357,P325,peer worker contact,0,0,0,0,1,1,8,1
+P015,P008,friend,1,0,0,0,1,0,13,2
+P227,P025,romantic partner,0,0,0,1,0,0,13,1
+P362,P232,family,1,1,0,0,1,0,18,3
+P291,P053,family,1,1,1,0,1,0,10,3
+P371,P299,friend,1,1,0,0,0,0,7,2
+P238,P249,friend,1,1,0,0,0,0,9,2
+P059,P333,friend,0,0,0,0,1,0,4,1
+P221,P290,romantic partner,0,0,0,1,0,0,10,1
+P277,P347,friend,1,0,0,0,0,0,5,1
+P105,P162,romantic partner,0,0,0,1,0,0,9,1
+P344,P013,acquaintance,1,1,1,0,0,0,3,2
+P340,P193,peer worker contact,0,0,0,0,1,0,4,1
+P037,P351,friend,1,1,0,0,1,0,10,3
+P313,P023,acquaintance,1,0,0,0,1,0,16,2
+P020,P003,friend,1,1,0,0,0,0,7,2
+P157,P057,friend,1,1,1,0,0,0,13,2
+P004,P048,romantic partner,0,0,0,1,0,0,19,1
+P344,P144,acquaintance,1,1,1,0,0,0,8,2
+P139,P167,romantic partner,0,0,0,1,0,0,12,1
+P134,P249,friend,1,1,0,0,1,0,13,3
+P324,P143,acquaintance,1,1,0,0,1,0,10,3
+P237,P225,family,0,0,0,0,1,0,6,1
+P344,P292,acquaintance,1,1,1,0,0,0,3,2
+P292,P261,friend,1,1,0,0,1,0,12,3
+P028,P272,friend,1,1,1,0,0,0,10,2
+P182,P333,family,1,1,1,0,0,0,9,2
+P017,P083,acquaintance,1,0,0,0,0,0,10,1
+P168,P030,friend,1,1,1,0,0,0,8,2
+P158,P168,acquaintance,1,1,0,0,0,0,4,2
+P125,P178,friend,1,1,0,0,0,0,6,2
+P214,P237,acquaintance,1,0,0,0,0,1,8,1
+P051,P351,acquaintance,1,1,1,0,0,0,8,2
+P064,P338,acquaintance,1,0,0,0,0,0,12,1
+P166,P228,acquaintance,1,0,0,0,0,0,9,1
+P300,P143,family,1,1,0,0,0,0,6,2
+P294,P325,peer worker contact,0,0,0,0,1,0,7,1
+P059,P258,acquaintance,1,0,0,0,1,0,8,2
+P204,P208,peer worker contact,0,0,0,0,1,0,4,1
+P308,P272,acquaintance,1,1,1,0,0,0,17,2
+P037,P261,friend,1,0,0,0,0,0,8,1
+P311,P292,friend,1,1,1,0,0,0,7,2
+P190,P196,family,1,1,0,0,1,0,11,3
+P033,P252,friend,1,1,1,0,1,0,11,3
+P225,P129,acquaintance,1,0,0,0,0,0,10,1
+P115,P244,romantic partner,0,0,0,1,0,0,11,1
+P110,P135,friend,1,1,1,0,1,0,9,3
+P245,P239,acquaintance,1,0,0,0,0,0,10,1
+P293,P331,acquaintance,1,0,0,0,0,0,8,1
+P037,P190,friend,1,1,0,0,0,0,8,2
+P299,P100,acquaintance,1,0,0,0,0,0,6,1
+P091,P268,acquaintance,1,0,0,0,0,0,10,1
+P236,P196,friend,0,0,0,0,1,0,5,1
+P252,P198,friend,1,1,0,0,1,0,14,3
+P332,P373,romantic partner,0,0,0,1,0,0,10,1
+P288,P142,acquaintance,1,1,1,0,0,0,5,2
+P309,P210,coworker,0,0,0,0,1,0,6,1
+P020,P345,friend,1,1,1,0,0,0,15,2
+P021,P254,acquaintance,1,1,1,0,0,0,7,2
+P050,P127,acquaintance,1,0,0,0,0,0,5,1
+P051,P337,friend,1,1,0,0,0,0,12,2
+P263,P028,family,1,0,0,0,0,0,9,1
+P237,P249,acquaintance,1,0,0,0,0,1,8,1
+P319,P055,acquaintance,1,1,1,0,0,0,6,2
+P318,P054,friend,0,0,0,0,1,0,4,1
+P349,P008,acquaintance,1,0,0,0,1,0,9,2
+P189,P110,friend,1,1,1,0,0,0,11,2
+P020,P360,acquaintance,1,1,0,0,1,0,11,3
+P288,P258,friend,1,1,0,0,0,0,9,2
+P323,P374,romantic partner,0,0,0,1,0,0,16,1
+P375,P269,family,1,1,1,0,0,0,12,2
+P072,P133,friend,1,0,0,0,1,1,12,2
+P021,P278,peer worker contact,0,0,0,0,1,0,2,1
+P111,P128,acquaintance,1,1,0,0,0,0,11,2
+P020,P049,friend,1,1,1,0,1,0,12,3
+P004,P320,acquaintance,1,1,1,0,0,0,7,2
+P362,P325,peer worker contact,0,0,0,0,1,0,4,1
+P175,P078,peer worker contact,0,0,0,0,1,0,4,1
+P080,P135,friend,1,1,1,0,0,0,6,2
+P098,P184,romantic partner,0,0,0,1,0,0,17,1
+P021,P336,family,0,0,0,0,1,0,5,1
+P003,P043,friend,1,1,1,0,0,0,13,2
+P311,P013,friend,0,0,0,0,1,0,4,1
+P065,P028,friend,1,1,0,0,1,0,6,3
+P124,P078,peer worker contact,0,0,0,0,1,0,4,1
+P056,P119,acquaintance,1,1,0,0,1,0,14,3
+P081,P193,peer worker contact,0,0,0,0,1,0,8,1
+P210,P325,coworker,0,0,0,0,1,0,7,1
+P293,P325,peer worker contact,0,0,0,0,1,0,5,1
+P231,P043,friend,1,1,0,0,0,0,9,2
+P087,P042,acquaintance,1,0,0,0,0,0,13,1
+P231,P168,friend,1,1,0,0,1,0,12,3
+P108,P210,peer worker contact,0,0,0,0,1,0,7,1
+P288,P032,family,1,1,1,0,0,0,12,2
+P279,P278,peer worker contact,0,0,0,0,1,0,2,1
+P235,P006,friend,1,0,0,0,1,0,15,2
+P231,P157,acquaintance,1,1,1,0,0,0,5,2
+P188,P060,acquaintance,1,0,0,0,0,1,11,1
+P022,P292,family,1,1,1,0,0,0,6,2
+P349,P315,acquaintance,1,1,0,0,0,0,10,2
+P165,P309,coworker,0,0,0,0,1,0,2,1
+P068,P241,friend,1,1,1,0,0,0,6,2
+P309,P078,coworker,0,0,0,0,1,0,4,1
+P293,P218,friend,0,0,0,0,1,0,5,1
+P324,P112,friend,0,0,0,0,1,0,4,1
+P313,P320,friend,1,1,1,0,1,0,6,3
+P237,P130,friend,0,0,0,0,1,0,2,1
+P259,P032,friend,0,0,0,0,1,0,2,1
+P371,P073,family,0,0,0,0,1,0,4,1
+P095,P169,romantic partner,0,0,0,1,0,0,10,1
+P015,P119,acquaintance,1,1,0,0,0,0,10,2
+P148,P158,friend,0,0,0,0,1,0,8,1
+P224,P320,friend,1,1,1,0,0,0,4,2
+P285,P343,friend,1,0,0,0,0,0,5,1
+P312,P208,peer worker contact,0,0,0,0,1,0,5,1
+P004,P349,romantic partner,0,0,0,1,0,0,9,1
+P124,P208,peer worker contact,0,0,0,0,1,0,4,1
+P148,P037,family,1,1,1,0,1,0,11,3
+P212,P338,acquaintance,1,1,1,0,1,0,10,3
+P182,P137,acquaintance,1,0,0,0,1,0,11,2
+P088,P155,acquaintance,1,1,1,0,0,0,7,2
+P224,P127,friend,1,1,0,0,0,0,8,2
+P309,P208,coworker,0,0,0,0,1,0,7,1
+P002,P054,acquaintance,1,0,0,0,1,0,6,2
+P300,P009,acquaintance,1,1,0,0,0,0,12,2
+P283,P053,acquaintance,1,1,0,0,1,0,9,3
+P168,P080,friend,1,1,1,0,0,0,11,2
+P155,P053,family,1,1,1,0,0,0,8,2
+P156,P063,family,0,0,0,0,1,0,3,1
+P013,P165,peer worker contact,0,0,0,0,1,0,12,1
+P110,P351,friend,1,1,1,0,0,0,8,2
+P098,P072,acquaintance,1,0,0,0,0,0,15,1
+P082,P293,friend,1,1,1,0,0,0,11,2
+P353,P003,friend,1,1,1,0,0,0,7,2
+P333,P080,family,1,1,0,0,0,0,11,2
+P105,P239,family,0,0,0,0,1,0,6,1
+P096,P124,family,1,1,0,0,0,0,13,2
+P113,P003,friend,1,1,1,0,1,0,8,3
+P339,P144,friend,1,0,0,0,0,0,13,1
+P203,P119,acquaintance,1,1,0,0,1,0,11,3
+P098,P262,family,1,0,0,0,1,0,9,2
+P037,P295,family,0,0,0,0,1,0,4,1
+P123,P357,acquaintance,1,0,0,0,1,0,11,2
+P228,P369,family,0,0,0,0,1,0,7,1
+P172,P115,romantic partner,0,0,0,1,0,0,14,1
+P371,P345,acquaintance,1,1,0,0,0,0,13,2
+P285,P224,acquaintance,1,0,0,0,0,1,11,1
+P148,P291,romantic partner,0,0,0,1,0,0,12,1
+P124,P368,acquaintance,1,0,0,0,0,1,7,1
+P002,P222,friend,0,0,0,0,1,0,4,1
+P070,P045,acquaintance,1,0,0,0,1,1,16,2
+P081,P178,friend,1,0,0,0,0,0,11,1
+P266,P326,romantic partner,0,0,0,1,0,0,18,1
+P324,P372,friend,1,1,1,0,1,0,19,3
+P284,P329,acquaintance,1,0,0,0,0,0,13,1
+P295,P241,friend,1,0,0,0,0,0,10,1
+P188,P340,acquaintance,1,0,0,0,0,0,8,1
+P299,P119,friend,1,1,0,0,0,0,12,2
+P087,P109,family,0,0,0,0,1,0,4,1
+P268,P357,friend,1,1,0,0,0,0,11,2
+P256,P198,friend,1,1,1,0,0,0,7,2
+P002,P250,friend,1,1,0,0,0,0,11,2
+P123,P040,friend,1,0,0,0,0,0,8,1
+P029,P333,friend,1,1,1,0,0,0,5,2
+P136,P142,family,1,1,1,0,1,0,17,3
+P236,P269,friend,0,0,0,0,1,0,5,1
+P371,P066,acquaintance,1,1,0,0,1,0,8,3
+P136,P030,friend,1,0,0,0,1,0,9,2
+P201,P157,acquaintance,1,1,0,0,0,0,3,2
+P278,P193,coworker,0,0,0,0,1,0,1,1
+P304,P210,peer worker contact,0,0,0,0,1,0,4,1
+P306,P006,friend,1,1,1,0,0,1,5,2
+P135,P197,family,0,0,0,0,1,0,8,1
+P261,P032,friend,1,1,1,0,1,0,16,3
+P068,P032,friend,1,1,1,0,0,0,10,2
+P054,P184,friend,1,0,0,0,0,0,14,1
+P313,P333,family,0,0,0,0,1,0,7,1
+P235,P103,acquaintance,1,0,0,0,0,0,7,1
+P121,P078,peer worker contact,0,0,0,0,1,1,8,1
+P051,P022,acquaintance,1,1,1,0,0,0,10,2
+P310,P250,friend,1,1,0,0,0,0,15,2
+P334,P039,friend,1,0,0,0,1,0,6,2
+P014,P157,family,1,0,0,0,1,0,11,2
+P034,P282,friend,1,0,0,0,0,0,5,1
+P147,P149,friend,1,1,0,0,0,0,5,2
+P037,P135,friend,1,1,1,0,0,0,15,2
+P347,P028,acquaintance,1,0,0,0,0,0,10,1
+P110,P037,friend,1,1,1,0,1,0,18,3
+P274,P208,peer worker contact,0,0,0,0,1,0,5,1
+P165,P078,coworker,0,0,0,0,1,0,3,1
+P070,P227,family,0,0,0,0,1,0,7,1
+P140,P303,romantic partner,0,0,0,1,0,0,9,1
+P371,P220,friend,1,0,0,0,1,0,18,2
+P354,P371,friend,1,1,0,0,0,0,9,2
+P291,P094,friend,1,1,1,0,0,0,11,2
+P019,P338,friend,1,1,0,0,0,0,9,2
+P061,P137,friend,1,0,0,0,0,0,10,1
+P047,P338,friend,1,1,1,0,1,0,13,3
+P347,P134,friend,1,0,0,0,0,0,11,1
+P189,P201,family,1,1,0,0,0,0,13,2
+P072,P192,friend,1,1,0,0,1,0,15,3
+P215,P107,romantic partner,0,0,0,1,0,0,17,1
+P272,P031,family,1,0,0,0,0,0,13,1
+P308,P208,peer worker contact,0,0,0,0,1,0,5,1
+P236,P080,friend,1,0,0,0,0,0,8,1
+P216,P208,peer worker contact,0,0,0,0,1,0,7,1
+P313,P094,family,1,0,0,0,1,0,12,2
+P310,P221,friend,1,1,0,0,0,0,12,2
+P168,P003,friend,1,1,1,0,0,0,3,2
+P305,P232,friend,1,0,0,0,0,0,7,1
+P285,P059,acquaintance,1,1,0,0,0,0,16,2
+P065,P081,acquaintance,1,1,0,0,1,0,11,3
+P039,P044,friend,1,0,0,0,0,1,7,1
+P003,P068,family,1,1,1,0,0,0,12,2
+P024,P016,romantic partner,0,0,0,1,0,0,11,1
+P199,P022,acquaintance,1,1,0,0,0,0,5,2
+P252,P315,friend,1,0,0,0,0,0,12,1
+P084,P358,friend,1,1,0,0,1,0,12,3
+P165,P193,coworker,0,0,0,0,1,0,5,1
+P285,P202,friend,1,1,0,0,0,1,10,2
+P103,P016,romantic partner,0,0,0,1,0,0,15,1
+P189,P088,family,1,1,1,0,1,0,14,3
+P363,P276,romantic partner,0,0,0,1,0,0,8,1
+P222,P263,acquaintance,1,0,0,0,0,0,10,1
+P201,P089,friend,0,0,0,0,1,0,6,1
+P036,P085,acquaintance,1,0,0,0,0,0,8,1
+P288,P135,friend,1,0,0,0,0,0,7,1
+P300,P336,romantic partner,0,0,0,1,0,0,9,1
+P111,P078,peer worker contact,0,0,0,0,1,0,2,1
+P081,P347,romantic partner,0,0,0,1,0,0,13,1
+P265,P053,family,1,1,0,0,0,0,4,2
+P253,P003,friend,1,0,0,0,0,0,4,1
+P203,P350,romantic partner,0,0,0,1,0,0,10,1
+P202,P068,acquaintance,1,1,0,0,0,0,13,2
+P019,P078,peer worker contact,0,0,0,0,1,0,3,1
+P003,P360,acquaintance,1,1,0,0,0,0,12,2
+P246,P230,romantic partner,0,0,0,1,0,0,16,1
+P324,P172,acquaintance,1,0,0,0,0,0,5,1
+P301,P099,friend,1,1,0,0,0,0,4,2
+P374,P317,romantic partner,0,0,0,1,0,0,12,1
+P156,P045,friend,0,0,0,0,1,0,7,1
+P203,P032,family,0,0,0,0,1,0,1,1
+P199,P231,acquaintance,1,1,1,0,0,0,7,2
+P245,P330,friend,1,1,0,0,1,0,12,3
+P247,P091,friend,1,0,0,0,1,0,12,2
+P080,P258,friend,0,0,0,0,1,0,8,1
+P189,P157,friend,1,1,0,0,0,0,10,2
+P149,P041,acquaintance,1,1,0,0,1,0,10,3
+P283,P144,friend,1,1,1,0,0,0,6,2
+P053,P141,acquaintance,1,1,0,0,0,0,11,2
+P022,P236,friend,1,0,0,0,1,0,9,2
+P010,P003,friend,1,0,0,0,1,0,17,2
+P312,P207,friend,1,0,0,0,0,0,13,1
+P159,P140,friend,1,0,0,0,1,0,13,2
+P305,P362,acquaintance,1,1,1,0,0,0,9,2
+P344,P351,friend,1,1,1,0,0,0,5,2
+P166,P279,friend,1,0,0,0,1,0,5,2
+P344,P241,friend,1,1,1,0,0,0,14,2
+P022,P107,friend,1,1,0,0,0,0,6,2
+P206,P157,acquaintance,1,0,0,0,1,0,9,2
+P070,P280,friend,0,0,0,0,1,0,3,1
+P312,P078,peer worker contact,0,0,0,0,1,0,4,1
+P255,P330,acquaintance,1,1,0,0,0,0,10,2
+P298,P173,acquaintance,1,0,0,0,1,0,11,2
+P015,P142,friend,1,1,0,0,0,0,11,2
+P238,P005,romantic partner,0,0,0,1,0,0,19,1
+P213,P206,friend,1,1,1,0,0,0,2,2
+P182,P127,romantic partner,0,0,0,1,0,0,17,1
+P148,P292,family,1,1,1,0,0,0,14,2
+P117,P163,acquaintance,1,0,0,0,1,0,12,2
+P022,P057,friend,1,0,0,0,0,0,6,1
+P329,P369,acquaintance,1,0,0,0,0,0,12,1
+P005,P358,friend,0,0,0,0,1,0,10,1
+P117,P193,peer worker contact,0,0,0,0,1,0,4,1
+P136,P032,acquaintance,1,1,0,0,0,0,12,2
+P119,P073,friend,1,0,0,0,1,0,13,2
+P038,P187,friend,1,0,0,0,1,0,13,2
+P231,P241,acquaintance,1,1,1,0,0,0,7,2
+P123,P232,family,0,0,0,0,1,0,6,1
+P255,P085,family,0,0,0,0,1,0,9,1
+P147,P140,friend,1,0,0,0,0,0,13,1
+P088,P082,friend,1,1,1,0,0,0,3,2
+P299,P136,acquaintance,1,1,1,0,1,0,7,3
+P152,P299,acquaintance,1,0,0,0,0,0,16,1
+P111,P238,romantic partner,0,0,0,1,0,0,13,1
+P147,P150,romantic partner,0,0,0,1,0,0,22,1
+P283,P371,friend,1,1,1,0,0,0,11,2
+P224,P057,acquaintance,1,0,0,0,0,0,7,1
+P249,P084,friend,1,0,0,0,1,1,8,2
+P015,P158,friend,1,1,0,0,1,0,10,3
+P171,P125,friend,1,0,0,0,0,0,6,1
+P309,P325,coworker,0,0,0,0,1,0,5,1
+P371,P080,friend,1,1,0,0,1,0,8,3
+P138,P263,romantic partner,0,0,0,1,0,0,7,1
+P199,P265,acquaintance,1,0,0,0,0,0,6,1
+P051,P209,friend,1,1,0,0,1,0,11,3
+P343,P259,friend,0,0,0,0,1,0,7,1
+P029,P032,acquaintance,1,0,0,0,0,0,12,1
+P224,P088,friend,1,1,0,0,0,0,8,2
+P296,P261,family,1,1,1,0,1,0,10,3
+P148,P043,acquaintance,1,1,1,0,0,0,9,2
+P013,P351,family,0,0,0,0,1,0,4,1
+P278,P078,coworker,0,0,0,0,1,0,11,1
+P229,P226,romantic partner,0,0,0,1,0,0,10,1
+P171,P370,acquaintance,1,0,0,0,0,0,8,1
+P110,P032,friend,1,1,0,0,0,0,7,2
+P311,P119,acquaintance,1,0,0,0,0,0,9,1
+P353,P093,acquaintance,1,1,0,0,0,0,7,2
+P148,P351,family,1,1,0,0,1,0,7,3
+P102,P191,friend,1,0,0,0,1,1,8,2
+P293,P222,family,0,0,0,0,1,0,1,1
+P061,P185,family,0,0,0,0,1,0,5,1
+P023,P165,peer worker contact,0,0,0,0,1,0,5,1
+P235,P367,friend,1,1,0,0,0,0,7,2
+P004,P135,acquaintance,1,1,0,0,0,0,8,2
+P072,P329,family,1,0,0,0,1,0,10,2
+P168,P135,friend,1,1,0,0,1,0,5,3
+P324,P016,romantic partner,0,0,0,1,0,0,12,1
+P199,P037,friend,1,1,1,0,1,0,9,3
+P170,P080,friend,1,0,0,0,0,0,6,1
+P234,P294,friend,1,1,0,0,0,0,8,2
+P135,P057,family,1,1,1,0,1,0,7,3
+P020,P152,friend,1,1,1,0,0,0,11,2
+P240,P144,friend,0,0,0,0,1,0,5,1
+P229,P291,friend,0,0,0,0,1,0,5,1
+P165,P208,coworker,0,0,0,0,1,0,6,1
+P032,P190,family,1,1,0,0,0,0,3,2
+P186,P135,family,0,0,0,0,1,0,5,1
+P245,P031,friend,0,0,0,0,1,0,7,1
+P308,P129,acquaintance,1,0,0,0,0,0,6,1
+P213,P155,friend,1,1,1,0,0,0,15,2
+P370,P193,peer worker contact,0,0,0,0,1,0,9,1
+P069,P337,friend,1,1,1,0,0,0,6,2
+P325,P208,coworker,0,0,0,0,1,0,5,1
+P271,P196,friend,0,0,0,0,1,0,5,1
+P050,P315,acquaintance,1,1,1,0,1,0,18,3
+P283,P088,friend,0,0,0,0,1,0,8,1
+P095,P360,acquaintance,1,1,0,0,0,0,16,2
+P236,P351,family,1,1,0,0,0,0,12,2
+P013,P068,friend,1,1,0,0,0,0,10,2
+P015,P137,acquaintance,1,1,0,0,0,0,9,2
+P277,P028,acquaintance,1,1,1,0,0,0,11,2
+P015,P345,acquaintance,1,1,1,0,0,0,6,2
+P354,P120,friend,1,1,0,0,1,0,12,3
+P103,P223,acquaintance,1,0,0,0,0,0,12,1
+P290,P268,acquaintance,1,0,0,0,0,0,8,1
+P006,P372,friend,1,0,0,0,1,0,7,2
+P155,P030,friend,1,1,1,0,0,0,9,2
+P348,P121,friend,1,0,0,0,1,1,6,2
+P060,P193,peer worker contact,0,0,0,0,1,1,6,1
+P228,P278,peer worker contact,0,0,0,0,1,0,6,1
+P222,P040,friend,1,1,0,0,0,0,5,2
+P096,P208,peer worker contact,0,0,0,0,1,0,4,1
+P227,P116,friend,1,0,0,0,0,0,9,1
+P123,P132,friend,0,0,0,0,1,0,3,1
+P204,P078,peer worker contact,0,0,0,0,1,1,4,1
+P150,P044,friend,1,0,0,0,0,0,9,1
+P065,P277,friend,1,0,0,0,1,0,10,2
+P334,P327,acquaintance,1,0,0,0,1,1,3,2
+P055,P063,friend,1,0,0,0,0,0,8,1
+P206,P122,acquaintance,1,1,0,0,1,0,10,3
+P166,P109,friend,0,0,0,0,1,0,6,1
+P271,P157,friend,1,1,0,0,1,0,7,3
+P050,P158,acquaintance,1,1,1,0,0,0,7,2
+P050,P256,family,1,1,1,0,0,0,9,2
+P149,P116,family,1,0,0,0,1,1,10,2
+P220,P360,friend,0,0,0,0,1,0,9,1
+P281,P307,romantic partner,0,0,0,1,0,0,10,1
+P258,P043,friend,1,0,0,0,0,0,5,1
+P250,P054,romantic partner,0,0,0,1,0,0,14,1
+P374,P131,romantic partner,0,0,0,1,0,0,8,1
+P371,P343,acquaintance,1,1,0,0,0,0,15,2
+P146,P347,friend,1,0,0,0,1,0,12,2
+P032,P007,friend,0,0,0,0,1,0,1,1
+P283,P241,friend,1,1,0,0,0,0,6,2
+P113,P030,family,1,1,1,0,1,0,15,3
+P072,P335,family,1,1,1,0,1,0,9,3
+P357,P218,acquaintance,1,0,0,0,0,0,13,1
+P083,P355,acquaintance,1,1,0,0,0,0,8,2
+P183,P256,friend,1,1,1,0,0,0,9,2
+P314,P300,family,1,1,0,0,0,1,8,2
+P286,P227,friend,0,0,0,0,1,0,6,1
+P219,P129,romantic partner,0,0,0,1,0,0,11,1
+P370,P060,romantic partner,0,0,0,1,0,0,7,1
+P287,P309,peer worker contact,0,0,0,0,1,0,5,1
+P014,P148,friend,0,0,0,0,1,0,10,1
+P362,P289,friend,1,0,0,0,0,0,8,1
+P170,P291,friend,1,0,0,0,0,0,8,1
+P131,P176,romantic partner,0,0,0,1,0,0,20,1
+P202,P032,friend,1,1,1,0,1,0,10,3
+P020,P185,friend,1,1,0,0,1,1,10,3
+P113,P241,friend,1,1,1,0,0,0,10,2
+P298,P054,friend,1,0,0,0,1,1,7,2
+P353,P345,friend,1,1,1,0,0,0,13,2
+P055,P058,romantic partner,0,0,0,1,0,0,12,1
+P102,P290,friend,1,0,0,0,0,0,12,1
+P022,P010,friend,1,1,1,0,0,0,5,2
+P275,P145,romantic partner,0,0,0,1,0,0,12,1
+P316,P068,friend,1,1,0,0,0,0,8,2
+P319,P188,family,1,0,0,0,1,0,10,2
+P174,P268,friend,0,0,0,0,1,0,4,1
+P240,P196,family,0,0,0,0,1,0,4,1
+P343,P032,family,1,1,0,0,0,0,4,2
+P193,P078,coworker,0,0,0,0,1,0,4,1
+P100,P008,friend,1,1,0,0,1,0,9,3
+P171,P278,peer worker contact,0,0,0,0,1,0,5,1
+P006,P364,friend,1,1,0,0,1,0,7,3
+P201,P068,friend,1,1,0,0,0,0,10,2
+P183,P365,romantic partner,0,0,0,1,0,0,10,1
+P117,P278,peer worker contact,0,0,0,0,1,0,1,1
+P059,P224,friend,1,0,0,0,1,0,11,2
+P049,P158,acquaintance,1,1,0,0,1,0,13,3
+P097,P068,acquaintance,1,1,0,0,0,0,7,2
+P260,P268,family,1,1,1,0,1,0,15,3
+P088,P141,acquaintance,1,0,0,0,0,0,12,1
+P227,P355,acquaintance,1,0,0,0,0,0,12,1
+P177,P223,friend,1,1,0,0,0,0,11,2
+P260,P055,friend,0,0,0,0,1,0,6,1
+P013,P037,acquaintance,1,0,0,0,1,0,7,2
+P021,P028,friend,1,1,0,0,0,0,7,2
+P050,P344,friend,1,0,0,0,1,0,11,2
+P322,P264,romantic partner,0,0,0,1,0,0,12,1
+P280,P376,romantic partner,0,0,0,1,0,0,14,1
+P229,P196,family,1,0,0,0,0,0,12,1
+P044,P054,acquaintance,1,0,0,0,0,0,17,1
+P030,P057,friend,1,1,0,0,0,0,7,2
+P051,P224,friend,0,0,0,0,1,0,5,1
+P261,P258,acquaintance,1,0,0,0,0,0,5,1
+P072,P277,family,1,0,0,0,1,0,16,2
+P247,P187,friend,1,0,0,0,0,0,4,1
+P281,P210,peer worker contact,0,0,0,0,1,0,5,1
+P368,P204,friend,1,0,0,0,0,0,10,1
+P306,P009,friend,1,1,0,0,1,0,11,3
+P371,P202,friend,1,1,1,0,0,0,9,2
+P218,P077,friend,1,0,0,0,1,0,13,2
+P155,P107,friend,1,1,0,0,1,0,9,3
+P295,P032,family,1,1,0,0,1,0,7,3
+P354,P313,friend,1,0,0,0,1,0,9,2
+P353,P196,friend,1,1,0,0,1,0,17,3
+P292,P003,acquaintance,1,1,0,0,1,0,11,3
+P179,P235,acquaintance,1,1,1,0,1,0,9,3
+P051,P378,acquaintance,1,1,1,0,0,0,11,2
+P187,P228,friend,1,0,0,0,0,0,13,1
+P311,P236,friend,0,0,0,0,1,0,4,1
+P024,P228,family,0,0,0,0,1,0,9,1
+P111,P154,romantic partner,0,0,0,1,0,0,16,1
+P246,P260,family,0,0,0,0,1,0,5,1
+P051,P283,friend,1,1,1,0,0,0,11,2
+P371,P022,friend,1,1,1,0,0,0,9,2
+P175,P308,family,0,0,0,0,1,0,8,1
+P168,P291,friend,1,1,1,0,0,0,9,2
+P175,P216,family,1,0,0,0,0,0,9,1
+P096,P380,romantic partner,1,0,0,1,0,0,17,2
+P205,P172,family,1,1,0,0,0,0,10,2
+P286,P376,friend,1,0,0,0,0,0,12,1
+P132,P102,acquaintance,1,0,0,0,1,0,16,2
+P296,P241,friend,0,0,0,0,1,0,3,1
+P018,P260,friend,1,0,0,0,1,0,12,2
+P147,P054,acquaintance,1,1,0,0,0,1,7,2
+P327,P083,family,1,1,0,0,0,0,8,2
+P202,P241,acquaintance,1,1,0,0,0,0,7,2
+P003,P190,friend,1,1,1,0,0,0,11,2
+P003,P089,acquaintance,1,0,0,0,1,0,10,2
+P156,P150,friend,1,0,0,0,1,0,12,2
+P059,P053,friend,1,1,0,0,0,1,9,2
+P255,P092,friend,1,0,0,0,0,0,7,1
+P071,P207,acquaintance,1,1,0,0,1,0,5,3
+P002,P187,family,0,0,0,0,1,0,2,1
+P256,P113,acquaintance,1,0,0,0,0,0,10,1
+P260,P232,friend,1,1,0,0,0,0,8,2
+P174,P140,acquaintance,1,0,0,0,1,0,11,2
+P210,P193,coworker,0,0,0,0,1,0,2,1
+P290,P232,friend,1,0,0,0,0,0,12,1
+P240,P119,friend,1,1,1,0,1,1,11,3
+P199,P349,friend,1,1,0,0,1,0,19,3
+P189,P168,acquaintance,1,1,0,0,0,0,5,2
+P125,P193,peer worker contact,0,0,0,0,1,0,5,1
+P049,P165,peer worker contact,0,0,0,0,1,0,6,1
+P065,P205,family,0,0,0,0,1,0,4,1
+P015,P151,friend,1,1,1,0,1,0,10,3
+P080,P030,family,1,1,1,0,1,0,12,3
+P061,P231,friend,0,0,0,0,1,0,7,1
+P118,P088,acquaintance,1,1,0,0,1,0,9,3
+P237,P204,acquaintance,1,1,0,0,0,0,6,2
+P128,P005,acquaintance,1,0,0,0,1,0,10,2
+P219,P085,family,1,0,0,0,0,0,3,1
+P202,P145,romantic partner,0,0,0,1,0,0,13,1
+P184,P016,family,1,0,0,0,0,0,8,1
+P286,P041,acquaintance,1,0,0,0,1,0,8,2
+P310,P218,acquaintance,1,0,0,0,0,0,10,1
+P188,P249,acquaintance,1,1,0,0,0,0,11,2
+P090,P363,romantic partner,0,0,0,1,0,0,19,1
+P051,P003,friend,1,1,0,0,0,0,7,2
+P002,P326,romantic partner,0,0,0,1,0,0,12,1
+P341,P078,peer worker contact,0,0,0,0,1,0,6,1
+P189,P241,friend,1,1,0,0,1,0,10,3
+P152,P371,acquaintance,1,1,1,0,0,0,9,2
+P254,P109,friend,1,0,0,0,1,0,12,2
+P051,P220,family,1,0,0,0,0,0,10,1
+P029,P093,romantic partner,0,0,0,1,0,0,11,1
+P353,P296,family,0,0,0,0,1,0,8,1
+P242,P218,romantic partner,0,0,0,1,0,0,12,1
+P142,P217,romantic partner,0,0,0,1,0,0,13,1
+P101,P072,friend,1,0,0,0,1,0,8,2
+P175,P208,peer worker contact,0,0,0,0,1,0,6,1
+P155,P135,acquaintance,1,1,1,0,0,0,8,2
+P082,P037,friend,1,1,1,0,1,0,7,3
+P358,P121,friend,1,0,0,0,0,1,7,1
+P052,P193,peer worker contact,0,0,0,0,1,0,6,1
+P269,P379,romantic partner,0,0,0,1,0,0,9,1
+P261,P196,acquaintance,1,1,0,0,0,0,6,2
+P120,P213,family,0,0,0,0,1,0,4,1
+P285,P088,friend,0,0,0,0,1,0,5,1
+P252,P155,acquaintance,1,1,0,0,0,0,10,2
+P372,P084,family,1,0,0,0,1,0,8,2
+P013,P345,friend,1,0,0,0,1,0,11,2
+P183,P151,acquaintance,1,1,0,0,0,0,10,2
+P271,P069,friend,1,1,0,0,0,0,14,2
+P280,P294,acquaintance,1,0,0,0,0,0,5,1
+P212,P239,friend,0,0,0,0,1,0,4,1
+P285,P215,friend,1,0,0,0,0,0,7,1
+P020,P258,friend,1,1,0,0,0,0,6,2
+P336,P279,friend,1,0,0,0,0,0,9,1
+P283,P118,acquaintance,1,1,0,0,0,0,5,2
+P003,P241,friend,1,1,1,0,0,0,7,2
+P344,P345,friend,1,1,1,0,0,0,4,2
+P165,P210,coworker,0,0,0,0,1,0,5,1
+P110,P057,friend,1,1,1,0,1,0,13,3
+P026,P112,acquaintance,1,1,1,0,0,0,12,2
+P314,P006,friend,0,0,0,0,1,0,8,1
+P263,P143,friend,1,0,0,0,1,0,12,2
+P127,P292,family,0,0,0,0,1,0,6,1
+P345,P053,friend,1,1,0,0,1,0,11,3
+P068,P360,friend,1,1,1,0,0,0,11,2
+P152,P311,friend,0,0,0,0,1,0,8,1
+P030,P241,friend,1,1,1,0,1,0,9,3
+P323,P071,friend,1,1,0,0,0,0,10,2
+P304,P307,friend,0,0,0,0,1,0,5,1
+P152,P345,friend,1,0,0,0,0,0,6,1
+P047,P078,peer worker contact,0,0,0,0,1,1,5,1
+P259,P309,peer worker contact,0,0,0,0,1,0,4,1
+P102,P330,friend,1,0,0,0,0,0,12,1
+P015,P328,romantic partner,0,0,0,1,0,0,6,1
+P235,P024,friend,0,0,0,0,1,0,4,1
+P140,P077,acquaintance,1,1,0,0,0,0,13,2
+P018,P284,acquaintance,1,0,0,0,1,0,7,2
+P353,P168,friend,1,0,0,0,0,0,11,1
+P272,P035,friend,1,1,0,0,1,0,7,3
+P243,P214,family,1,0,0,0,0,0,7,1
+P229,P253,friend,1,0,0,0,0,0,12,1
+P014,P313,acquaintance,1,1,1,0,1,0,8,3
+P055,P318,friend,0,0,0,0,1,0,5,1
+P009,P279,friend,1,1,0,0,0,0,9,2
+P203,P190,friend,1,1,1,0,0,0,11,2
+P240,P224,acquaintance,1,0,0,0,1,0,6,2
+P062,P015,family,1,1,1,0,0,0,7,2
+P059,P253,friend,1,1,1,0,0,0,10,2
+P088,P190,friend,1,1,1,0,0,0,4,2
+P252,P186,friend,1,1,0,0,0,0,8,2
+P065,P306,friend,1,1,0,0,0,0,4,2
+P081,P042,family,1,0,0,0,1,1,16,2
+P189,P213,friend,1,0,0,0,1,0,11,2
+P080,P094,acquaintance,1,0,0,0,0,0,8,1
+P072,P340,friend,1,0,0,0,0,0,13,1
+P299,P202,friend,1,1,1,0,1,0,8,3
+P023,P366,romantic partner,0,0,0,1,0,0,10,1
+P171,P369,acquaintance,1,0,0,0,0,0,9,1
+P284,P031,friend,1,0,0,0,0,0,3,1
+P311,P185,family,1,1,1,0,0,1,11,2
+P171,P193,peer worker contact,0,0,0,0,1,0,2,1
+P102,P140,friend,1,1,0,0,1,0,7,3
+P093,P291,acquaintance,1,1,1,0,0,0,10,2
+P224,P155,friend,1,1,1,0,1,0,7,3
+P211,P324,acquaintance,1,0,0,0,1,0,7,2
+P088,P345,friend,1,1,1,0,1,1,8,3
+P357,P210,peer worker contact,0,0,0,0,1,0,6,1
+P224,P371,friend,1,1,1,0,0,0,7,2
+P051,P068,family,1,1,1,0,1,0,11,3
+P189,P252,friend,1,1,0,0,0,0,15,2
+P310,P187,romantic partner,0,0,0,1,0,0,13,1
+P087,P112,friend,1,1,0,0,0,0,8,2
+P354,P295,friend,0,0,0,0,1,0,1,1
+P023,P053,friend,1,1,0,0,0,0,9,2
+P132,P070,acquaintance,1,1,0,0,1,0,10,3
+P246,P002,friend,0,0,0,0,1,0,2,1
+P069,P165,peer worker contact,0,0,0,0,1,0,7,1
+P203,P136,friend,1,1,0,0,0,0,12,2
+P224,P345,friend,1,1,0,0,0,0,7,2
+P289,P064,friend,1,0,0,0,0,0,15,1
+P136,P168,friend,0,0,0,0,1,0,3,1
+P053,P008,acquaintance,1,0,0,0,0,0,6,1
+P140,P210,peer worker contact,0,0,0,0,1,0,1,1
+P305,P083,acquaintance,1,0,0,0,0,0,7,1
+P014,P345,friend,1,1,0,0,0,0,12,2
+P127,P378,acquaintance,1,1,0,0,1,0,14,3
+P080,P141,acquaintance,1,0,0,0,0,0,11,1
+P221,P227,acquaintance,1,0,0,0,1,0,16,2
+P088,P378,romantic partner,0,0,0,1,0,0,13,1
+P255,P338,acquaintance,1,1,1,0,0,0,10,2
+P246,P250,friend,0,0,0,0,1,0,4,1
+P344,P186,friend,1,1,0,0,1,0,6,3
+P168,P107,friend,1,1,1,0,1,0,10,3
+P252,P190,friend,1,1,1,0,0,0,8,2
+P013,P100,friend,0,0,0,0,1,0,6,1
+P078,P208,coworker,0,0,0,0,1,0,5,1
+P298,P363,romantic partner,0,0,0,1,0,0,22,1
+P236,P007,friend,1,1,1,0,0,0,6,2
+P155,P259,acquaintance,1,0,0,0,0,0,15,1
+P362,P063,friend,1,0,0,0,1,0,13,2
+P134,P330,friend,1,0,0,0,0,0,10,1
+P153,P346,romantic partner,0,0,0,1,0,0,15,1
+P051,P120,friend,1,0,0,0,1,0,11,2
+P305,P355,friend,1,0,0,0,0,0,3,1
+P218,P040,friend,1,0,0,0,0,0,7,1
+P010,P315,friend,1,0,0,0,1,0,15,2
+P082,P083,friend,1,1,1,0,0,0,10,2
+P311,P158,friend,0,0,0,0,1,0,5,1
+P170,P106,romantic partner,0,0,0,1,0,0,12,1
+P175,P255,friend,1,0,0,0,0,0,12,1
+P190,P352,romantic partner,0,0,0,1,0,0,10,1
+P026,P279,acquaintance,1,0,0,0,0,0,10,1
+P157,P089,friend,1,1,1,0,0,0,11,2
+P195,P028,friend,1,0,0,0,1,0,5,2
+P037,P003,family,1,1,1,0,1,0,12,3
+P158,P137,friend,0,0,0,0,1,0,10,1
+P224,P194,romantic partner,0,0,0,1,0,0,10,1
+P155,P089,acquaintance,1,0,0,0,0,0,13,1
+P318,P312,friend,1,1,1,0,0,0,5,2
+P220,P089,family,1,1,0,0,0,0,10,2
+P002,P325,peer worker contact,0,0,0,0,1,0,6,1
+P018,P307,family,1,1,0,0,0,0,9,2
+P019,P129,friend,1,1,0,0,0,0,8,2
+P314,P211,friend,0,0,0,0,1,0,4,1
+P142,P261,friend,0,0,0,0,1,0,4,1
+P117,P129,family,1,1,0,0,0,0,14,2
+P354,P253,friend,0,0,0,0,1,0,6,1
+P224,P008,romantic partner,0,0,0,1,0,0,13,1
+P081,P009,friend,1,0,0,0,0,0,6,1
+P180,P200,friend,1,1,0,0,0,0,6,2
+P294,P195,acquaintance,1,0,0,0,0,1,5,1
+P297,P083,friend,1,0,0,0,0,1,8,1
+P159,P054,friend,1,0,0,0,0,0,11,1
+P228,P262,romantic partner,0,0,0,1,0,0,12,1
+P314,P329,friend,1,0,0,0,0,0,4,1
+P072,P138,family,0,0,0,0,1,0,8,1
+P004,P073,friend,0,0,0,0,1,0,1,1
+P289,P208,peer worker contact,0,0,0,0,1,0,3,1
+P316,P256,friend,0,0,0,0,1,0,2,1
+P321,P318,romantic partner,0,0,0,1,0,0,18,1
+P017,P318,friend,0,0,0,0,1,0,6,1
+P135,P094,acquaintance,1,1,0,0,0,0,9,2
+P228,P370,friend,1,0,0,0,0,0,8,1
+P259,P258,family,0,0,0,0,1,0,3,1
+P261,P043,friend,1,0,0,0,0,0,12,1
+P261,P030,friend,1,1,1,0,1,0,7,3
+P035,P154,friend,1,1,0,0,0,0,10,2
+P030,P008,friend,1,1,1,0,1,0,11,3
+P068,P190,acquaintance,1,1,1,0,0,0,15,2
+P037,P142,friend,1,1,1,0,0,0,15,2
+P170,P261,friend,0,0,0,0,1,0,5,1
+P047,P272,acquaintance,1,0,0,0,0,0,11,1
+P110,P022,friend,1,1,1,0,1,0,9,3
+P036,P341,acquaintance,1,0,0,0,1,1,10,2

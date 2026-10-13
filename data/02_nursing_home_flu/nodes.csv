@@ -1,0 +1,391 @@
+id,person_type,role,unit,shift,employment,units_worked,shifts_worked,age,sex,room,adl_score,mobility,dementia,length_of_stay_days,flu_vaccinated,flu_case,onset_day,flu_test
+R177,resident,resident,B,,,B,,85,female,B116,22,wheelchair,0,429,1,0,,not tested
+R178,resident,resident,A,,,A,,88,female,A110,4,walker/cane,1,662,1,1,13,positive
+H064,staff,CNA,C,evening,facility,C,4,36,female,,,,,,1,0,,not tested
+R112,resident,resident,B,,,B,,88,female,B115,12,walker/cane,1,232,1,0,,not tested
+H044,staff,CNA,D,night,facility,D,4,50,female,,,,,,0,0,,not tested
+R094,resident,resident,D,,,D,,79,female,D108,4,independent,0,5,1,0,,not tested
+H137,staff,housekeeping,A,day,facility,A,5,22,female,,,,,,1,0,,not tested
+H140,staff,maintenance,facility-wide,day,facility,A+B+C+D,5,37,male,,,,,,1,0,,not tested
+H107,staff,RN,A,day,facility,A,4,68,male,,,,,,1,0,,not tested
+R136,resident,resident,A,,,A,,87,female,A121,20,wheelchair,0,589,0,1,12,positive
+H132,staff,CNA,B,evening,facility,B,4,45,female,,,,,,1,0,,not tested
+H087,staff,administration,office,day,facility,none,5,46,female,,,,,,1,0,,not tested
+H183,staff,CNA,B,day,facility,B,4,62,female,,,,,,1,0,,not tested
+R114,resident,resident,C,,,C,,72,female,C112,22,wheelchair,1,255,1,0,,not tested
+R149,resident,resident,B,,,B,,97,male,B111,18,wheelchair,0,358,1,0,,not tested
+H017,staff,activities,A+B+D,day,facility,A+B+D,5,39,female,,,,,,1,0,,not tested
+R092,resident,resident,D,,,D,,83,female,D121,15,wheelchair,0,14,1,0,,not tested
+R055,resident,resident,C,,,C,,84,male,C105,15,wheelchair,1,197,1,0,,not tested
+R053,resident,resident,B,,,B,,86,female,B116,11,independent,0,3668,1,0,,not tested
+R091,resident,resident,D,,,D,,90,female,D112,13,walker/cane,0,18,0,0,,not tested
+H135,staff,housekeeping,A,day,facility,A,5,21,male,,,,,,0,0,,not tested
+H005,staff,LPN,A,night,facility,A,5,31,female,,,,,,1,0,,not tested
+H164,staff,social worker,D,day,facility,D,5,27,male,,,,,,1,0,,not tested
+R096,resident,resident,B,,,B,,95,female,B101,16,wheelchair,0,783,1,0,,not tested
+H163,staff,CNA,B,night,facility,B,4,59,female,,,,,,1,0,,not tested
+H080,staff,dietary,kitchen,day,facility,A+B+D,5,41,female,,,,,,1,0,,not tested
+R059,resident,resident,B,,,B,,83,female,B129,16,wheelchair,0,539,1,0,,not tested
+H175,staff,LPN,D,day,facility,D,5,40,female,,,,,,1,0,,not tested
+H149,staff,CNA,float pool,night,agency,B+C+D,3,19,female,,,,,,0,0,,not tested
+R138,resident,resident,B,,,B,,76,female,B120,10,independent,0,562,1,0,,not tested
+R115,resident,resident,A,,,A,,71,female,A102,22,wheelchair,1,533,1,0,,not tested
+R087,resident,resident,B,,,B,,88,female,B101,7,walker/cane,1,751,1,0,,not tested
+R155,resident,resident,A,,,A,,84,male,A101,15,wheelchair,0,255,1,0,,not tested
+H061,staff,CNA,B,night,facility,B,4,41,male,,,,,,1,0,,not tested
+H034,staff,director of nursing,facility-wide,day,facility,A+B+C+D,5,49,female,,,,,,0,0,,not tested
+R077,resident,resident,D,,,D,,82,female,D115,19,wheelchair,1,30,1,1,8,not tested
+H188,staff,RN,D,evening,facility,D,5,35,female,,,,,,1,1,19,positive
+H152,staff,CNA,float pool,evening,agency,B+D,3,49,female,,,,,,0,0,,not tested
+R021,resident,resident,B,,,B,,83,male,B126,17,wheelchair,1,444,0,0,,not tested
+R130,resident,resident,D,,,D,,94,female,D101,4,walker/cane,0,11,1,0,,not tested
+H074,staff,CNA,float pool,day,agency,A+D,4,40,female,,,,,,1,0,,not tested
+H122,staff,CNA,A,night,facility,A,5,40,female,,,,,,1,0,,not tested
+H016,staff,CNA,C,night,facility,C,5,29,female,,,,,,0,0,,not tested
+R050,resident,resident,B,,,B,,75,female,B126,22,walker/cane,0,239,1,0,,not tested
+R002,resident,resident,C,,,C,,84,male,C110,19,walker/cane,1,505,1,0,,not tested
+H076,staff,CNA,B,evening,facility,B,5,53,female,,,,,,0,0,,not tested
+H003,staff,LPN,B,night,facility,B,4,57,female,,,,,,0,0,,negative
+R100,resident,resident,C,,,C,,81,female,C103,16,walker/cane,1,68,1,0,,not tested
+R045,resident,resident,D,,,D,,96,male,D116,5,independent,1,74,1,0,,not tested
+R024,resident,resident,B,,,B,,84,female,B121,10,independent,1,741,0,0,,not tested
+R141,resident,resident,D,,,D,,82,female,D110,10,independent,0,8,1,0,,not tested
+R070,resident,resident,A,,,A,,73,female,A125,14,wheelchair,0,803,0,0,,not tested
+H194,staff,LPN,D,day,facility,D,4,40,female,,,,,,1,1,3,positive
+R043,resident,resident,D,,,D,,81,female,D108,8,walker/cane,0,10,0,0,,not tested
+H072,staff,CNA,D,evening,facility,D,4,55,female,,,,,,1,0,,not tested
+H011,staff,CNA,float pool,evening,agency,A+B+C,3,58,female,,,,,,0,0,,not tested
+H068,staff,CNA,B,day,facility,B,4,24,female,,,,,,1,0,,not tested
+R170,resident,resident,B,,,B,,82,female,B129,23,wheelchair,0,625,1,0,,not tested
+H186,staff,RN supervisor,facility-wide,night,facility,A+B+C+D,5,33,female,,,,,,1,0,,negative
+R110,resident,resident,B,,,B,,87,female,B103,24,wheelchair,1,1321,1,0,,not tested
+R133,resident,resident,A,,,A,,92,female,A124,22,wheelchair,1,226,1,0,,not tested
+H200,staff,LPN,A,evening,facility,A,4,57,female,,,,,,1,0,,not tested
+H006,staff,CNA,C,day,facility,C,5,49,female,,,,,,1,0,,not tested
+H115,staff,dietary,kitchen,day,facility,A+B+D,5,44,male,,,,,,1,0,,not tested
+H035,staff,administration,office,day,facility,none,5,53,male,,,,,,1,0,,not tested
+R081,resident,resident,D,,,D,,81,male,D112,10,walker/cane,0,13,0,0,,not tested
+H128,staff,CNA,B,evening,facility,B,5,47,female,,,,,,1,0,,not tested
+R003,resident,resident,A,,,A,,81,female,A112,20,wheelchair,1,580,1,0,,not tested
+H136,staff,CNA,C,evening,facility,C,4,31,female,,,,,,1,0,,not tested
+H030,staff,physician,C+D,day,facility,C+D,3,47,female,,,,,,1,0,,negative
+R164,resident,resident,B,,,B,,79,female,B122,22,walker/cane,0,689,1,0,,not tested
+H048,staff,speech therapist,therapy,day,facility,A+B+C+D,5,22,female,,,,,,1,0,,not tested
+R118,resident,resident,B,,,B,,80,female,B107,18,walker/cane,0,163,1,0,,not tested
+H146,staff,occupational therapist,therapy,day,facility,A+B+C+D,5,22,female,,,,,,1,1,13,positive
+H106,staff,RN,float pool,day,facility,A+B,4,56,female,,,,,,1,1,10,negative
+H173,staff,activities,A+B+D,day,facility,A+B+D,5,42,female,,,,,,1,1,10,positive
+R025,resident,resident,D,,,D,,70,female,D124,16,wheelchair,0,12,0,0,,not tested
+R169,resident,resident,B,,,B,,93,female,B114,9,independent,1,122,0,0,,not tested
+R147,resident,resident,D,,,D,,62,female,D123,11,walker/cane,0,4,1,0,,not tested
+R128,resident,resident,D,,,D,,65,female,D118,12,walker/cane,0,20,1,1,12,positive
+H021,staff,dietary,C,day,facility,C,5,49,male,,,,,,1,0,,not tested
+H174,staff,CNA,B,night,facility,B,4,20,female,,,,,,0,0,,not tested
+R088,resident,resident,D,,,D,,69,female,D120,6,independent,0,28,1,0,,not tested
+H020,staff,dietary,kitchen,day,facility,A+B+D,5,30,female,,,,,,1,0,,not tested
+H119,staff,CNA,D,day,facility,D,4,38,female,,,,,,1,0,,not tested
+H075,staff,RN supervisor,facility-wide,evening,facility,A+B+C+D,5,41,female,,,,,,1,0,,not tested
+H070,staff,CNA,C,day,facility,C,4,45,female,,,,,,1,1,29,positive
+H096,staff,RN,A,evening,facility,A,5,57,female,,,,,,0,1,13,positive
+R085,resident,resident,A,,,A,,87,female,A120,19,wheelchair,1,358,1,0,,not tested
+H036,staff,CNA,C,evening,facility,C,4,47,male,,,,,,1,1,27,positive
+H112,staff,CNA,A,day,facility,A,5,53,female,,,,,,1,0,,not tested
+R047,resident,resident,C,,,C,,87,female,C106,25,bedbound,1,122,1,1,14,positive
+R037,resident,resident,B,,,B,,84,male,B121,16,wheelchair,1,2409,1,1,15,positive
+R107,resident,resident,A,,,A,,89,male,A102,25,bedbound,1,502,1,0,,not tested
+R049,resident,resident,A,,,A,,77,female,A106,12,walker/cane,0,73,0,0,,not tested
+R132,resident,resident,B,,,B,,85,male,B117,10,walker/cane,0,1059,0,0,,not tested
+R158,resident,resident,C,,,C,,79,female,C110,21,wheelchair,1,289,1,0,,not tested
+H078,staff,CNA,B,evening,facility,B,5,46,female,,,,,,0,0,,not tested
+H114,staff,LPN,float pool,day,facility,A+B,5,19,female,,,,,,1,0,,not tested
+H052,staff,housekeeping,C,day,facility,C,5,47,female,,,,,,1,0,,not tested
+H008,staff,CNA,C,evening,facility,C,5,53,female,,,,,,0,1,23,positive
+R137,resident,resident,B,,,B,,88,male,B105,7,walker/cane,1,972,1,0,,not tested
+R071,resident,resident,D,,,D,,74,male,D116,8,independent,1,3,0,0,,not tested
+H130,staff,LPN,B,evening,facility,B,4,39,female,,,,,,1,0,,not tested
+H032,staff,CNA,C,evening,facility,C,4,35,female,,,,,,0,0,,not tested
+R120,resident,resident,C,,,C,,71,male,C103,28,bedbound,1,2082,1,0,,not tested
+H028,staff,housekeeping,C,day,facility,C,5,43,female,,,,,,0,0,,not tested
+R052,resident,resident,B,,,B,,84,female,B113,8,walker/cane,1,91,1,0,,not tested
+H108,staff,activities,A+B+D,day,facility,A+B+D,5,24,female,,,,,,1,0,,not tested
+H139,staff,LPN,C,day,facility,C,4,40,female,,,,,,1,1,29,positive
+R108,resident,resident,B,,,B,,87,male,B103,18,walker/cane,0,208,1,0,,not tested
+R123,resident,resident,D,,,D,,66,female,D111,20,walker/cane,0,13,0,1,10,positive
+R048,resident,resident,C,,,C,,77,male,C119,22,wheelchair,1,1846,1,0,,not tested
+H168,staff,dietary,kitchen,day,facility,A+B+D,5,48,female,,,,,,1,0,,not tested
+H109,staff,physical therapist,therapy,day,facility,A+B+C+D,5,46,female,,,,,,1,0,,not tested
+H154,staff,housekeeping,B,day,facility,B,5,48,female,,,,,,1,0,,not tested
+H160,staff,CNA,A,evening,facility,A,5,49,female,,,,,,1,0,,not tested
+R014,resident,resident,A,,,A,,81,female,A116,28,bedbound,1,849,1,0,,not tested
+H082,staff,LPN,D,evening,facility,D,4,35,male,,,,,,1,1,19,positive
+R167,resident,resident,D,,,D,,67,male,D115,17,wheelchair,0,9,1,1,11,negative
+R004,resident,resident,B,,,B,,80,female,B128,19,wheelchair,0,878,1,0,,not tested
+H015,staff,CNA,B,night,facility,B,5,54,female,,,,,,0,0,,not tested
+R142,resident,resident,D,,,D,,90,female,D110,18,wheelchair,0,7,1,0,,not tested
+H147,staff,RN supervisor,facility-wide,day,facility,A+B+C+D,5,36,female,,,,,,0,0,,not tested
+H165,staff,administration,office,day,facility,none,5,40,female,,,,,,1,0,,not tested
+R083,resident,resident,D,,,D,,69,male,D104,10,walker/cane,1,7,1,0,,not tested
+R093,resident,resident,C,,,C,,89,female,C104,28,bedbound,1,336,1,0,,not tested
+R162,resident,resident,A,,,A,,76,male,A124,17,walker/cane,0,148,1,0,,not tested
+H002,staff,social worker,C,day,facility,C,5,52,female,,,,,,0,0,,not tested
+R174,resident,resident,A,,,A,,81,male,A116,8,walker/cane,0,686,1,0,,not tested
+H065,staff,CNA,D,day,facility,D,4,34,female,,,,,,1,1,23,positive
+R006,resident,resident,A,,,A,,81,female,A115,19,wheelchair,1,150,1,1,13,positive
+R086,resident,resident,B,,,B,,83,female,B124,22,wheelchair,1,4000,0,1,17,negative
+H029,staff,CNA,A,day,facility,A,4,43,female,,,,,,1,1,19,positive
+H187,staff,physician,A+B,day,facility,A+B,3,48,female,,,,,,1,0,,not tested
+H104,staff,activities,A+B+D,day,facility,A+B+D,5,28,male,,,,,,1,0,,not tested
+H159,staff,physical therapist,therapy,day,facility,A+B+C+D,5,21,female,,,,,,0,0,,not tested
+R040,resident,resident,D,,,D,,71,female,D105,22,walker/cane,0,18,1,0,,not tested
+R135,resident,resident,D,,,D,,73,male,D119,25,bedbound,0,24,1,1,1,positive
+H058,staff,CNA,D,evening,facility,D,5,38,female,,,,,,1,1,8,positive
+R160,resident,resident,B,,,B,,86,female,B122,20,wheelchair,0,3567,1,0,,not tested
+H120,staff,RN,B,evening,facility,B,5,45,female,,,,,,1,0,,not tested
+R102,resident,resident,C,,,C,,87,female,C108,24,bedbound,1,765,0,1,21,positive
+R171,resident,resident,C,,,C,,85,female,C118,20,wheelchair,1,1058,1,0,,not tested
+H088,staff,CNA,D,evening,facility,D,4,35,female,,,,,,0,0,,negative
+R013,resident,resident,C,,,C,,92,male,C116,18,walker/cane,1,928,1,1,9,not tested
+R129,resident,resident,D,,,D,,78,male,D114,12,independent,0,24,0,1,11,positive
+R106,resident,resident,B,,,B,,77,male,B113,13,walker/cane,0,1770,1,0,,not tested
+H131,staff,CNA,C,evening,facility,C,5,49,female,,,,,,1,0,,not tested
+R057,resident,resident,C,,,C,,92,male,C118,19,wheelchair,1,433,1,0,,not tested
+H181,staff,CNA,C,day,facility,C,5,43,female,,,,,,0,0,,not tested
+H013,staff,dietary,kitchen,day,facility,A+B+D,5,47,female,,,,,,1,0,,not tested
+R146,resident,resident,B,,,B,,94,female,B125,28,wheelchair,0,389,1,0,,not tested
+H180,staff,dietary,kitchen,day,facility,A+B+D,5,46,female,,,,,,1,0,,not tested
+H204,staff,director of nursing,facility-wide,day,facility,A+B+C+D,5,27,female,,,,,,1,0,,not tested
+H043,staff,RN,float pool,day,agency,A+B+C+D,5,49,male,,,,,,0,1,5,positive
+H018,staff,LPN,D,day,facility,D,4,45,female,,,,,,0,1,15,not tested
+H101,staff,RN,D,evening,facility,D,5,46,female,,,,,,1,0,,not tested
+R009,resident,resident,A,,,A,,97,female,A108,0,independent,0,381,1,0,,not tested
+H123,staff,CNA,C,day,facility,C,5,20,female,,,,,,1,0,,not tested
+H026,staff,CNA,B,evening,facility,B,5,49,female,,,,,,1,0,,not tested
+R180,resident,resident,C,,,C,,83,male,C108,17,walker/cane,1,883,1,1,27,positive
+H056,staff,activities,A+B+D,day,facility,A+B+D,5,28,female,,,,,,1,0,,not tested
+R023,resident,resident,B,,,B,,78,female,B123,16,wheelchair,1,265,1,0,,not tested
+H050,staff,CNA,A,day,facility,A,4,52,female,,,,,,0,1,26,negative
+H145,staff,CNA,A,day,facility,A,4,51,female,,,,,,0,0,,negative
+H062,staff,physical therapist,therapy,day,facility,A+B+C+D,5,48,female,,,,,,1,0,,not tested
+H047,staff,RN,B,night,facility,B,5,47,male,,,,,,1,0,,not tested
+R005,resident,resident,B,,,B,,90,female,B109,9,walker/cane,1,91,1,0,,not tested
+H091,staff,RN,D,day,facility,D,5,44,female,,,,,,1,0,,not tested
+R173,resident,resident,B,,,B,,90,female,B123,27,bedbound,1,321,1,1,29,positive
+H025,staff,RN,C,evening,facility,C,4,26,female,,,,,,1,0,,not tested
+H191,staff,CNA,A,evening,facility,A,5,42,female,,,,,,0,0,,not tested
+R144,resident,resident,B,,,B,,87,male,B128,24,bedbound,0,256,1,0,,not tested
+R041,resident,resident,A,,,A,,87,male,A127,23,walker/cane,0,325,1,1,10,not tested
+R168,resident,resident,A,,,A,,86,male,A122,13,walker/cane,1,1468,1,1,28,positive
+R033,resident,resident,D,,,D,,67,male,D101,14,walker/cane,0,25,1,0,,not tested
+H197,staff,LPN,A,day,facility,A,5,50,female,,,,,,1,0,,not tested
+R140,resident,resident,A,,,A,,92,male,A125,12,independent,0,154,0,1,11,negative
+H019,staff,CNA,C,day,facility,C,4,59,male,,,,,,1,0,,not tested
+H167,staff,CNA,float pool,night,agency,A+C+D,3,34,female,,,,,,1,0,,not tested
+H192,staff,CNA,float pool,day,agency,C+D,3,48,female,,,,,,0,1,31,not tested
+H193,staff,CNA,C,day,facility,C,5,46,female,,,,,,1,1,20,positive
+R016,resident,resident,C,,,C,,87,male,C114,25,wheelchair,1,1922,1,0,,not tested
+H133,staff,housekeeping,B,day,facility,B,5,41,female,,,,,,0,0,,not tested
+H176,staff,CNA,A,night,facility,A,4,23,female,,,,,,1,0,,not tested
+R172,resident,resident,A,,,A,,81,female,A104,23,wheelchair,0,578,1,0,,not tested
+H081,staff,CNA,D,night,facility,D,4,31,female,,,,,,1,0,,not tested
+H012,staff,LPN,C,day,facility,C,5,23,female,,,,,,1,0,,not tested
+R063,resident,resident,D,,,D,,74,male,D111,24,bedbound,0,28,1,0,,not tested
+R101,resident,resident,C,,,C,,86,female,C113,21,walker/cane,1,708,1,1,22,positive
+H073,staff,CNA,D,evening,facility,D,5,26,male,,,,,,1,0,,not tested
+R082,resident,resident,A,,,A,,92,female,A108,5,walker/cane,1,4000,1,0,,not tested
+H071,staff,physical therapist,therapy,day,facility,A+B+C+D,5,38,male,,,,,,1,1,13,negative
+H155,staff,LPN,A,day,facility,A,4,36,female,,,,,,1,1,19,positive
+H046,staff,LPN,D,night,facility,D,5,42,female,,,,,,0,1,15,positive
+R103,resident,resident,D,,,D,,69,male,D122,9,walker/cane,0,10,1,0,,not tested
+R156,resident,resident,D,,,D,,80,male,D102,8,independent,0,14,0,0,,not tested
+H198,staff,LPN,C,evening,facility,C,4,32,female,,,,,,1,0,,not tested
+R034,resident,resident,A,,,A,,78,female,A118,13,independent,0,1085,1,1,13,positive
+H206,staff,CNA,C,day,facility,C,5,45,female,,,,,,0,0,,not tested
+R031,resident,resident,A,,,A,,82,female,A112,21,walker/cane,1,3166,0,1,22,positive
+H010,staff,LPN,B,day,facility,B,4,36,female,,,,,,1,0,,not tested
+H153,staff,occupational therapist,therapy,day,facility,A+B+C+D,5,31,female,,,,,,0,0,,not tested
+R073,resident,resident,B,,,B,,99,male,B110,21,wheelchair,0,1211,1,0,,not tested
+H201,staff,CNA,B,evening,facility,B,4,40,male,,,,,,1,0,,not tested
+R152,resident,resident,B,,,B,,75,female,B127,16,wheelchair,1,258,1,0,,not tested
+H138,staff,CNA,C,day,facility,C,5,53,female,,,,,,1,0,,not tested
+H177,staff,infection preventionist,facility-wide,day,facility,A+B+C+D,5,27,female,,,,,,0,1,19,not tested
+R126,resident,resident,D,,,D,,83,female,D117,9,walker/cane,1,12,0,0,,not tested
+R075,resident,resident,A,,,A,,79,female,A110,18,walker/cane,0,638,1,0,,not tested
+H001,staff,CNA,B,night,facility,B,4,19,female,,,,,,1,0,,not tested
+H063,staff,RN,float pool,day,facility,B+D,5,31,female,,,,,,1,0,,not tested
+R182,resident,resident,A,,,A,,73,female,A117,23,walker/cane,1,461,1,0,,not tested
+R104,resident,resident,A,,,A,,85,female,A111,28,wheelchair,1,331,1,0,,not tested
+R029,resident,resident,D,,,D,,82,male,D106,17,wheelchair,0,15,0,1,25,positive
+H027,staff,LPN,B,evening,facility,B,4,32,female,,,,,,1,0,,not tested
+R122,resident,resident,A,,,A,,95,female,A107,13,walker/cane,1,442,1,0,,not tested
+H066,staff,housekeeping,A,day,facility,A,5,45,female,,,,,,0,0,,not tested
+R028,resident,resident,A,,,A,,75,female,A115,19,wheelchair,1,1052,1,0,,not tested
+R001,resident,resident,D,,,D,,71,female,D122,18,wheelchair,0,6,0,0,,not tested
+H023,staff,CNA,D,night,facility,D,4,25,male,,,,,,1,0,,not tested
+H199,staff,housekeeping,B,day,facility,B,5,34,female,,,,,,0,0,,not tested
+R127,resident,resident,B,,,B,,93,female,B112,19,wheelchair,1,719,1,0,,not tested
+R076,resident,resident,A,,,A,,95,female,A114,8,walker/cane,1,1176,1,0,,not tested
+R175,resident,resident,B,,,B,,81,female,B124,11,independent,0,766,1,1,15,positive
+H166,staff,dietary,kitchen,day,facility,A+B+D,5,24,male,,,,,,1,0,,not tested
+H189,staff,CNA,float pool,day,agency,B+D,3,41,female,,,,,,0,0,,not tested
+H110,staff,CNA,D,night,facility,D,5,28,female,,,,,,1,1,13,not tested
+H086,staff,dietary,kitchen,day,facility,A+B+D,5,24,female,,,,,,1,0,,not tested
+H042,staff,physician,facility-wide,day,facility,A+B+C+D,2,56,female,,,,,,0,0,,not tested
+R007,resident,resident,C,,,C,,92,female,C107,14,wheelchair,1,439,1,0,,not tested
+R116,resident,resident,D,,,D,,87,female,D106,17,wheelchair,0,11,1,0,,not tested
+R161,resident,resident,A,,,A,,85,female,A119,14,wheelchair,1,1029,1,0,,not tested
+R046,resident,resident,D,,,D,,76,female,D109,14,walker/cane,0,14,1,0,,not tested
+H055,staff,CNA,B,evening,facility,B,5,45,female,,,,,,0,0,,not tested
+H060,staff,LPN,float pool,day,facility,A+C,5,45,female,,,,,,1,0,,not tested
+R020,resident,resident,C,,,C,,84,female,C115,15,wheelchair,1,496,1,0,,not tested
+R036,resident,resident,A,,,A,,85,female,A104,22,wheelchair,1,1884,1,1,9,positive
+R139,resident,resident,B,,,B,,71,male,B106,13,independent,1,61,1,0,,not tested
+H207,staff,RN,B,day,facility,B,4,42,female,,,,,,1,0,,not tested
+R078,resident,resident,C,,,C,,85,male,C101,13,walker/cane,1,1269,1,0,,not tested
+R159,resident,resident,D,,,D,,83,female,D117,12,walker/cane,0,7,1,0,,not tested
+R151,resident,resident,D,,,D,,84,female,D113,20,wheelchair,1,20,0,1,11,positive
+R105,resident,resident,B,,,B,,85,female,B108,9,walker/cane,1,1051,1,0,,not tested
+R010,resident,resident,B,,,B,,91,female,B105,22,wheelchair,0,198,1,0,,not tested
+R039,resident,resident,B,,,B,,86,female,B112,16,wheelchair,1,499,1,0,,not tested
+H205,staff,LPN,float pool,evening,facility,B+D,4,44,female,,,,,,0,0,,not tested
+R131,resident,resident,D,,,D,,63,female,D123,10,walker/cane,0,30,1,0,,not tested
+H031,staff,CNA,C,evening,facility,C,4,27,female,,,,,,0,0,,not tested
+R074,resident,resident,A,,,A,,84,female,A105,11,walker/cane,0,904,0,0,,not tested
+H040,staff,CNA,A,night,facility,A,5,38,female,,,,,,0,0,,not tested
+H092,staff,CNA,D,night,facility,D,5,32,female,,,,,,1,0,,not tested
+H053,staff,CNA,A,evening,facility,A,5,64,female,,,,,,0,0,,not tested
+R154,resident,resident,D,,,D,,79,female,D103,4,independent,0,20,0,1,21,positive
+R072,resident,resident,C,,,C,,80,female,C111,28,wheelchair,1,870,1,0,,not tested
+H184,staff,CNA,D,evening,facility,D,4,42,female,,,,,,1,0,,not tested
+R145,resident,resident,C,,,C,,83,female,C101,21,wheelchair,1,874,1,0,,not tested
+H196,staff,housekeeping,B,day,facility,B,5,27,female,,,,,,0,0,,not tested
+H057,staff,physical therapist,therapy,day,facility,A+B+C+D,5,27,female,,,,,,1,0,,not tested
+R011,resident,resident,D,,,D,,91,female,D113,17,wheelchair,1,19,1,1,14,positive
+R124,resident,resident,B,,,B,,90,female,B109,20,wheelchair,1,373,1,0,,not tested
+H117,staff,CNA,B,night,facility,B,5,34,female,,,,,,1,0,,not tested
+H156,staff,CNA,D,day,facility,D,5,57,female,,,,,,1,0,,not tested
+H097,staff,RN,C,day,facility,C,5,50,female,,,,,,1,0,,not tested
+R079,resident,resident,B,,,B,,77,male,B118,17,walker/cane,0,711,1,0,,not tested
+H202,staff,RN,A,day,facility,A,5,44,female,,,,,,1,1,23,positive
+H134,staff,LPN,C,day,facility,C,5,35,female,,,,,,0,1,25,positive
+R027,resident,resident,B,,,B,,80,female,B114,10,walker/cane,0,832,1,0,,not tested
+H113,staff,maintenance,facility-wide,day,facility,A+B+C+D,5,31,male,,,,,,1,0,,not tested
+H124,staff,CNA,A,day,facility,A,5,38,male,,,,,,1,1,13,positive
+R163,resident,resident,C,,,C,,79,female,C119,19,wheelchair,1,1009,1,0,,not tested
+R134,resident,resident,A,,,A,,75,male,A111,20,wheelchair,0,216,1,0,,not tested
+R113,resident,resident,A,,,A,,76,female,A105,17,wheelchair,1,1290,1,0,,not tested
+R058,resident,resident,A,,,A,,90,female,A109,22,wheelchair,0,217,1,0,,not tested
+H125,staff,CNA,C,day,facility,C,4,33,female,,,,,,1,0,,not tested
+H143,staff,housekeeping,A,day,facility,A,5,31,female,,,,,,1,0,,not tested
+R062,resident,resident,C,,,C,,78,female,C114,21,walker/cane,1,503,1,1,14,not tested
+R097,resident,resident,C,,,C,,75,female,C117,28,bedbound,1,353,1,0,,not tested
+H051,staff,RN,D,evening,facility,D,4,50,female,,,,,,1,0,,not tested
+H142,staff,CNA,B,evening,facility,B,5,51,male,,,,,,1,1,17,positive
+H095,staff,CNA,B,evening,facility,B,5,33,female,,,,,,0,0,,not tested
+H105,staff,CNA,A,evening,facility,A,5,52,male,,,,,,1,1,13,negative
+H090,staff,dietary,C,day,facility,C,5,46,female,,,,,,1,1,14,positive
+H083,staff,LPN,B,night,facility,B,5,57,female,,,,,,1,0,,not tested
+R111,resident,resident,A,,,A,,79,male,A127,25,wheelchair,1,104,1,0,,not tested
+R056,resident,resident,D,,,D,,65,female,D121,18,wheelchair,0,13,1,0,,not tested
+R176,resident,resident,D,,,D,,88,female,D105,24,bedbound,1,31,1,0,,not tested
+R065,resident,resident,B,,,B,,72,female,B107,23,wheelchair,0,641,1,0,,negative
+H170,staff,CNA,A,day,facility,A,4,19,female,,,,,,0,0,,not tested
+H121,staff,CNA,B,night,facility,B,5,35,female,,,,,,0,0,,not tested
+R051,resident,resident,C,,,C,,86,male,C106,28,bedbound,1,945,1,1,19,positive
+H038,staff,housekeeping,D,day,facility,D,5,49,female,,,,,,1,0,,not tested
+H158,staff,nurse practitioner,A+B+C,day,facility,A+B+C,5,36,female,,,,,,1,0,,not tested
+H203,staff,CNA,A,evening,facility,A,5,40,female,,,,,,1,0,,not tested
+R117,resident,resident,D,,,D,,82,male,D104,21,wheelchair,0,20,0,1,14,positive
+H067,staff,LPN,float pool,day,facility,C+D,5,28,female,,,,,,0,0,,not tested
+R080,resident,resident,C,,,C,,75,female,C107,13,independent,1,822,1,1,24,positive
+H182,staff,LPN,B,evening,facility,B,4,48,female,,,,,,1,0,,not tested
+R067,resident,resident,C,,,C,,97,female,C109,26,bedbound,1,750,1,0,,not tested
+R064,resident,resident,A,,,A,,68,female,A119,19,wheelchair,0,306,1,0,,not tested
+H129,staff,CNA,B,night,facility,B,4,20,female,,,,,,1,0,,not tested
+R017,resident,resident,A,,,A,,89,female,A107,5,independent,0,325,1,0,,not tested
+R157,resident,resident,B,,,B,,85,female,B119,17,wheelchair,1,462,1,0,,not tested
+H045,staff,dietary,kitchen,day,facility,A+B+D,5,28,female,,,,,,1,0,,not tested
+H127,staff,LPN,D,evening,facility,D,5,31,female,,,,,,0,0,,not tested
+H126,staff,activities,C,day,facility,C,5,52,male,,,,,,0,1,15,positive
+H089,staff,RN,A,day,facility,A,4,70,male,,,,,,1,0,,not tested
+R069,resident,resident,A,,,A,,77,female,A101,23,wheelchair,1,202,1,1,14,positive
+H178,staff,LPN,A,evening,facility,A,5,38,female,,,,,,0,1,29,positive
+R035,resident,resident,C,,,C,,89,male,C115,19,wheelchair,1,603,1,0,,not tested
+R038,resident,resident,D,,,D,,88,male,D118,11,walker/cane,1,22,1,1,11,positive
+R153,resident,resident,C,,,C,,92,female,C112,28,bedbound,1,1331,1,0,,not tested
+H084,staff,occupational therapist,therapy,day,facility,A+B+C+D,5,30,female,,,,,,1,0,,not tested
+R109,resident,resident,C,,,C,,91,female,C109,13,walker/cane,1,322,1,0,,not tested
+R166,resident,resident,A,,,A,,83,female,A121,13,walker/cane,0,1408,1,0,,not tested
+H014,staff,CNA,float pool,day,agency,A+C+D,3,44,female,,,,,,0,1,22,not tested
+R165,resident,resident,A,,,A,,88,male,A122,15,wheelchair,1,443,0,1,22,positive
+H179,staff,CNA,A,evening,facility,A,5,45,female,,,,,,0,0,,not tested
+H161,staff,nurse practitioner,D,day,facility,D,5,50,male,,,,,,0,1,28,positive
+R032,resident,resident,C,,,C,,87,female,C117,22,wheelchair,1,1184,0,0,,not tested
+R008,resident,resident,A,,,A,,94,female,A113,13,independent,0,503,1,0,,not tested
+R084,resident,resident,B,,,B,,80,male,B127,13,independent,0,1248,1,0,,not tested
+R012,resident,resident,C,,,C,,98,male,C104,26,wheelchair,1,681,1,1,29,not tested
+H118,staff,CNA,C,day,facility,C,5,32,female,,,,,,0,0,,not tested
+H077,staff,social worker,A+B,day,facility,A+B,5,40,female,,,,,,1,0,,not tested
+H100,staff,LPN,B,day,facility,B,5,36,female,,,,,,1,0,,not tested
+R121,resident,resident,C,,,C,,83,female,C113,17,wheelchair,1,640,1,1,24,not tested
+R061,resident,resident,A,,,A,,92,male,A109,17,wheelchair,1,494,1,0,,not tested
+H094,staff,housekeeping,D,day,facility,D,5,30,female,,,,,,1,0,,not tested
+R030,resident,resident,A,,,A,,93,male,A103,28,wheelchair,0,2193,1,0,,not tested
+R022,resident,resident,A,,,A,,65,female,A113,22,wheelchair,0,123,1,1,14,positive
+H079,staff,CNA,B,evening,facility,B,4,31,female,,,,,,1,0,,not tested
+H169,staff,administration,office,day,facility,none,5,35,female,,,,,,1,0,,not tested
+R026,resident,resident,D,,,D,,80,female,D107,17,walker/cane,0,8,0,0,,not tested
+H157,staff,CNA,B,evening,facility,B,5,23,female,,,,,,0,0,,not tested
+H148,staff,CNA,C,day,facility,C,4,31,female,,,,,,1,0,,not tested
+H022,staff,speech therapist,therapy,day,facility,A+B+C+D,5,19,female,,,,,,0,0,,not tested
+R090,resident,resident,D,,,D,,83,female,D102,7,walker/cane,1,10,0,0,,not tested
+H111,staff,RN,D,day,facility,D,5,31,female,,,,,,1,0,,not tested
+H007,staff,LPN,C,day,facility,C,4,40,female,,,,,,1,0,,not tested
+H039,staff,CNA,C,evening,facility,C,5,44,female,,,,,,1,0,,not tested
+R019,resident,resident,A,,,A,,85,female,A126,26,wheelchair,1,4000,0,0,,negative
+H069,staff,LPN,A,evening,facility,A,4,47,male,,,,,,1,0,,not tested
+R150,resident,resident,B,,,B,,83,male,B110,7,walker/cane,0,1868,1,0,,not tested
+H037,staff,CNA,D,night,facility,D,5,57,female,,,,,,1,1,11,positive
+R018,resident,resident,B,,,B,,84,female,B118,22,walker/cane,0,1713,1,0,,not tested
+H085,staff,CNA,A,day,facility,A,5,51,female,,,,,,0,1,12,not tested
+H054,staff,CNA,D,evening,facility,D,5,36,female,,,,,,0,0,,negative
+H195,staff,physical therapist,therapy,day,facility,A+B+C+D,5,19,male,,,,,,1,0,,not tested
+H041,staff,dietary,C,day,facility,C,5,61,male,,,,,,1,0,,not tested
+H141,staff,CNA,A,day,facility,A,5,47,female,,,,,,1,1,7,not tested
+H185,staff,occupational therapist,therapy,day,facility,A+B+C+D,5,30,female,,,,,,1,1,15,positive
+R066,resident,resident,C,,,C,,86,female,C116,17,wheelchair,1,1897,1,1,15,positive
+H102,staff,CNA,D,evening,facility,D,5,50,female,,,,,,1,0,,negative
+R179,resident,resident,A,,,A,,77,female,A114,14,wheelchair,0,2715,1,1,13,positive
+H172,staff,CNA,A,day,facility,A,5,43,female,,,,,,1,1,11,positive
+H171,staff,housekeeping,C,day,facility,C,5,42,female,,,,,,1,0,,not tested
+H024,staff,LPN,C,day,facility,C,5,45,female,,,,,,1,1,32,positive
+H059,staff,CNA,A,night,facility,A,4,34,male,,,,,,1,0,,not tested
+H162,staff,CNA,D,evening,facility,D,4,30,female,,,,,,1,0,,not tested
+R099,resident,resident,C,,,C,,96,male,C102,26,bedbound,1,451,1,0,,not tested
+H208,staff,CNA,A,night,facility,A,4,45,female,,,,,,1,0,,not tested
+R148,resident,resident,D,,,D,,79,female,D120,1,independent,0,22,0,1,16,not tested
+H004,staff,RN,C,evening,facility,C,5,43,female,,,,,,1,0,,negative
+H190,staff,RN,float pool,day,facility,C+D,4,31,female,,,,,,1,0,,not tested
+H103,staff,CNA,A,day,facility,A,4,42,male,,,,,,1,1,13,positive
+R089,resident,resident,A,,,A,,92,female,A106,1,independent,1,459,1,0,,not tested
+H099,staff,LPN,A,evening,facility,A,4,19,female,,,,,,1,0,,not tested
+R060,resident,resident,A,,,A,,79,female,A126,19,wheelchair,0,509,1,0,,not tested
+H098,staff,CNA,D,evening,facility,D,5,31,female,,,,,,0,0,,not tested
+H116,staff,RN,B,day,facility,B,4,55,female,,,,,,0,0,,not tested
+R042,resident,resident,B,,,B,,90,male,B119,24,bedbound,1,1107,1,0,,not tested
+R181,resident,resident,A,,,A,,78,female,A120,21,walker/cane,1,121,1,0,,negative
+R125,resident,resident,B,,,B,,88,female,B104,15,walker/cane,1,96,1,0,,not tested
+R095,resident,resident,D,,,D,,71,male,D109,12,independent,0,28,1,1,13,positive
+H033,staff,CNA,B,evening,facility,B,5,40,female,,,,,,1,0,,not tested
+R015,resident,resident,A,,,A,,88,male,A117,20,wheelchair,1,532,1,0,,not tested
+H049,staff,housekeeping,D,day,facility,D,5,19,female,,,,,,1,0,,negative
+H009,staff,occupational therapist,therapy,day,facility,A+B+C+D,5,19,female,,,,,,1,1,13,not tested
+R044,resident,resident,B,,,B,,101,male,B104,20,wheelchair,0,1216,1,0,,not tested
+R098,resident,resident,A,,,A,,83,female,A123,24,bedbound,0,490,1,0,,not tested
+H151,staff,CNA,A,evening,facility,A,5,21,female,,,,,,0,0,,not tested
+H150,staff,speech therapist,therapy,day,facility,A+B+C+D,5,55,female,,,,,,1,0,,not tested
+R119,resident,resident,C,,,C,,86,female,C120,21,walker/cane,1,366,0,0,,not tested
+H093,staff,CNA,B,day,facility,B,5,48,female,,,,,,1,0,,not tested
+R054,resident,resident,B,,,B,,80,female,B102,24,bedbound,0,809,1,0,,not tested
+R068,resident,resident,A,,,A,,68,female,A118,18,wheelchair,1,2962,0,0,,not tested
+H144,staff,CNA,A,day,facility,A,4,37,female,,,,,,1,0,,not tested
+R143,resident,resident,D,,,D,,80,male,D114,13,independent,0,11,0,1,10,positive

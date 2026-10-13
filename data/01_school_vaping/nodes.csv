@@ -1,0 +1,461 @@
+id,grade,age,gender,race_ethnicity,free_reduced_lunch,new_student,activity,team_club,household_vaper_smoker,completed_survey,vaped_30d,vape_days_30d,perceived_friends_vaping,gpa_band,phq2
+S337,9,15,female,Hispanic/Latino,0,0,music,band,0,1,0,0,4,D/F,1
+S437,9,15,male,Multiracial,0,0,athletics,baseball,0,1,0,0,2,B,0
+S235,9,14,female,White,1,0,none,none,1,1,0,0,1,D/F,0
+S141,9,14,male,White,0,0,none,none,0,1,0,0,3,A,0
+S290,9,14,male,White,0,0,STEM club,robotics,0,1,0,0,4,C,2
+S346,9,15,male,Hispanic/Latino,0,0,athletics,football,0,1,0,0,0,C,1
+S097,9,14,female,Hispanic/Latino,0,1,none,none,1,1,0,0,1,B,2
+S421,9,14,male,Hispanic/Latino,1,0,arts/theater,theater,0,1,0,0,1,C,2
+S363,9,15,female,Hispanic/Latino,0,0,arts/theater,theater,0,1,1,30,1,C,2
+S014,9,14,female,White,0,0,none,none,0,1,0,0,0,A,1
+S266,9,15,male,White,0,0,athletics,baseball,0,1,0,0,0,C,1
+S005,9,15,female,White,0,0,none,none,0,1,0,0,0,B,3
+S022,9,15,male,Asian,0,0,athletics,football,1,1,0,0,2,B,0
+S247,9,15,female,Native American,0,0,athletics,volleyball,0,1,1,20,1,C,2
+S432,9,15,male,Hispanic/Latino,1,1,none,none,0,1,0,0,1,A,1
+S347,9,15,male,Hispanic/Latino,0,0,athletics,baseball,1,1,0,0,0,A,0
+S204,9,15,male,Hispanic/Latino,0,0,none,none,0,1,0,0,3,C,1
+S238,9,14,female,White,0,0,athletics,soccer (girls),0,1,0,0,1,C,2
+S137,9,15,male,White,0,0,none,none,0,1,0,0,0,B,0
+S069,9,14,male,Hispanic/Latino,0,1,athletics,soccer (boys),0,1,0,0,2,A,0
+S418,9,14,male,Hispanic/Latino,1,0,music,choir,0,1,1,3,3,B,0
+S340,9,14,male,Native American,1,0,athletics,soccer (boys),0,1,0,0,3,A,1
+S174,9,14,male,Hispanic/Latino,1,0,none,none,,0,,,,,
+S033,9,14,male,White,0,0,music,band,1,1,1,23,4,D/F,4
+S308,9,15,male,White,1,0,none,none,0,1,0,0,0,A,1
+S443,9,14,male,Hispanic/Latino,0,0,none,none,1,1,0,0,1,C,2
+S064,9,15,female,Hispanic/Latino,0,0,none,none,0,1,0,0,1,D/F,6
+S132,9,14,female,Black,0,0,STEM club,robotics,0,1,0,0,1,C,0
+S171,9,15,male,Hispanic/Latino,1,0,none,none,0,1,0,0,0,C,3
+S304,9,14,female,Hispanic/Latino,0,0,arts/theater,theater,0,1,0,0,0,A,3
+S288,9,14,female,White,0,0,none,none,0,1,0,0,1,A,0
+S440,9,15,male,White,1,0,arts/theater,theater,1,1,0,0,2,D/F,1
+S040,9,14,female,Hispanic/Latino,0,0,none,none,0,1,0,0,2,C,3
+S435,9,15,male,Hispanic/Latino,0,0,none,none,0,1,1,2,3,D/F,5
+S336,9,15,male,White,0,0,athletics,basketball (boys),0,1,0,0,0,C,0
+S274,9,15,female,Black,1,0,music,band,0,1,0,0,2,B,0
+S356,9,15,male,Hispanic/Latino,1,0,none,none,1,1,0,0,2,B,1
+S270,9,15,male,White,0,0,none,none,0,1,0,0,0,A,0
+S339,9,14,female,Hispanic/Latino,0,0,STEM club,robotics,0,1,0,0,2,A,2
+S293,9,15,female,Hispanic/Latino,1,0,music,band,0,1,0,0,1,A,2
+S017,9,15,male,Hispanic/Latino,1,0,none,none,1,1,0,0,0,B,4
+S439,9,15,female,White,1,1,none,none,0,1,0,0,0,B,0
+S301,9,15,female,Multiracial,1,0,athletics,track & field,0,1,0,0,1,B,0
+S282,9,14,male,White,1,0,none,none,1,1,0,0,1,A,0
+S341,9,15,male,Hispanic/Latino,1,1,none,none,,0,,,,,
+S229,9,14,male,White,1,0,music,band,0,1,1,1,5,B,1
+S214,9,15,female,Hispanic/Latino,0,0,none,none,0,1,0,0,2,,0
+S050,9,14,male,Hispanic/Latino,0,0,arts/theater,art club,0,1,0,0,1,,1
+S101,9,15,male,Black,1,0,athletics,track & field,0,1,0,0,1,B,1
+S035,9,15,male,White,0,1,athletics,soccer (boys),0,1,0,0,0,C,5
+S041,9,15,female,White,1,0,none,none,0,1,0,0,0,A,2
+S376,9,15,male,White,1,0,none,none,0,1,0,0,2,C,2
+S094,9,15,female,Asian,0,0,none,none,0,1,0,0,1,A,3
+S291,9,15,female,Hispanic/Latino,1,0,none,none,1,1,0,0,1,C,0
+S096,9,14,male,Hispanic/Latino,1,0,athletics,track & field,0,1,0,0,1,B,0
+S099,9,15,female,Native American,1,0,none,none,0,1,0,0,0,C,3
+S063,9,15,nonbinary,White,1,0,STEM club,robotics,0,1,0,0,0,B,0
+S242,9,15,female,Hispanic/Latino,1,0,none,none,0,1,0,0,1,B,1
+S268,9,15,female,Hispanic/Latino,1,0,none,none,1,1,0,0,1,C,1
+S118,9,15,male,Hispanic/Latino,0,0,music,band,1,1,1,4,3,D/F,2
+S298,9,15,female,White,1,0,music,choir,,0,,,,,
+S429,9,15,female,Multiracial,1,0,music,band,0,1,0,0,1,C,0
+S343,9,15,female,White,1,0,STEM club,robotics,0,1,0,0,2,D/F,1
+S380,9,15,female,White,1,0,none,none,0,1,0,0,1,D/F,3
+S419,9,15,female,Hispanic/Latino,1,0,none,none,0,1,0,0,1,,0
+S414,9,15,female,Hispanic/Latino,1,0,STEM club,robotics,0,1,0,0,0,C,2
+S177,9,15,male,Hispanic/Latino,1,0,athletics,soccer (boys),0,1,0,0,2,B,0
+S382,9,15,female,White,1,1,music,band,0,1,0,0,0,C,5
+S277,9,15,female,White,1,0,arts/theater,theater,0,1,0,0,0,D/F,2
+S322,9,15,male,White,0,0,athletics,track & field,0,1,0,0,0,A,1
+S070,9,14,female,White,1,0,athletics,volleyball,0,1,0,0,2,B,2
+S234,9,14,female,Hispanic/Latino,0,0,athletics,track & field,0,1,0,0,2,D/F,2
+S199,9,15,female,Hispanic/Latino,1,0,athletics,volleyball,0,1,0,0,0,A,1
+S175,9,14,female,Hispanic/Latino,0,0,athletics,track & field,0,1,0,0,2,A,0
+S362,9,15,male,Hispanic/Latino,0,0,athletics,baseball,0,1,0,0,0,A,1
+S139,9,15,female,Hispanic/Latino,0,0,athletics,basketball (girls),0,1,0,0,0,D/F,4
+S438,9,14,male,Hispanic/Latino,0,0,athletics,baseball,,0,,,,,
+S143,9,15,female,White,1,0,arts/theater,theater,0,1,0,0,0,B,1
+S159,9,15,male,White,1,0,none,none,1,1,0,0,3,B,1
+S374,9,14,female,White,0,0,athletics,basketball (girls),0,1,0,0,1,B,0
+S305,9,15,male,Hispanic/Latino,0,0,athletics,basketball (boys),1,1,0,0,0,B,2
+S387,9,14,female,Black,1,0,arts/theater,art club,1,1,0,0,2,C,0
+S348,9,15,male,Hispanic/Latino,1,0,athletics,football,,0,,,,,
+S269,9,14,female,Hispanic/Latino,1,0,STEM club,robotics,0,1,0,0,3,A,4
+S267,9,14,female,Hispanic/Latino,1,0,none,none,0,1,0,0,1,A,3
+S250,9,14,male,White,0,0,athletics,football,,0,,,,,
+S400,9,14,female,Hispanic/Latino,0,0,arts/theater,theater,,0,,,,,
+S110,9,15,male,White,1,0,none,none,,0,,,,,
+S144,9,15,male,Hispanic/Latino,1,0,athletics,football,0,1,0,0,1,A,0
+S294,9,15,female,White,1,1,none,none,1,1,0,0,2,D/F,2
+S243,9,15,male,Hispanic/Latino,1,0,athletics,soccer (boys),0,1,0,0,1,B,2
+S315,9,15,male,Asian,0,0,athletics,football,1,1,0,0,0,,2
+S254,9,14,female,Hispanic/Latino,0,0,arts/theater,theater,1,1,0,0,1,A,4
+S319,9,15,female,Hispanic/Latino,0,0,none,none,,0,,,,,
+S016,9,15,female,Hispanic/Latino,0,0,none,none,1,1,0,0,0,C,2
+S191,9,14,female,Native American,1,0,music,band,0,1,0,0,0,A,1
+S354,9,14,male,Hispanic/Latino,1,0,athletics,track & field,0,1,0,0,1,C,1
+S020,9,15,female,Hispanic/Latino,1,0,music,choir,1,1,0,0,1,B,1
+S090,9,14,male,Native American,0,0,none,none,0,1,0,0,2,C,4
+S373,9,15,female,White,1,0,athletics,basketball (girls),0,1,0,0,2,A,1
+S003,9,15,female,White,1,0,athletics,volleyball,1,1,0,0,1,A,1
+S236,9,15,male,Hispanic/Latino,1,0,none,none,0,1,0,0,2,B,2
+S320,9,15,female,Hispanic/Latino,1,0,arts/theater,art club,0,1,0,0,1,B,1
+S145,9,14,nonbinary,White,0,0,athletics,track & field,0,1,0,0,2,B,3
+S423,9,14,male,Multiracial,1,0,STEM club,robotics,0,1,0,0,3,B,2
+S450,9,15,male,White,0,0,none,none,0,1,0,0,0,D/F,1
+S433,9,15,male,Hispanic/Latino,0,0,athletics,football,1,1,0,0,0,C,6
+S307,9,14,female,Hispanic/Latino,0,0,athletics,volleyball,0,1,0,0,2,C,2
+S044,9,15,female,White,1,1,none,none,0,1,0,0,1,B,1
+S446,9,14,male,Multiracial,0,0,athletics,basketball (boys),0,1,0,0,0,A,0
+S019,9,14,female,Black,1,0,none,none,0,1,0,0,0,B,0
+S332,9,15,female,Hispanic/Latino,1,0,music,band,1,1,1,27,4,,3
+S155,9,14,female,White,1,0,athletics,softball,0,1,0,0,1,B,0
+S295,9,14,female,Hispanic/Latino,0,0,music,band,0,1,0,0,0,A,1
+S431,9,14,female,White,0,0,athletics,softball,0,1,0,0,2,B,2
+S327,9,15,female,Native American,0,0,athletics,track & field,0,1,0,0,0,A,2
+S405,9,14,female,Hispanic/Latino,1,0,none,none,0,1,0,0,3,B,1
+S420,9,15,male,Hispanic/Latino,0,0,athletics,basketball (boys),0,1,0,0,0,B,1
+S318,9,14,female,Hispanic/Latino,1,0,none,none,0,1,0,0,0,D/F,1
+S149,9,15,male,Hispanic/Latino,0,0,athletics,basketball (boys),0,1,0,0,1,C,3
+S190,9,14,female,Black,0,0,athletics,basketball (girls),0,1,0,0,1,B,1
+S009,9,15,female,Hispanic/Latino,0,0,none,none,,0,,,,,
+S010,9,15,female,Hispanic/Latino,0,0,athletics,basketball (girls),0,1,0,0,0,B,1
+S422,9,14,female,Hispanic/Latino,1,0,none,none,0,1,0,0,0,C,3
+S371,9,14,male,Native American,1,0,athletics,football,0,1,0,0,2,B,4
+S015,10,16,male,Asian,0,1,none,none,0,1,0,0,1,C,1
+S369,10,16,female,White,0,0,arts/theater,theater,1,1,0,0,1,B,0
+S226,10,16,female,White,1,0,none,none,0,1,0,0,0,A,3
+S310,10,15,male,Hispanic/Latino,0,0,athletics,football,0,1,0,0,1,C,0
+S161,10,16,female,Black,1,0,music,band,1,1,1,14,1,A,3
+S182,10,16,male,White,1,0,athletics,soccer (boys),1,1,0,0,1,C,0
+S222,10,16,female,Hispanic/Latino,0,0,arts/theater,theater,0,1,1,29,1,C,2
+S135,10,16,male,Hispanic/Latino,0,0,athletics,soccer (boys),0,1,0,0,0,A,2
+S221,10,15,female,White,1,0,arts/theater,theater,1,1,1,14,2,C,0
+S092,10,15,female,Multiracial,0,0,none,none,0,1,0,0,1,A,1
+S284,10,15,male,Multiracial,0,0,none,none,0,1,0,0,1,D/F,0
+S183,10,16,female,Hispanic/Latino,0,0,none,none,0,1,0,0,1,C,1
+S061,10,16,female,White,0,0,music,band,0,1,1,24,2,B,1
+S344,10,16,female,White,0,0,STEM club,robotics,0,1,0,0,2,C,0
+S357,10,16,male,White,1,0,none,none,0,1,1,27,1,D/F,2
+S077,10,16,male,Hispanic/Latino,1,0,music,band,0,1,0,0,2,B,0
+S317,10,16,male,Hispanic/Latino,1,0,athletics,soccer (boys),0,1,0,0,0,B,1
+S023,10,15,male,Hispanic/Latino,0,0,athletics,soccer (boys),0,1,0,0,0,A,0
+S078,10,16,female,White,1,0,none,none,0,1,0,0,0,C,0
+S306,10,16,female,Hispanic/Latino,0,0,none,none,0,1,0,0,1,C,1
+S178,10,16,female,Hispanic/Latino,1,0,arts/theater,theater,,0,,,,,
+S375,10,16,male,Black,1,0,none,none,0,1,0,0,2,D/F,4
+S037,10,16,female,White,0,0,STEM club,robotics,0,1,1,3,1,D/F,0
+S388,10,16,nonbinary,White,1,0,STEM club,robotics,0,1,0,0,3,C,3
+S100,10,15,female,Native American,1,1,none,none,0,1,0,0,1,B,1
+S248,10,17,male,White,0,0,none,none,0,1,0,0,0,C,1
+S261,10,15,female,White,1,0,athletics,soccer (girls),0,1,0,0,0,C,2
+S458,10,15,female,White,1,0,arts/theater,theater,1,1,0,0,1,A,4
+S076,10,15,male,White,0,0,none,none,1,1,0,0,3,B,1
+S230,10,15,male,Hispanic/Latino,0,0,athletics,basketball (boys),0,1,0,0,1,,0
+S123,10,15,female,Asian,0,0,athletics,volleyball,1,1,0,0,0,C,0
+S202,10,16,male,White,1,0,none,none,0,1,0,0,0,B,0
+S237,10,16,female,White,0,0,music,band,0,1,0,0,0,C,1
+S127,10,15,male,Hispanic/Latino,0,0,none,none,0,1,0,0,0,B,0
+S389,10,16,female,White,0,0,arts/theater,theater,,0,,,,,
+S083,10,16,female,Black,0,0,music,band,0,1,0,0,0,B,1
+S300,10,16,female,White,1,0,athletics,volleyball,0,1,0,0,0,B,2
+S355,10,16,female,Hispanic/Latino,0,0,STEM club,robotics,1,1,0,0,0,D/F,0
+S124,10,16,female,White,0,0,music,choir,0,1,0,0,0,A,0
+S075,10,16,female,White,1,0,music,choir,0,1,0,0,1,C,1
+S364,10,15,male,Hispanic/Latino,1,0,none,none,0,1,1,22,1,D/F,1
+S150,10,15,female,Hispanic/Latino,0,0,music,band,1,1,1,20,5,B,4
+S210,10,16,nonbinary,Hispanic/Latino,1,0,athletics,track & field,0,1,0,0,0,A,0
+S251,10,16,male,Hispanic/Latino,0,0,athletics,baseball,0,1,0,0,1,B,0
+S081,10,16,male,Hispanic/Latino,1,0,none,none,,0,,,,,
+S106,10,15,female,Hispanic/Latino,0,0,none,none,0,1,0,0,1,A,1
+S263,10,15,male,Multiracial,0,0,music,choir,1,1,1,5,1,C,4
+S158,10,16,male,White,0,0,none,none,0,1,0,0,1,A,1
+S030,10,16,female,Hispanic/Latino,1,0,athletics,basketball (girls),1,1,0,0,1,C,2
+S068,10,15,male,White,1,0,none,none,0,1,0,0,3,B,1
+S385,10,15,female,Hispanic/Latino,1,0,athletics,basketball (girls),0,1,0,0,3,D/F,1
+S113,10,16,female,Hispanic/Latino,0,0,STEM club,robotics,0,1,0,0,3,A,0
+S184,10,15,male,Hispanic/Latino,1,0,none,none,0,1,0,0,0,C,1
+S351,10,16,male,Native American,0,0,none,none,0,1,0,0,0,C,0
+S379,10,16,male,White,1,0,music,band,1,1,0,0,0,B,1
+S203,10,16,male,White,1,0,none,none,0,1,0,0,3,A,0
+S411,10,16,female,Hispanic/Latino,0,0,athletics,soccer (girls),0,1,0,0,1,C,1
+S105,10,16,female,White,0,0,athletics,soccer (girls),0,1,0,0,1,B,2
+S442,10,15,female,Hispanic/Latino,1,0,none,none,0,1,0,0,1,C,0
+S408,10,15,male,White,0,0,music,band,0,1,0,0,3,D/F,2
+S406,10,15,nonbinary,Hispanic/Latino,1,0,athletics,track & field,0,1,0,0,1,B,1
+S390,10,16,male,Black,1,0,none,none,0,1,0,0,0,B,2
+S286,10,16,female,White,1,0,STEM club,robotics,0,1,0,0,1,C,3
+S245,10,16,female,White,0,0,none,none,0,1,0,0,0,A,3
+S324,10,16,female,White,0,0,athletics,track & field,0,1,1,1,1,B,2
+S213,10,15,female,White,0,0,none,none,0,1,0,0,1,D/F,1
+S007,10,15,male,Hispanic/Latino,1,1,arts/theater,art club,0,1,1,15,3,C,2
+S071,10,16,female,White,0,0,athletics,volleyball,1,1,0,0,0,B,5
+S331,10,16,male,Hispanic/Latino,0,0,athletics,football,0,1,0,0,0,B,0
+S060,10,15,female,White,1,0,none,none,0,1,0,0,1,C,2
+S085,10,15,female,White,0,0,athletics,volleyball,0,1,0,0,0,C,0
+S119,10,16,male,White,0,0,none,none,0,1,0,0,1,A,3
+S370,10,16,male,White,0,0,STEM club,robotics,0,1,0,0,2,B,0
+S392,10,15,female,Asian,0,0,athletics,volleyball,1,1,0,0,0,C,2
+S047,10,16,female,Hispanic/Latino,0,0,none,none,0,1,0,0,1,B,1
+S402,10,16,male,Hispanic/Latino,0,0,athletics,track & field,0,1,0,0,0,C,2
+S136,10,15,female,Black,1,0,athletics,volleyball,0,1,0,0,0,C,0
+S297,10,16,female,White,1,0,none,none,0,1,0,0,0,C,0
+S032,10,16,female,White,1,0,arts/theater,theater,0,1,0,0,0,D/F,2
+S383,10,15,female,Hispanic/Latino,0,0,none,none,0,1,0,0,0,D/F,0
+S441,10,16,male,White,1,0,athletics,soccer (boys),0,1,0,0,2,A,2
+S180,10,16,male,Native American,1,0,none,none,0,1,0,0,1,D/F,0
+S326,10,15,female,White,0,0,athletics,softball,0,1,0,0,0,A,0
+S117,10,15,male,Native American,0,0,music,band,0,1,0,0,0,B,2
+S338,10,15,female,Hispanic/Latino,0,0,none,none,0,1,0,0,2,C,0
+S452,10,15,female,Hispanic/Latino,0,0,arts/theater,theater,0,1,0,0,0,A,2
+S224,10,15,male,Multiracial,1,0,none,none,0,1,0,0,0,A,2
+S086,10,15,male,White,0,0,none,none,0,1,0,0,2,D/F,1
+S074,10,16,male,White,0,0,none,none,0,1,0,0,3,C,1
+S128,10,16,male,White,0,0,none,none,0,1,0,0,0,D/F,0
+S046,10,15,male,Native American,0,0,athletics,soccer (boys),0,1,0,0,0,C,0
+S258,10,15,male,Hispanic/Latino,0,0,music,choir,0,1,0,0,1,A,0
+S130,10,15,male,Hispanic/Latino,1,0,athletics,football,0,1,0,0,0,A,0
+S194,10,16,female,White,0,0,athletics,basketball (girls),0,1,0,0,0,A,5
+S024,10,17,female,White,0,0,none,none,0,1,0,0,3,B,2
+S333,10,16,male,Hispanic/Latino,1,0,none,none,0,1,0,0,1,B,1
+S052,10,15,female,Hispanic/Latino,0,0,athletics,soccer (girls),0,1,0,0,2,A,0
+S255,10,15,female,Hispanic/Latino,1,0,STEM club,robotics,0,1,1,5,3,B,3
+S220,10,16,male,Asian,0,0,none,none,1,1,1,27,2,C,2
+S436,10,15,female,Native American,0,0,none,none,0,1,0,0,0,B,1
+S215,10,16,male,Multiracial,1,0,none,none,0,1,0,0,4,C,1
+S197,10,15,female,Hispanic/Latino,0,0,athletics,softball,0,1,0,0,1,B,2
+S391,10,15,male,White,0,0,athletics,soccer (boys),0,1,0,0,0,C,2
+S126,10,15,male,Hispanic/Latino,0,1,athletics,football,1,1,0,0,1,A,0
+S166,10,16,female,White,0,0,athletics,volleyball,0,1,0,0,0,C,0
+S114,10,15,female,White,0,0,none,none,0,1,0,0,1,B,1
+S231,10,16,female,White,0,0,athletics,soccer (girls),0,1,0,0,0,A,1
+S265,10,15,female,Hispanic/Latino,1,0,athletics,soccer (girls),0,1,0,0,0,,1
+S227,10,15,male,Hispanic/Latino,1,0,athletics,football,0,1,0,0,1,B,1
+S195,10,16,male,White,0,0,arts/theater,theater,0,1,0,0,2,A,0
+S142,10,16,female,Asian,1,0,none,none,0,1,0,0,0,A,0
+S424,10,15,female,Hispanic/Latino,0,0,none,none,0,1,0,0,2,A,1
+S381,10,16,male,White,0,0,athletics,football,0,1,0,0,0,C,2
+S089,10,16,female,Native American,1,0,arts/theater,theater,0,1,0,0,1,D/F,1
+S170,10,16,female,Hispanic/Latino,1,0,athletics,soccer (girls),0,1,0,0,0,A,2
+S168,10,15,male,Hispanic/Latino,1,0,none,none,1,1,1,17,3,C,3
+S165,10,15,male,Hispanic/Latino,1,1,none,none,0,1,0,0,0,,3
+S445,10,16,male,White,0,0,STEM club,robotics,0,1,0,0,2,C,0
+S365,11,17,male,Hispanic/Latino,1,0,athletics,track & field,,0,,,,,
+S457,11,16,male,Hispanic/Latino,1,0,athletics,football,0,1,0,0,0,D/F,3
+S413,11,16,male,Hispanic/Latino,0,0,STEM club,robotics,0,1,0,0,2,D/F,5
+S212,11,16,nonbinary,Hispanic/Latino,0,0,athletics,track & field,1,1,0,0,1,B,0
+S186,11,17,male,Hispanic/Latino,0,0,athletics,football,0,1,0,0,0,B,1
+S109,11,16,female,Hispanic/Latino,0,0,music,band,0,1,0,0,0,C,2
+S172,11,17,male,White,0,0,none,none,0,1,0,0,3,D/F,2
+S329,11,17,male,White,0,0,none,none,0,1,0,0,1,C,1
+S312,11,16,female,White,1,0,none,none,0,1,0,0,1,B,1
+S378,11,17,female,White,0,0,athletics,basketball (girls),0,1,0,0,1,B,0
+S352,11,17,female,Hispanic/Latino,1,1,none,none,1,1,0,0,0,C,3
+S253,11,16,female,White,1,0,none,none,,0,,,,,
+S082,11,17,male,Hispanic/Latino,1,0,STEM club,robotics,0,1,1,5,1,B,3
+S321,11,17,male,White,1,0,music,band,0,1,0,0,0,A,2
+S311,11,17,male,Hispanic/Latino,1,0,music,band,0,1,0,0,0,B,1
+S409,11,16,female,Hispanic/Latino,1,0,none,none,1,1,0,0,1,C,1
+S325,11,17,male,White,1,0,music,band,0,1,0,0,0,B,1
+S206,11,17,male,Hispanic/Latino,0,0,athletics,baseball,0,1,0,0,0,A,0
+S278,11,16,male,Hispanic/Latino,0,0,none,none,,0,,,,,
+S225,11,16,male,Hispanic/Latino,1,0,music,choir,0,1,0,0,1,C,1
+S366,11,17,female,Asian,1,0,none,none,,0,,,,,
+S038,11,16,male,Hispanic/Latino,1,0,arts/theater,theater,0,1,0,0,1,A,1
+S055,11,16,male,White,1,0,athletics,football,0,1,0,0,2,B,2
+S393,11,16,female,Hispanic/Latino,0,0,music,choir,1,1,0,0,0,,1
+S018,11,16,male,Hispanic/Latino,1,0,STEM club,robotics,0,1,0,0,2,D/F,1
+S187,11,17,male,White,0,0,arts/theater,theater,0,1,0,0,1,D/F,1
+S067,11,17,male,White,1,0,athletics,soccer (boys),0,1,0,0,0,C,1
+S316,11,16,male,White,1,0,none,none,0,1,0,0,0,A,1
+S079,11,17,male,White,0,0,none,none,1,1,0,0,3,A,1
+S104,11,16,male,White,0,0,arts/theater,art club,1,1,0,0,1,D/F,5
+S088,11,17,female,Hispanic/Latino,1,0,none,none,0,1,0,0,0,A,0
+S415,11,16,female,White,1,0,athletics,track & field,0,1,0,0,3,C,1
+S115,11,16,female,Hispanic/Latino,1,1,none,none,0,1,1,10,5,C,4
+S397,11,16,male,Hispanic/Latino,0,0,athletics,soccer (boys),0,1,0,0,0,D/F,1
+S042,11,16,female,Hispanic/Latino,0,0,STEM club,robotics,0,1,0,0,3,B,0
+S426,11,17,male,White,0,0,music,band,0,1,0,0,0,A,0
+S262,11,17,female,White,1,0,arts/theater,theater,0,1,0,0,0,A,2
+S359,11,16,male,Hispanic/Latino,1,0,athletics,baseball,0,1,0,0,0,C,0
+S091,11,17,female,Hispanic/Latino,0,0,athletics,soccer (girls),0,1,0,0,1,D/F,0
+S189,11,17,male,White,0,0,none,none,0,1,0,0,2,D/F,1
+S062,11,17,male,Hispanic/Latino,1,0,none,none,1,1,1,2,3,C,1
+S240,11,16,female,Hispanic/Latino,1,0,athletics,basketball (girls),0,1,0,0,0,B,5
+S140,11,16,male,Hispanic/Latino,1,0,music,choir,0,1,0,0,2,C,0
+S410,11,17,female,Hispanic/Latino,0,0,none,none,0,1,0,0,1,B,2
+S087,11,17,female,Hispanic/Latino,0,0,athletics,track & field,0,1,0,0,1,,2
+S283,11,17,female,Multiracial,0,0,none,none,0,1,0,0,0,C,3
+S057,11,17,male,Hispanic/Latino,0,0,music,choir,0,1,0,0,2,C,1
+S151,11,16,female,Asian,0,0,none,none,0,1,0,0,3,D/F,1
+S416,11,17,male,Native American,1,0,none,none,0,1,0,0,0,C,2
+S121,11,17,female,Hispanic/Latino,0,0,none,none,1,1,0,0,1,D/F,2
+S065,11,17,male,White,0,0,athletics,football,0,1,0,0,0,A,0
+S313,11,17,male,Hispanic/Latino,1,0,none,none,0,1,0,0,0,B,0
+S080,11,17,female,Native American,0,0,STEM club,robotics,1,1,1,18,5,D/F,2
+S160,11,17,male,White,0,0,music,choir,0,1,0,0,2,D/F,2
+S002,11,16,male,Hispanic/Latino,1,0,music,band,0,1,0,0,1,B,1
+S138,11,17,male,Native American,1,0,athletics,football,0,1,0,0,1,B,0
+S403,11,17,female,Hispanic/Latino,1,0,STEM club,robotics,0,1,1,20,3,A,3
+S073,11,17,female,Hispanic/Latino,0,0,STEM club,robotics,0,1,0,0,1,B,1
+S164,11,17,male,Hispanic/Latino,0,0,none,none,0,1,0,0,0,A,1
+S120,11,16,nonbinary,Hispanic/Latino,1,0,athletics,track & field,0,1,0,0,0,A,0
+S272,11,17,female,White,0,1,music,band,,0,,,,,
+S460,11,16,female,Hispanic/Latino,0,0,athletics,basketball (girls),0,1,0,0,0,B,1
+S122,11,18,male,White,0,0,athletics,track & field,0,1,0,0,1,B,1
+S396,11,16,male,Hispanic/Latino,1,0,arts/theater,theater,0,1,0,0,1,A,1
+S176,11,17,female,White,1,0,none,none,0,1,0,0,0,C,1
+S111,11,17,female,Multiracial,0,0,athletics,basketball (girls),0,1,1,2,0,D/F,3
+S279,11,17,male,White,1,1,athletics,basketball (boys),0,1,0,0,0,D/F,3
+S455,11,16,male,Hispanic/Latino,0,0,athletics,basketball (boys),1,1,0,0,0,A,1
+S427,11,16,male,Black,0,0,STEM club,robotics,0,1,0,0,0,C,2
+S179,11,16,male,Hispanic/Latino,0,0,none,none,0,1,1,20,3,C,1
+S107,11,16,male,Hispanic/Latino,0,0,none,none,0,1,0,0,2,B,1
+S246,11,16,female,White,1,0,athletics,volleyball,0,1,0,0,0,C,3
+S275,11,17,male,Native American,0,0,athletics,basketball (boys),0,1,0,0,0,D/F,0
+S217,11,17,nonbinary,White,1,1,arts/theater,art club,0,1,0,0,0,D/F,0
+S342,11,17,female,Hispanic/Latino,0,0,none,none,0,1,0,0,0,B,1
+S027,11,17,male,Hispanic/Latino,0,0,athletics,soccer (boys),0,1,0,0,0,D/F,2
+S056,11,16,male,Multiracial,1,0,music,choir,0,1,0,0,3,D/F,0
+S285,11,18,male,Native American,1,0,athletics,soccer (boys),0,1,0,0,1,B,1
+S059,11,17,female,White,0,0,none,none,0,1,1,2,3,B,1
+S006,11,17,male,Black,0,0,music,band,0,1,0,0,1,D/F,0
+S241,11,16,female,White,1,0,none,none,,0,,,,,
+S453,11,16,male,White,0,0,athletics,basketball (boys),0,1,0,0,3,A,3
+S129,11,17,male,White,0,0,music,choir,0,1,0,0,3,D/F,1
+S193,11,17,female,White,0,0,athletics,basketball (girls),0,1,0,0,1,D/F,2
+S198,11,16,female,White,0,0,athletics,soccer (girls),0,1,0,0,0,B,4
+S012,11,18,male,Black,0,0,none,none,0,1,0,0,0,D/F,0
+S133,11,16,male,Hispanic/Latino,1,0,athletics,football,0,1,0,0,0,C,0
+S200,11,16,female,Hispanic/Latino,0,0,athletics,track & field,0,1,0,0,1,A,2
+S049,11,17,male,White,0,0,arts/theater,art club,0,1,0,0,1,C,1
+S412,11,16,female,Hispanic/Latino,1,0,athletics,basketball (girls),1,1,0,0,0,B,1
+S349,11,16,nonbinary,Hispanic/Latino,1,0,none,none,0,1,0,0,0,A,0
+S434,11,17,female,Hispanic/Latino,1,1,none,none,0,1,1,30,1,D/F,2
+S271,11,16,male,Hispanic/Latino,0,0,athletics,basketball (boys),0,1,0,0,0,C,0
+S157,11,16,male,Hispanic/Latino,0,0,none,none,0,1,0,0,1,A,1
+S218,11,17,female,Hispanic/Latino,0,0,none,none,0,1,0,0,1,C,1
+S147,11,16,male,White,1,0,none,none,0,1,0,0,2,D/F,1
+S444,11,17,female,Black,0,0,music,band,0,1,0,0,2,D/F,2
+S249,11,16,female,Hispanic/Latino,1,0,athletics,track & field,1,1,0,0,0,,1
+S456,11,16,male,Hispanic/Latino,0,0,athletics,football,0,1,0,0,1,A,0
+S148,11,16,male,White,0,0,athletics,football,1,1,0,0,0,B,2
+S407,11,17,male,Hispanic/Latino,1,0,none,none,0,1,0,0,2,C,0
+S163,11,16,female,White,0,0,athletics,soccer (girls),0,1,0,0,0,A,2
+S093,11,16,male,Black,0,0,none,none,1,1,0,0,2,C,1
+S368,11,17,male,White,0,0,none,none,0,1,0,0,1,A,1
+S232,11,17,male,White,1,0,athletics,football,0,1,0,0,1,B,0
+S125,11,16,male,White,0,0,athletics,football,1,1,0,0,0,A,0
+S021,11,17,female,White,0,0,athletics,softball,1,1,0,0,0,B,1
+S207,11,18,female,Hispanic/Latino,1,0,STEM club,robotics,0,1,0,0,3,D/F,4
+S112,11,16,female,Hispanic/Latino,0,0,athletics,track & field,0,1,0,0,0,B,1
+S328,11,17,female,Multiracial,0,0,athletics,soccer (girls),0,1,0,0,1,B,1
+S384,11,16,male,White,0,1,none,none,1,1,0,0,2,B,1
+S004,11,17,male,Asian,1,0,none,none,0,1,0,0,0,D/F,2
+S309,12,18,female,Hispanic/Latino,1,0,none,none,1,1,1,2,3,D/F,0
+S154,12,18,female,Native American,1,0,athletics,softball,0,1,0,0,4,B,3
+S353,12,18,female,Hispanic/Latino,1,0,none,none,1,1,1,1,5,D/F,4
+S058,12,18,male,White,0,0,none,none,0,1,0,0,2,C,1
+S281,12,18,female,Hispanic/Latino,0,1,none,none,0,1,0,0,2,D/F,0
+S299,12,18,male,Hispanic/Latino,0,0,music,choir,0,1,0,0,1,C,0
+S103,12,18,female,Hispanic/Latino,1,1,none,none,0,1,0,0,2,A,1
+S417,12,18,female,White,1,0,none,none,0,1,1,25,1,C,1
+S398,12,17,female,Hispanic/Latino,1,0,none,none,0,1,0,0,1,A,3
+S260,12,18,female,Black,1,0,none,none,1,1,1,25,4,D/F,2
+S314,12,17,female,White,0,0,music,choir,0,1,0,0,2,A,1
+S404,12,18,female,White,1,0,athletics,volleyball,0,1,0,0,2,C,1
+S252,12,18,male,White,0,0,music,band,0,1,0,0,0,A,3
+S289,12,18,female,Hispanic/Latino,0,0,none,none,1,1,0,0,1,D/F,1
+S072,12,17,male,Hispanic/Latino,1,0,athletics,baseball,0,1,0,0,1,C,1
+S292,12,17,female,Black,1,1,none,none,0,1,0,0,0,D/F,0
+S134,12,17,male,Hispanic/Latino,1,0,athletics,track & field,0,1,0,0,0,D/F,3
+S188,12,18,female,Hispanic/Latino,0,0,athletics,soccer (girls),,0,,,,,
+S054,12,18,male,White,0,0,athletics,basketball (boys),1,1,0,0,2,C,1
+S449,12,17,female,White,0,0,arts/theater,theater,0,1,0,0,5,D/F,3
+S335,12,17,female,Hispanic/Latino,1,0,athletics,volleyball,0,1,0,0,1,A,1
+S196,12,17,male,Hispanic/Latino,0,0,athletics,football,1,1,1,20,0,B,1
+S011,12,17,male,White,0,0,none,none,0,1,1,3,1,D/F,1
+S425,12,17,male,White,1,0,none,none,0,1,0,0,2,B,1
+S257,12,18,male,Hispanic/Latino,0,0,none,none,1,1,0,0,4,A,0
+S303,12,18,male,White,1,0,athletics,soccer (boys),0,1,0,0,2,A,3
+S361,12,17,female,Hispanic/Latino,1,0,none,none,0,1,1,6,3,B,0
+S395,12,18,female,Hispanic/Latino,0,0,none,none,0,1,1,4,2,D/F,0
+S358,12,18,male,Multiracial,1,0,none,none,1,1,0,0,1,B,2
+S008,12,18,male,White,1,0,none,none,0,1,0,0,1,A,1
+S296,12,17,male,Native American,1,0,none,none,0,1,0,0,2,B,1
+S043,12,17,male,Hispanic/Latino,1,0,athletics,soccer (boys),0,1,0,0,1,B,1
+S048,12,17,female,Hispanic/Latino,1,0,athletics,softball,0,1,0,0,2,A,4
+S399,12,18,male,Hispanic/Latino,1,0,STEM club,robotics,1,1,1,5,3,D/F,3
+S169,12,18,male,White,0,0,athletics,basketball (boys),0,1,0,0,0,,2
+S276,12,18,female,Multiracial,1,0,music,band,1,1,0,0,2,B,1
+S239,12,18,female,Hispanic/Latino,0,0,athletics,volleyball,0,1,0,0,1,B,2
+S219,12,18,male,Asian,0,0,athletics,football,1,1,0,0,2,A,0
+S095,12,18,male,Asian,1,0,athletics,basketball (boys),0,1,0,0,0,B,0
+S031,12,18,female,Hispanic/Latino,0,0,athletics,volleyball,0,1,0,0,1,C,3
+S280,12,17,female,Hispanic/Latino,0,0,music,band,0,1,0,0,0,B,1
+S053,12,18,female,Multiracial,0,0,none,none,0,1,0,0,0,B,1
+S211,12,18,nonbinary,Hispanic/Latino,0,0,athletics,track & field,,0,,,,,
+S394,12,17,male,White,0,0,none,none,0,1,0,0,1,B,0
+S430,12,17,female,Hispanic/Latino,0,0,athletics,track & field,1,1,0,0,3,B,3
+S156,12,18,male,White,0,0,athletics,football,0,1,0,0,2,A,0
+S102,12,18,female,Hispanic/Latino,0,0,none,none,0,1,0,0,3,B,2
+S181,12,18,male,White,1,0,athletics,track & field,1,1,0,0,1,B,1
+S131,12,17,male,White,0,1,none,none,0,1,0,0,0,B,0
+S029,12,18,female,Asian,0,0,athletics,basketball (girls),0,1,0,0,2,A,1
+S345,12,18,female,Hispanic/Latino,1,0,athletics,soccer (girls),0,1,0,0,1,B,2
+S233,12,18,male,White,1,0,none,none,,0,,,,,
+S116,12,17,female,White,1,0,none,none,1,1,0,0,0,C,1
+S302,12,17,female,Native American,0,0,none,none,0,1,0,0,1,B,0
+S428,12,17,male,Hispanic/Latino,0,0,none,none,0,1,0,0,0,B,3
+S013,12,17,female,White,0,0,music,choir,1,1,1,4,5,B,3
+S108,12,17,male,Black,0,0,none,none,0,1,1,1,3,D/F,2
+S039,12,18,female,White,1,0,none,none,0,1,0,0,0,B,2
+S273,12,17,female,Hispanic/Latino,1,0,athletics,soccer (girls),0,1,0,0,2,B,1
+S051,12,18,male,White,0,0,athletics,basketball (boys),0,1,0,0,1,B,1
+S084,12,18,male,Native American,0,0,arts/theater,theater,0,1,0,0,1,B,3
+S208,12,17,female,White,0,0,none,none,0,1,0,0,1,C,1
+S372,12,18,female,White,0,0,none,none,1,1,1,29,2,,2
+S228,12,17,female,White,1,0,athletics,volleyball,0,1,0,0,5,C,2
+S025,12,18,female,Multiracial,0,0,none,none,0,1,1,13,4,D/F,2
+S034,12,17,nonbinary,Hispanic/Latino,1,0,music,band,0,1,0,0,2,A,1
+S256,12,18,female,White,0,0,athletics,softball,0,1,1,26,3,B,2
+S223,12,18,female,White,1,0,music,band,0,1,0,0,2,C,2
+S350,12,18,female,White,0,0,athletics,volleyball,0,1,0,0,1,A,5
+S026,12,18,female,White,1,0,none,none,0,1,0,0,0,C,1
+S001,12,18,female,Hispanic/Latino,1,0,STEM club,robotics,0,1,0,0,0,B,2
+S401,12,18,female,Black,0,0,arts/theater,theater,1,1,1,3,3,D/F,4
+S045,12,18,male,Hispanic/Latino,0,0,none,none,,0,,,,,
+S454,12,17,female,Hispanic/Latino,1,0,arts/theater,art club,0,1,0,0,0,A,1
+S330,12,17,female,Hispanic/Latino,0,0,music,choir,1,1,0,0,1,B,3
+S167,12,17,male,White,1,0,athletics,basketball (boys),0,1,0,0,0,D/F,3
+S209,12,17,female,White,1,0,athletics,softball,0,1,0,0,0,C,1
+S185,12,17,male,Multiracial,0,0,athletics,football,0,1,0,0,0,D/F,1
+S323,12,17,female,Hispanic/Latino,0,0,athletics,track & field,0,1,0,0,1,B,3
+S244,12,17,male,Hispanic/Latino,1,0,none,none,0,1,1,9,3,D/F,0
+S447,12,17,male,Hispanic/Latino,0,0,none,none,1,1,1,3,3,C,1
+S153,12,18,female,White,1,0,athletics,softball,0,1,0,0,1,A,0
+S028,12,18,female,Hispanic/Latino,1,0,athletics,soccer (girls),0,1,0,0,0,B,0
+S098,12,18,male,Hispanic/Latino,1,0,athletics,football,0,1,0,0,0,C,1
+S205,12,18,female,Hispanic/Latino,0,0,none,none,0,1,0,0,2,B,2
+S334,12,17,male,Black,1,0,athletics,football,0,1,0,0,0,A,1
+S264,12,18,female,Hispanic/Latino,0,0,none,none,1,1,1,28,2,D/F,4
+S377,12,18,male,White,0,0,athletics,baseball,0,1,0,0,2,C,3
+S066,12,17,male,White,1,0,none,none,0,1,1,4,3,D/F,1
+S459,12,17,female,White,0,0,none,none,0,1,0,0,1,C,1
+S367,12,18,male,Black,1,0,athletics,football,0,1,0,0,2,B,1
+S036,12,17,female,White,0,0,athletics,volleyball,0,1,0,0,0,B,0
+S201,12,17,male,White,1,0,none,none,0,1,0,0,2,D/F,1
+S259,12,18,female,White,0,0,athletics,volleyball,0,1,1,3,5,,1
+S173,12,17,female,White,1,0,athletics,volleyball,0,1,1,26,2,B,0
+S146,12,17,male,Hispanic/Latino,1,0,music,choir,0,1,0,0,1,A,2
+S386,12,18,male,White,0,0,music,band,0,1,0,0,2,A,0
+S451,12,17,male,White,0,0,none,none,1,1,0,0,2,D/F,0
+S152,12,18,male,Hispanic/Latino,1,0,none,none,0,1,1,18,5,D/F,0
+S287,12,17,male,Hispanic/Latino,1,0,athletics,track & field,1,1,0,0,0,A,1
+S360,12,17,male,Hispanic/Latino,0,0,none,none,0,1,1,3,2,B,2
+S162,12,17,male,White,0,0,athletics,basketball (boys),0,1,0,0,2,C,1
+S192,12,17,male,White,1,0,STEM club,robotics,0,1,0,0,2,A,1
+S216,12,18,male,Hispanic/Latino,0,0,none,none,0,1,0,0,2,D/F,1
+S448,12,17,female,Hispanic/Latino,0,0,athletics,soccer (girls),0,1,0,0,0,C,1

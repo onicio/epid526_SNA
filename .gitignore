@@ -1,0 +1,18 @@
+# outputs created by the walkthroughs (they can be created again)
+outputs/
+*.html
+*_files/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# system
+.DS_Store
+Thumbs.db
